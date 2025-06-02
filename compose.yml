@@ -3,7 +3,7 @@ services:
       image: postgres:latest
       container_name: db
       volumes:
-        - dbidata:/var/lib/postgresql/data
+        - db-data:/var/lib/postgresql/data
       ports:
         -  "5432"
       environment:
