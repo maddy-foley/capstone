@@ -1,9 +1,11 @@
 import json
 
-file = open('data/json/api-output/test-2.json','r')
+file = open('data/json/api-output/art.json','r')
 content = json.load(file)
-items = content[0]['shoes']['items']
-for item in items:
-   print(item['snippet'])
+for c in content:
+    for key in c:
+
+        items = c[key]['items']
+        print(items)
     # print(item['display'])
     # print(item['metadata'])
