@@ -68,5 +68,7 @@ def get_all():
 #     file.close()
 
 # print(json.load(file))
-get_all()
+
+# use to run pull requests
+# get_all()
 #
