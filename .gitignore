@@ -1,3 +1,4 @@
 secret.js
 .env
 data/json/api-output
+*__pycache__
