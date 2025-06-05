@@ -17,11 +17,11 @@ class CategoryModel(BaseModel):
     id: Mapped[int] = mapped_column(primary_key=True)
     name: Mapped[str] = mapped_column(String(30))
     search_items: Mapped[List["SearchQueryModel"]] = relationship(
-        back_populates="name", cascade="all, delete-orphan"
+        back_populates="category", cascade="all, delete-orphan"
     )
 
     def __repr__(self) -> str:
-        return f"Category(id={self.id!r}, name={self.name!r}, search_items={self.search_items!r}"
+        return f"Category(id={self.id!r}, name={self.name!r}"
 
 class SearchQueryModel(BaseModel):
     __tablename__ = "search_query"
@@ -30,22 +30,13 @@ class SearchQueryModel(BaseModel):
     # str may be wrong -- FIX
     name: Mapped[str] = mapped_column(Text())
     category_id: Mapped[int] = mapped_column(ForeignKey("category.id"))
-    category: Mapped["CategoryModel"] = relationship(back_populates="name")
-
-    def __repr__(self) -> str:
-        return f"SearchQueryModel(id={self.id!r}, name={self.name!r}, category_id={self.category_id!r}, category={self.category!r})"
-
-
-class ResponseModel(BaseModel):
-    __tablename__ = "response"
-
-    id: Mapped[int] = mapped_column(primary_key=True)
+    category: Mapped["CategoryModel"] = relationship(back_populates="search_items")
     site_list: Mapped[List["SiteModel"]] = relationship(
         back_populates="site", cascade="all, delete-orphan"
     )
-
     def __repr__(self) -> str:
-        return f"ResponseModel(id={self.id!r}, site_list={self.site_list!r})"
+        return f"SearchQueryModel(id={self.id!r}, name={self.name!r}, category_id={self.category_id!r})"
+
 
 class SiteModel(BaseModel):
     __tablename__ = "site"
@@ -53,21 +44,17 @@ class SiteModel(BaseModel):
     id: Mapped[int] = mapped_column(primary_key=True)
     snippet: Mapped[str] = mapped_column(Text())
     rank: Mapped[int] = mapped_column(Integer)
-    response_id: Mapped[int] = mapped_column(ForeignKey("response.id"))
-    site: Mapped["ResponseModel"] = relationship(back_populates="site_list")
+    search_query_id: Mapped[int] = mapped_column(ForeignKey("search_query.id"))
+    site: Mapped["SearchQueryModel"] = relationship(back_populates="site_list")
 
     ## Everything below this comment is derived from pagemap data - including the optional and TBD
     formatted_url: Mapped[str] = mapped_column(String(200))
     title: Mapped[str] = mapped_column(String(200))
 
-
-    # maybe add -- FIX
-    # webpage: Mapped[Optional[List[str]]]
-    # derived from meta-tags
-    # a small number of items do not have metatags
-    og_description: Mapped[Optional[str]] = mapped_column(Text())
-    og_title: Mapped[Optional[str]] = mapped_column(Text())
+    # a small number of items do not have one or more of these
+    description: Mapped[Optional[str]] = mapped_column(Text())
+    alt_title: Mapped[Optional[str]] = mapped_column(Text())
 
 
     def __repr__(self) -> str:
-        return f"SiteModel(id={self.id!r},snippet={self.snippet!r}, rank={self.rank!r},formatted_url={self.formatted_url!r}, title={self.title!r}, og_description={self.og_description!r},og_title={self.og_title!r})"
+        return f"SiteModel(id={self.id!r},snippet={self.snippet!r}, rank={self.rank!r},formatted_url={self.formatted_url!r}, title={self.title!r},search_query_id={self.search_query_id!r},og_description={self.description!r},og_title={self.alt_title!r})"

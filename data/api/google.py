@@ -9,7 +9,7 @@ load_dotenv()
 # google search api base url configuration
 API_KEY = os.getenv('API_KEY')
 CX_ID = os.getenv('CX_ID')
-BASE_URL = f"https://customsearch.googleapis.com/customsearch/v1?key={API_KEY}&cx={CX_ID}"
+# BASE_URL = f"https://customsearch.googleapis.com/customsearch/v1?key={API_KEY}&cx={CX_ID}"
 
 json_file_path = "data/json/api-output"
 
