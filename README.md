@@ -8,6 +8,6 @@
 ## Roadmap
 - [x] Collect & Clean Product Data
 - [x] Collect & Clean Search Data
-- [] Populate Database
+- [x] Populate Database
 - [] Train NLP model
 - [] Test

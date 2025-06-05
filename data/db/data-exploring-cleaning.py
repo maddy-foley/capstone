@@ -65,7 +65,7 @@ def insert_to_db_search_query_and_site():
                     else:
                         session.add(search_query)
                         session.commit()
-                        
+
 
 def check_if_query_ok(query_name):
     # remove (potentially) missing context queries
@@ -76,62 +76,5 @@ def check_if_query_ok(query_name):
         return False
     return True
 
-def test_search():
-    removed = {}
-    # with Session(engine) as session:
-    responses = []
-    for c in content:
-
-        result_file = json.load(open(f"./data/json/api-output/{c}.json",'r'))
-        for f in result_file:
-            # print(f.get('formattedUrl'))
-            for row in f:
-
-                """AVAILABLE KEYS for f[row]:
-                kind
-                url
-                queries
-                context
-                searchInformation
-                items
-                """
-
-
-                for item in f[row].get('items'):
-                    # print([key for key in item])
-
-                    """AVAILABLE KEYS for item:
-                        kind
-                        title
-                        htmlTitle
-                        link
-                        displayLink
-                        snippet
-                        htmlSnippet
-                        formattedUrl
-                        htmlFormattedUrl
-                        pagemap
-                    """
-                    pagemap = item.get('pagemap')
-                    # if pagemap:
-                    #     if pagemap.get('website'):
-                    #         print(pagemap)
-# def work_on_json():
-#     for c in content:
-#         result_file = json.load(open(f"./data/json/api-output/{c}.json",'r'))
-#         for line in result_file:
-#             for key in line:
-#                 query_name = key.strip()
-
-
-
-
-#DONE
-# convert_product_data()
-# convert_search_queries()
-# convert_responses()
-# test_search()
-# work_on_json()
-# items = content[0]['pottery']['items'][1]['pagemap']['metatags'][0]
 # insert_to_db_category()
-insert_to_db_search_query_and_site()
+# insert_to_db_search_query_and_site()

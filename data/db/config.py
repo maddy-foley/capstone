@@ -25,7 +25,3 @@ logging.basicConfig()
 logging.getLogger("sqlalchemy.dialects.postgresql").setLevel(logging.INFO)
 BaseModel.metadata.create_all(engine)
 
-
-
-
-# print(BaseModel.metadata.tables)
