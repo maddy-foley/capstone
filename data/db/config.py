@@ -1,6 +1,6 @@
 from sqlalchemy import create_engine, create_mock_engine
 from sqlalchemy.orm import Session
-from models import BaseModel,CategoryModel,ResponseModel,SiteModel,SearchQueryModel
+from models import BaseModel,Category,Site,SearchQuery
 from dotenv import load_dotenv
 import psycopg2
 import logging
