@@ -1,10 +1,10 @@
 import json
 import os
 import re
-from config import engine
+from db import engine
 from sqlalchemy.orm import Session
 from sqlalchemy import select
-from models import *
+from app.models import *
 
 file = open('data/json/categorized-products.json','r')
 content = json.load(file)
