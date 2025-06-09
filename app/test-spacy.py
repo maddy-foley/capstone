@@ -48,7 +48,7 @@ def get_site_snippet_pos_by_id(id):
 #         print(doc.pos_)
 
 # get_site_snippet_adj_by_id(3)
-get_site_snippet_pos_by_id(42)
+# get_site_snippet_pos_by_id(42)
 
 """
 Training:

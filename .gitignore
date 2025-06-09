@@ -4,3 +4,5 @@ data/json/api-output
 .venv
 data/json/api-output
 *api-output
+app/wikipedia/html
+app/wikipedia/parsed
