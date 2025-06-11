@@ -3,6 +3,7 @@ data/json/api-output
 *__pycache__
 .venv
 data/json/api-output
+app/old-json
 *api-output
 app/wikipedia/html
 app/wikipedia/parsed
