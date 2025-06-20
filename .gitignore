@@ -7,3 +7,6 @@ app/old-json
 *api-output
 app/wikipedia/html
 app/wikipedia/parsed
+app/data/raw-html
+app/data/parsed_google_search/google
+app/data/parsed_google_search/google

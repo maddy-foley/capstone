@@ -1,0 +1,39 @@
+`👕` Clothing (core)
+Includes tops, bottoms, full-body garments:
+
+t-shirt, dress, trousers, jumpsuit, poncho, hoodie, pajamas, blazer, shirt, muumuu, sari, kimono, cardigan, sweater, blouse, 
+
+`🧣` Accessories
+Worn with clothes but not primarily for covering:
+
+belt, scarf, wallet, watch, hat, tie, headband, cuff_links, pin, clip, hairclip, kerchief, muff, armband, key_fob, phone_case, necktie, keychain, backpack, purse, handbag, tote, satchel, clutch, fannypack, wristlet
+
+`💎` Jewelry
+Personal adornments, often metal:
+
+bracelet, ring, necklace, earring, toe_ring, charm_bracelet, pendant, locket, bangle, brooch, amulet, signet_ring, gospel_bracelet, body_piercing_jewelry, hair_jewelry, anklet, waist_chain
+
+`🩱` Undergarments
+Worn underneath regular clothing:
+
+bra, panties, briefs, boxers, long_underwear, undershirt, girdle, slip, lingerie, camisole, pantyhose, underwear, intimates
+
+`👞` Outerwear
+Protective or stylish layers:
+
+jacket, coat, raincoat, windbreaker, parka, blazer, sherpa_jacket, denim_jacket, puffer_jacket, anorak, overcoat
+
+`👞` Footwear
+boots, heels, sneakers, sandals, loafers, ballet_flats, espadrilles, flip-flops, moccasins, slippers, shoes, cowboy_boots, clogs
+
+`🎩` Headwear
+fedora_hat, beanie, beret, fez_hat, sombrero, top_hat, bonnet, tam, cowboy_hat, bucket_hat, stetson_hat, kufi_hat, helmet, turban, panama_hat, headband
+
+`🧵` Fabrics/Materials
+cotton, wool, leather, satin, nylon, polyester, taffeta, organza, denim, lace, velvet, rayon, canvas, tweed, corduroy, cashmere, hemp, suede, mesh
+
+`🧑‍🔬` Functional/Occupational Wear
+scrubs, lab_coat, hazmat_suit, military_jacket, fatigues, coveralls, spacesuit, uniform, school_uniform, personal_protection_gear
+
+`👶` Children/Infant Wear
+diaper, onesie, bib, romper, onesies
