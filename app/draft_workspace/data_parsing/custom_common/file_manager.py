@@ -6,6 +6,8 @@ import sys
 from bs4 import BeautifulSoup
 import collections
 
+# NEED TO FIX, built quickly to make parsing faster
+
 class CustomFile:
     def __init__(self,directory,file_type_suffix:str):
         self.directory = directory
@@ -31,13 +33,20 @@ class CustomFile:
             arr.append(dir)
         return arr
     
-    def get_all_file_paths(self,name=None):
-       
-        dir = [f"{self.directory}/{s}/"  for s in self.get_all_sub_directories()]
+    # note if you want to find all in immediate subdirectories
+    def get_all_file_paths(self,sub=False):
+
+        if sub:
+            dir = [f"{self.directory}/{s}/"  for s in self.get_all_sub_directories()]
+            for path in os.listdir(self.directory):
+                for file in os.listdir(path):
+                    all_dir.append(path+file)
+            return all_dir
+        else:
+            dir = self.directory
         all_dir = []
-        for path in dir:
-            for file in os.listdir(path):
-                all_dir.append(path+file)
+        for path in os.listdir(self.directory):
+            all_dir.append(f"{self.directory}/{path}")
         return all_dir
 
     def get_all_version_paths_of_file(self,name):
@@ -104,8 +113,9 @@ class CustomJSONFile(CustomFile):
         with open(file_path) as file:
             return json.load(file)
 
-    
-
+    def get_content_from_file_path(self,file_path:str):
+        with open(file_path) as file:
+            return json.load(file)
 
 class CustomHTMLFile(CustomFile):
     def __init__(self,directory,file_type_suffix='.html'):
