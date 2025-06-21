@@ -14,18 +14,21 @@ class CustomFile:
         self.file_type_suffix = file_type_suffix
 
     # get next available version number to name file
-    def get_next_version_count(self,dir=None):
+    def get_next_version_count(self,name=None):
         version_num = 1
         while os.path.exists(self.get_formatted_version_string(version_num)):
             version_num += 1
             
-        return self.get_formatted_version_string(version_num)
+        return self.get_formatted_version_string(version_num,name)
 
     def format_version_count(self,count):
         return str(count).zfill(2)
     
-    def get_formatted_version_string(self,version_num: int):
-        return f"{self.directory}_{self.format_version_count(version_num)}{self.file_type_suffix}"
+    def get_formatted_version_string(self,version_num: int,name=None):
+        if name:
+            return f"{self.directory}/{name}_{self.format_version_count(version_num)}{self.file_type_suffix}"
+        else:
+            return f"{self.directory}_{self.format_version_count(version_num)}{self.file_type_suffix}"
 
     def get_all_sub_directories(self):
         arr = []
@@ -35,7 +38,6 @@ class CustomFile:
     
     # note if you want to find all in immediate subdirectories
     def get_all_file_paths(self,sub=False):
-
         if sub:
             dir = [f"{self.directory}/{s}/"  for s in self.get_all_sub_directories()]
             for path in os.listdir(self.directory):
@@ -43,11 +45,11 @@ class CustomFile:
                     all_dir.append(path+file)
             return all_dir
         else:
-            dir = self.directory
-        all_dir = []
-        for path in os.listdir(self.directory):
-            all_dir.append(f"{self.directory}/{path}")
-        return all_dir
+            all_dir = []
+            for path in os.listdir(self.directory):
+                all_dir.append(f"{self.directory}/{path}")
+
+            return all_dir
 
     def get_all_version_paths_of_file(self,name):
         arr = []
@@ -61,10 +63,10 @@ class CustomJSONFile(CustomFile):
     def __init__(self,directory,file_type_suffix='.json'):
         super().__init__(directory,file_type_suffix)
 
-    def write_new_json_file(self,input:Union[dict,list]):
+    def write_new_json_file(self,input:Union[dict,list],name=None):
         save_path = None
         try:
-            save_path = self.get_next_version_count()
+            save_path = self.get_next_version_count(name)
 
             with open(save_path,'w') as file:
                 file.writelines(json.dumps(input))

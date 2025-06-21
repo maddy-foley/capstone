@@ -3,11 +3,34 @@ import spacy
 
 nlp = spacy.load('en_core_web_trf')
 
-json_dir = CustomJSONFile('app/data/parsed_google_search/google_clean_01')
+json_dir = CustomJSONFile('app/data/google_json/google_clean_01')
 my_files = json_dir.get_all_file_paths()
+
+all_items_lemmas = []
+tot = 0
 for item in my_files:
     content = json_dir.get_content_from_file_path(item)
+    
+all_items_lemmas = []
+# print(tot)
+for c in content:
+    for key in c:
+        all_items_lemmas.append(key)
+        # print(key,len(c[key]))
+        # for obj in content:
+        #     print(obj)
+    #         for i, text in enumerate(obj[key]):
+    #             doc = nlp(text)
+    #             for t in doc:
+    #                 print(t.ent_type_)
+    #         break
+json_dir.write_new_json_file(all_items_lemmas,'lemma_items')
 
+
+# print([c.keys() for c in content])
+# for category in content:
+#     for word in category:
+#         texts = category[word]
 
 # doc = nlp("Apple is looking at buying U.K. startup for $1 billion")
 
