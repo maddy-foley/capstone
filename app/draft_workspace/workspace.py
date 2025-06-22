@@ -1,34 +1,27 @@
 from data_parsing.custom_common.file_manager import CustomJSONFile
 import spacy
+from spacy.tokens import DocBin
 
 nlp = spacy.load('en_core_web_trf')
 
-json_dir = CustomJSONFile('app/data/google_json/google_clean_01')
-my_files = json_dir.get_all_file_paths()
-my_lemmas = json_dir.get_content_from_file_path('app/data/google_json/google_clean_01/lemma_items_01.json')
-print(my_lemmas)
-all_items_lemmas = []
-tot = 0
-# for item in my_files:
-#     content = json_dir.get_content_from_file_path(item)
-#     for obj in content:
-#         for key in obj:
-#             all_items_lemmas.append(key)
-# json_dir.write_new_json_file(all_items_lemmas,'lemma_items')
-# all_items_lemmas = []
-# # print(tot)
-# for c in content:
-#     for key in c:
-#         all_items_lemmas.append(key)
-        # print(key,len(c[key]))
-        # for obj in content:
-        #     print(obj)
-    #         for i, text in enumerate(obj[key]):
-    #             doc = nlp(text)
-    #             for t in doc:
-    #                 print(t.ent_type_)
-    #         break
 
+
+# files to access
+json_dir = CustomJSONFile('app/data/google_json/google_clean_01')
+# my_files = json_dir.get_all_file_paths()
+
+
+def get_all_content():
+    for file_name in my_files:
+        # skip lemma file 
+        if 'lemma_items' in file_name:
+            continue
+        content = json_dir.get_content_from_file_path(file_name)
+        for obj in content:
+            for key in obj:
+                for text in obj[key]:
+                    doc = nlp(text)
+                    print(doc.ents)
 
 
 # print([c.keys() for c in content])
@@ -41,3 +34,26 @@ tot = 0
 # for token in doc:
 #     print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
 #             token.shape_, token.is_alpha, token.is_stop)
+my_lemmas = json_dir.get_content_from_file_path('app/data/google_json/google_clean_01/accessories_01.json')
+
+def draft_train(texts):
+    db = DocBin()
+    for example in texts:
+        for key in example:
+            
+            if len(example[key]) < 3:
+                continue
+            for text in example[key]:
+                
+                doc = nlp(text)
+                lemma_key = key
+                for token in doc:
+                    if token.lemma_ == lemma_key:
+                        token.ent_type_ = 'PRODUCT'
+            return example[key]
+    pass
+
+json_obj = CustomJSONFile('app/data/google_json/google_clean_01/accessories_01.json')
+test_texts = json_obj.get_content_from_file_path('app/data/google_json/google_clean_01/accessories_01.json')
+ex = draft_train(test_texts)
+
