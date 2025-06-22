@@ -1,6 +1,7 @@
 from data_parsing.custom_common.file_manager import CustomJSONFile
 import spacy
 from spacy.tokens import DocBin
+# from app.draft_workspace.spacy.training_model import TraingData
 
 nlp = spacy.load('en_core_web_trf')
 
@@ -44,16 +45,23 @@ def draft_train(texts):
             if len(example[key]) < 3:
                 continue
             for text in example[key]:
-                
+                training = []
                 doc = nlp(text)
                 lemma_key = key
+                # print(doc.lemmas)
                 for token in doc:
-                    if token.lemma_ == lemma_key:
-                        token.ent_type_ = 'PRODUCT'
-            return example[key]
+                    print(token.i, doc[token.i])
+                    # if key == token.lemma_:
+                        # print(token.text,token.i, token.i + len(token.text))
+                        # span_start = token.i
+                        # span_end = token.i + len(token.text)
+                        # print(key.sent)
+                #     # ents = TraingData(token.sent,token.i,token.idx)
+                #     training
+                #     continue
+            # return example[key]
     pass
 
 json_obj = CustomJSONFile('app/data/google_json/google_clean_01/accessories_01.json')
 test_texts = json_obj.get_content_from_file_path('app/data/google_json/google_clean_01/accessories_01.json')
 ex = draft_train(test_texts)
-
