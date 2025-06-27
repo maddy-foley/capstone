@@ -7,4 +7,11 @@ app/old-json
 *api-output
 app/wikipedia/html
 app/wikipedia/parsed
-app/data/raw-html
+workspace_draft/data/google_json/google_clean_01
+workspace_draft/data/google_json/json-unclean
+workspace_draft/data/raw-html
+workspace_draft/data/raw-txt
+workspace_draft/spacy_and_parsing/database
+train.spacy
+dev.spacy
+output

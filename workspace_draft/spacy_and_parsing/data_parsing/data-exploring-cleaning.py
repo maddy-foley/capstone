@@ -4,7 +4,7 @@ import re
 from db import engine
 from sqlalchemy.orm import Session
 from sqlalchemy import select
-from app.models import *
+from workspace_draft.models import *
 
 file = open('data/json/categorized-products.json','r')
 content = json.load(file)
