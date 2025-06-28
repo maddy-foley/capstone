@@ -12,6 +12,9 @@ workspace_draft/data/google_json/json-unclean
 workspace_draft/data/raw-html
 workspace_draft/data/raw-txt
 workspace_draft/spacy_and_parsing/database
-train.spacy
-dev.spacy
+output*
 output
+*.spacy
+dev.spacy
+train.spacy
+.ipynb_checkpoints

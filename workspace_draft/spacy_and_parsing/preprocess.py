@@ -50,7 +50,7 @@ def make_train_data(texts):
                     lower_text = text.lower().strip()
                     start_idx, end_idx = find_all_substring_indices(lower_text,key)
                     for i, s in enumerate(start_idx):
-                        spans.append((s,end_idx[i],"PRODUCT"))
+                        spans.append((s,end_idx[i],"B-PRODUCT"))
                     if spans != []:
                         n += 1
                         if n % 9 == 2:
@@ -91,11 +91,13 @@ def make_train_data(texts):
                         span_end = token.i + key_size
                         start = token.idx
                         end = token.idx + len(token.text)
-
-                        if len(doc[span_start:span_end]) > 1:
-                            end = token.idx + len(doc[span_start:span_end].text)
                         start_idx.append(start)
                         end_idx.append(end)
+                        i = 0
+                        if len(doc[span_start:span_end]) > i:
+                            start_idx.append(doc[span_start + i])
+                            end = token.idx + len(doc[span_start:span_end].text)
+                        
 
                 for i, s in enumerate(start_idx):
                     spans.append((s,end_idx[i],"PRODUCT"))
@@ -153,9 +155,9 @@ def train_spacy(data,file_name,total=0):
     return total
 
 # train_all_data()
-# test_path('workspace_draft/data/google_json/google_clean_01/clothing_10.json')
+test_path('workspace_draft/data/google_json/google_clean_01/clothing_10.json')
 # print(len(training_data),len(dev_data))
-# # print(dev_data)
+# print(dev_data)
 # total_train = train_spacy(training_data,'./train.spacy')
 # total_dev = train_spacy(dev_data,'./dev.spacy')
 # print(training_data)
