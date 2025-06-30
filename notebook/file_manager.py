@@ -38,4 +38,4 @@ class FileManager:
 
     def read_html(self,file):
         soup = BeautifulSoup(file,'html.parser')
-        return ' '.join(soup.getText(separator=' ').strip().split())
+        return '. '.join([str(text) for text in soup.stripped_strings])

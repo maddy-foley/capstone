@@ -8,7 +8,7 @@ from spacy.training import Example
 
 
 nlp_en = spacy.blank('en')
-nlp = spacy.load("en_core_web_lg")
+nlp = spacy.load("en_core_web_lg",disable=["ner"])
 
 
 # doc = nlp("Laura flew to Silicon Valley.")
@@ -74,8 +74,6 @@ def make_train_data(texts):
                 if text in visited:
                     continue
                 doc = nlp(text)
-                start_idx = []
-                end_idx = []
 
                 for i,token in enumerate(doc):
                     key_size = len(key_arr)
@@ -145,33 +143,49 @@ def train_spacy(data,file_name,total=0):
     for item in data:
         doc = item[0]
         ents = item[1]['entities']
-        # prev_ents = [(e.text, e.start_char, e.end_char, e.label_) for e in doc.ents]
-        # print(prev_ents)
         words = []
+        spaces = []
         for i, token in enumerate(doc):
             words.append(token.text)
+            has_ws = token.whitespace_ == ' '
+            spaces.append(has_ws)
             
-            # spaces.append(token.)
             if 'PRODUCT' in ents[i]:
                 if len(token.text) == 1:
                     if (i == 0 and ents[i-1] == "O") or (i < len(ents)-1 and ents[i+1] == 'O'):
                         ents[i] = 'O'
                         if ents[i+1] == 'I-PRODUCT':
                             ents[i+1] == 'B-PRODUCT'
-        new_doc = Doc(nlp.vocab,words=words,ents=ents)
+                
+        new_doc = Doc(nlp.vocab,words=words,ents=ents,spaces=spaces)
         db.add(new_doc)
 
     db.to_disk(file_name)
     return total
 
-train_all_data()
+# train_all_data()
 # json_dir.write_new_json_file(training_data,"train")
 # json_dir.write_new_json_file(dev_data, "dev")
-# test_path('workspace_draft/data/google_json/google_clean_01/clothing_10.json')
+# test_path('workspace_draft/data/google_json/google_clean_01/children_or_infant_wear_10.json')
 # print(len(training_data),len(dev_data))
 # print(dev_data)
 # for item in dev_data:
 #     doc = item[0]
+#     ents = item[1]['entities']
+#     words = []
+#     spaces = []
+#     for i, token in enumerate(doc):
+#         words.append(token.text)
+#         has_ws = token.whitespace_ == ' '
+#         spaces.append(has_ws)
+        
+#         if 'PRODUCT' in ents[i]:
+#             if len(token.text) == 1:
+#                 if (i == 0 and ents[i-1] == "O") or (i < len(ents)-1 and ents[i+1] == 'O'):
+#                     ents[i] = 'O'
+#                     if ents[i+1] == 'I-PRODUCT':
+#                         ents[i+1] == 'B-PRODUCT'
+#     # print(words,ents,spaces)
 #     ents = item[1]['entities']
 #     # prev_ents = [(e.text, e.start_char, e.end_char, e.label_) for e in doc.ents]
 #     # print(prev_ents)
@@ -190,8 +204,8 @@ train_all_data()
     # print(doc.ents)
 # for d in dev_data:
 # #     print(d[0].ents)
-total_train = train_spacy(training_data,'./train_2.spacy')
-total_dev = train_spacy(dev_data,'./dev_2.spacy')
+total_train = train_spacy(training_data,'./train_3.spacy')
+total_dev = train_spacy(dev_data,'./dev_3.spacy')
 
 # print(len(training_data))
 # print(training_data)
