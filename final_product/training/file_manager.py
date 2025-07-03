@@ -1,12 +1,53 @@
 import json
 import os
-import re
-from typing import Union, Optional
-import sys
 from bs4 import BeautifulSoup
-import collections
+from typing import Union,Optional
 
-# NEED TO FIX, built quickly to make parsing faster
+
+class FileManager:
+    def __init__(self,file_path:str):
+        self.file_path = file_path
+        self.dir_arr = file_path.split('/')
+        self.type = ''
+        self.get_file_type()
+        
+    def get_file_type(self):
+        file_name = self.dir_arr[-1].split('.')
+        self.type = file_name[-1]
+
+    def read_file(self,test=False):
+        try:
+            with open(self.file_path,'r') as file:
+                text = ''
+                if self.type == 'json':
+                    text = self.read_json(file)
+                elif self.type == 'html':
+                    if test:
+                        text = self.test_methods(file)
+                    else:
+                        text = self.read_html(file)
+                else:
+                    text = [x.strip() for x in file.readlines()]
+                return text
+            
+        except FileNotFoundError:
+            print(f"Error: The file {self.file_path} was not found.")
+        except Exception as e:
+            print(f"An error occurred: {e}")
+
+    def read_json(self,file):
+        # file = self.open_file()
+        return json.load(file)
+
+    def read_html(self,file):
+
+        soup = BeautifulSoup(file,'html.parser')
+        return '. '.join([str(text) for text in soup.stripped_strings])
+    
+    def test_methods(self,file):
+        soup = BeautifulSoup(file,'html.parser')
+        soup_arr = [str(text) for text in soup.stripped_strings if text.count(' ') > 0]
+        return soup_arr
 
 class CustomFile:
     def __init__(self,directory,file_type_suffix:str):
@@ -76,15 +117,15 @@ class CustomJSONFile(CustomFile):
         except ValueError:
             print("Invalid Input")
             print("Input Type = ", type(input))
-            if os.path.exists(save_path):
-                os.remove(save_path)
-                print("Deleted empty file")
+            # if os.path.exists(save_path):
+            #     os.remove(save_path)
+            #     print("Deleted empty file")
         except Exception as e:
         # Code to handle other exceptions
             print(f"An error occurred: {e}")
-            if os.path.exists(save_path):
-                os.remove(save_path)
-                print("Deleted empty file")
+        #     if os.path.exists(save_path):
+        #         os.remove(save_path)
+        #         print("Deleted empty file")
        
     def write_update_to_json_file_dir(self,input: Union[dict,list]) -> None:
         save_path = None
@@ -171,5 +212,3 @@ class CustomHTMLFile(CustomFile):
             with open(file_path,'w') as html_file:
                 html_file.write(formatted_html)
                 html_file.close()
-
-__all__ = ["CustomFile","CustomJSONFile","CustomHTMLFile"]
