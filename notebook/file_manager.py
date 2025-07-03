@@ -62,8 +62,8 @@ class JSONFileManager(FileManager):
         super().__init__(file_path)
 
     def write_json_file(self,input:Union[dict,list],name=None):
-        save_path = None
-        save_path = self.get_next_version_count(name)
+        if name:
+            save_path = f"{self.file_path}/{name}.json"
 
         with open(save_path,'w') as file:
             file.writelines(json.dumps(input))
