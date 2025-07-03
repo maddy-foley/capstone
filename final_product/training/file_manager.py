@@ -15,6 +15,10 @@ class FileManager:
         file_name = self.dir_arr[-1].split('.')
         self.type = file_name[-1]
 
+    def get_file_name(self):
+        file = self.dir_arr[-1]
+        return file[:file.find('_0')]
+
     def read_file(self,test=False):
         try:
             with open(self.file_path,'r') as file:
