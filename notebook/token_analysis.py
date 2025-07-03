@@ -6,9 +6,9 @@ class DualDocAnalysis:
         self.ent_doc = ent_doc
         self.freq = {}
         self.main_entities = []
-        self.set_main_ents(ent_doc)
+        self.set_ents(ent_doc)
 
-    def set_main_ents(self,ent_doc):
+    def set_ents(self,ent_doc):
         if len(self.freq) == 0:
             self.freq = {e.text.lower(): 0 for e in ent_doc.ents}
             
@@ -17,10 +17,28 @@ class DualDocAnalysis:
         # analyze entities that appear more than 1 times.
         # project's use case expects the input contains several listings of a single product
         self.main_entities = [e for e in ent_doc.ents if self.freq[e.text.lower()] > 1]
+
+    def get_related_spans(self):
+        
+        ling_info = self.get_all_doc_ent_ling_info()
+    
+        span_info = {
+            'FULL_NP':[],
+            'DESC_NEIGHBORS':[],
+            'ADJ':[],
+            'ADV':[],
+            'N':[],
+            'C_N':[]
+        }
+        for key in ling_info:
+            for span_name in span_info:
+                span_info[span_name] += ling_info[key][span_name]
+        
+        return span_info
         
     def get_all_doc_ent_ling_info(self):
         if self.main_entities == []:
-            self.set_main_ents()
+            self.set_ents()
 
         ling_info = {e.text.lower(): {
                 'SENT':[],
@@ -43,7 +61,16 @@ class DualDocAnalysis:
         return ling_info
             
     def get_ling_token_info(self,token,dic):
-        dic['SENT'].append(token.sent.text)
+        # span_dic = {
+        #     'FULL_NP':[],
+        #     'DESC_NEIGHBORS':[],
+        #     'ADJ':[],
+        #     'ADV':[],
+        #     'N':[],
+        #     'C_N':[]
+        # }
+        
+        dic['SENT'].append(token.sent)
 
         for t in token.sent:
             lower_token = t.text.lower()
@@ -55,14 +82,14 @@ class DualDocAnalysis:
                 continue
             elif t.tag_ in ['NN','NNP','VBG']:
                 if t.dep_ == 'compound':
-                    dic['C_N'].append(t.text)
+                    dic['C_N'].append(t)
                 else:
-                    dic['N'].append(t.text)
+                    dic['N'].append(t)
+                    
             elif t.pos_ == 'ADJ':
-                # print(t.tag_,t.tag_,t.text)
-                dic['ADJ'].append(t.text)
+                dic['ADJ'].append(t)
             elif t.pos_ == 'ADV':
-                dic['ADV'].append(t.text)
+                dic['ADV'].append(t)
             
                 
         for chunk in token.sent.noun_chunks:
@@ -70,5 +97,43 @@ class DualDocAnalysis:
                 dic['FULL_NP'].append(chunk)
                 for item in chunk:
                     if item.tag_ in ['NN','NNP','VBG']:
-                        dic['DESC_NEIGHBORS'].append(item.text)
+                        dic['DESC_NEIGHBORS'].append(item)
         return dic
+
+    def get_data_analysis(self):
+        
+        ling_info = self.get_all_doc_ent_ling_info()
+        freq = { e: {
+                'TOTAL': len(ling_info[e]['SENT']),
+                'DESC_NEIGHBORS':{},
+                'ADJ':{},
+                'ADV':{},
+                'N':{},
+                'C_N':{}
+            }
+            for e in ling_info
+        }
+        for ent_key in freq:
+            for ling_key in freq[ent_key]:
+                if ling_key not in ling_info[ent_key]:
+                    continue
+                for item in ling_info[ent_key][ling_key]:
+                    item = item.lower()
+                    if item.lower() in freq:
+                        continue
+                    if item in freq[ent_key][ling_key]:
+                        freq[ent_key][ling_key][item] += 1
+                    else:
+                        freq[ent_key][ling_key][item] = 1
+        return freq
+        
+    def get_total_analysis_numbers(self):
+        ling_info = self.get_all_doc_ent_ling_info()
+        freq = { e: {
+                'TOTAL': len(ling_info[e]['SENT']),
+                'ASSOCIATED_WORDS':len(ling_info[e]['DESC_NEIGHBORS']),
+                'UNIQUE_ASSOCIATED_WORDS': len(list(set(ling_info[e]['DESC_NEIGHBORS'])))
+            }
+            for e in ling_info
+        }
+        return freq

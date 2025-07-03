@@ -14,28 +14,38 @@ class FileManager:
         file_name = self.dir_arr[-1].split('.')
         self.type = file_name[-1]
 
-    def read_file(self):
+    def read_file(self,test=False):
         try:
             with open(self.file_path,'r') as file:
                 text = ''
                 if self.type == 'json':
                     text = self.read_json(file)
                 elif self.type == 'html':
-                    text = self.read_html(file)
+                    if test:
+                        text = self.test_methods(file)
+                    else:
+                        text = self.read_html(file)
                 else:
-                    text = file.read()
-                file.close()
-                
+                    text = file.read(file)
                 return text
-                
+            
         except FileNotFoundError:
             print(f"Error: The file {self.file_path} was not found.")
         except Exception as e:
             print(f"An error occurred: {e}")
 
-    def read_json(self,file):
+    def read_json(self):
+        # file = self.open_file()
         return json.load(file)
 
     def read_html(self,file):
+
         soup = BeautifulSoup(file,'html.parser')
         return '. '.join([str(text) for text in soup.stripped_strings])
+    
+    def test_methods(self,file):
+        soup = BeautifulSoup(file,'html.parser')
+        soup_arr = [str(text) for text in soup.stripped_strings if text.count(' ') > 0]
+        return soup_arr
+
+        
