@@ -73,3 +73,32 @@ def get_file_1():
 # json_item = get_file_1()
 # save_file = CustomJSONFile('final_product/training/unclean_data/json_drafts')
 # save_file.write_new_json_file([json_item],'fashion')
+
+def combine_files():
+    open_file = FileManager('final_product/training/unclean_data/json_drafts/all_filtered_products_by_cat_00.json')
+    old_file_content = open_file.read_file()
+    open_file = FileManager('final_product/training/unclean_data/json_drafts/fashion_01.json')
+    new_file_content = open_file.read_file().pop()
+
+    all_items = {}
+    for item in old_file_content.values():
+        for t in item:
+            all_items[t] = 1
+    for item in new_file_content:
+        if item in all_items:
+            all_items[item] += 1
+        elif item[:-1] in all_items:
+            all_items[item[:-1]] += 1
+        elif item + 's' in all_items:
+            all_items[item + 's'] += 1
+        else:
+            all_items[item] = 1
+            # print(item)
+    # delete random word that got in somehow
+    del all_items['on']
+    return [x for x in all_items]
+
+json_item = combine_files()
+
+save_file = CustomJSONFile('final_product/training/unclean_data/json_drafts')
+save_file.write_new_json_file(json_item,'all_fashion')
