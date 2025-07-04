@@ -21,14 +21,19 @@ over_all_stats = all_training_data.keys()
 
 
 best_performance = {}
+last_performance = {}
 
-performance_met = my_nlp.meta['performance']
-for key in performance_met:
-    item = performance_met[key]
+best_performance_met = my_nlp.meta['performance']
+last_performance_file = JSONFileManager('output_fin/model-last/meta.json')
+last_performance_met = last_performance_file.read_file()['performance']
+# print(last_performance_met)
+
+for key in best_performance_met:
+    item = best_performance_met[key]
     if key.upper() in over_all_stats:
         best_performance[key.upper()] = item
+        last_performance[key.upper()] = last_performance_met[key]
+res = {'best': best_performance ,'all': all_training_data,'last':last_performance}
 
-res = {'best': best_performance ,'all': all_training_data}
-
-json_file = JSONFileManager("notebook")
-json_file.write_json_file(res,'all_pipeline_stats')
+# json_file = JSONFileManager("notebook")
+# json_file.write_json_file(res,'all_pipeline_stats')
