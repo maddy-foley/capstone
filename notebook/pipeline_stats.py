@@ -1,5 +1,6 @@
 from file_manager import FileManager,JSONFileManager
 import spacy
+from statistics import mean
 # Data from training session
 all_training_data = {
 }
@@ -13,9 +14,17 @@ all_training_data = {n:[] for n in names}
 for line in content[2:]:
     parsed_line = [x for x in line.split(' ') if x != '']
     for i in range(len(names)):
-        all_training_data[names[i]].append(parsed_line[i])
+        all_training_data[names[i]].append(float(parsed_line[i]))
 
-
+mean_epoch_data = {key:[] for key in all_training_data}
+start = 0
+epochs = all_training_data['E']
+# print(epochs)
+for i, e in enumerate(epochs):
+    if e > epochs[start]:
+        for key in mean_epoch_data:
+            mean_epoch_data[key].append(round(mean(all_training_data[key][start:i]),2))
+        start = i
 
 over_all_stats = all_training_data.keys()
 
@@ -33,7 +42,11 @@ for key in best_performance_met:
     if key.upper() in over_all_stats:
         best_performance[key.upper()] = item
         last_performance[key.upper()] = last_performance_met[key]
-res = {'best': best_performance ,'all': all_training_data,'last':last_performance}
+
+mean_epoch_data['E'] = [x for x in range(len(mean_epoch_data['E']))]        
+
+res = {'best': best_performance ,'all': all_training_data,'mean_epoch':mean_epoch_data,'last':last_performance}
+
 
 # json_file = JSONFileManager("notebook")
 # json_file.write_json_file(res,'all_pipeline_stats')
