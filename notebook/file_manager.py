@@ -55,6 +55,7 @@ class HTMLFileManager(FileManager):
         with open(file_path,'r') as file:
             soup = BeautifulSoup(file,'html.parser')
             soup_arr = [str(text) for text in soup.stripped_strings if text.count(' ') > 0]
+            
             return soup_arr
         
 class JSONFileManager(FileManager):
