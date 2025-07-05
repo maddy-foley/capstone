@@ -135,3 +135,16 @@ class DualDocAnalysis:
             for e in self.ling_info
         }
         return freq
+    
+    def get_main_sorted_ents(self):
+
+        freq = self.get_total_analysis_numbers()
+        sorted_keys_by_value = [key for key, value in sorted(freq.items(), key=lambda item: item[1]['TOTAL'],reverse=True)]
+        res = []
+        for item in sorted_keys_by_value:
+            if len(item) > 2:
+                res.append(item)
+            elif freq[item]['TOTAL'] > 2:
+                res.append(item)
+
+        return res

@@ -61,13 +61,12 @@ def analyze_texts(file_paths):
        
         i += 1
         data[word]= all_sentences
-        break
+
 
     
 temp = analyze_texts(file_paths)
-print(data)
+
 for d in data:
     print(f"writing: {d}")
     my_json = JSONFileManager(f"final_product/training/clean_data/product_json/")
-
     my_json.write_json_file({d:data[d]},d)
