@@ -9,5 +9,5 @@
 - [x] Collect & Clean Product Data
 - [x] Collect & Clean Search Data
 - [x] Populate Database
-- [] Train NLP model
-- [] Test
+- [x] Train NLP model
+- [x] Test

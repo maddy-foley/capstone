@@ -152,14 +152,19 @@ def train_spacy(data,file_name):
                         ents[i] = 'O'
                         if ents[i+1] == 'I-PRODUCT':
                             ents[i+1] == 'B-PRODUCT'
-                
+    
         new_doc = Doc(nlp.vocab,words=words,ents=ents,spaces=spaces)
         db.add(new_doc)
 
     db.to_disk(file_name)
 
 
-train_all_data()
+
+test_path('final_product/training/clean_data/product_json/bib_01.json')
+
+for t in training_data:
+    print(t[0],'\n',t[1],'\n')
+# train_all_data()
 # print(total)
 # sent_total = 0
 # items = 0
@@ -220,8 +225,8 @@ train_all_data()
 
 # test_path('final_product/training/clean_data/product_json/amulet_01.json')
 
-total_train = train_spacy(training_data,'./train_3.spacy')
-total_dev = train_spacy(dev_data,'./dev_3.spacy')
+# total_train = train_spacy(training_data,'./train_3.spacy')
+# total_dev = train_spacy(dev_data,'./dev_3.spacy')
 
 # print(len(training_data))
 # print(training_data)
