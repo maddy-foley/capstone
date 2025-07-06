@@ -1,0 +1,10160 @@
+
+Default Top (Type B)
+B:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Polo Shirt
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Shirts
+
+Frilled Sailor Blouse
+A:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Sheer Blouse w/ Neck Bow
+A:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Fitted Knit Turtleneck Sweater
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Knits
+
+Fitted Knit Shirt
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Knits
+
+Random-Dot Blouse w/ Neck Bow
+A:
+Patterns: Dotted
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Button-up Shirt
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Cap-Sleeve Cut-&-Sew Tee
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Tee
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Boat-Neck Tee
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Cut-&-Sew Cropped Tee
+A:
+Patterns: None
+Styles: Simple, Casual, Active
+SubCategories: Tees
+
+V-Neck Cut-&-Sew Tee
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Tees
+
+Gingham-Check Puff-Sleeve Crop Top
+A:
+Patterns: Plaid
+Styles: Cute, Casual
+SubCategories: None
+
+Fitted Striped Blouse w/ Neck Bow
+A:
+Patterns: Striped
+Styles: Elegant
+SubCategories: Shirts
+
+Sheer Knit Top
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Knits
+
+Oversized Hoodie
+A:
+Patterns: None
+Styles: Simple, Active, Casual
+SubCategories: Hoodies,  Sweatwear
+
+Rolled-Sleeve Shirt
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Shirts
+
+Diamond-Knit Sweater
+A:
+Patterns: Patterned
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Melange Knit Top
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits
+
+Striped Tee
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tees
+
+Henley-Neck Long-Sleeve Tee
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Tees
+
+Fitted V-Neck Knit Sweater
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Knits
+
+Boat-Neck Tee w/ Floral Embroidery
+A:
+Patterns: Floral
+Styles: Casual
+SubCategories: Tees
+
+Floral Puff-Sleeve Cropped Top
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: None
+
+Fitted Rib-Knit Sweater
+A:
+Patterns: None
+Styles: Simple, Casual, Cool
+SubCategories: Knits
+
+Sleeveless Tee w/ Shoulder Pads
+A:
+Patterns: None
+Styles: Simple, Casual, Active
+SubCategories: Tees
+
+Puff-Sleeve Crop Top
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: None
+
+Wrap Blouse
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Shirts
+
+Puff-Shoulder Knit Blouse
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Knits
+
+Loose Knit Sweater w/ Ribbed Details
+A:
+Patterns: None
+Styles: Relaxed, Simple, Casual
+SubCategories: Knits
+
+Sleeveless Knit Top
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Knits
+
+Rolled-Sleeve Tee
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Fitted U-Neck Knit Sweater
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Knits
+
+Cropped Ribbed Tank Top
+A:
+Patterns: None
+Styles: Simple, Casual, Active
+SubCategories: None
+
+Tank Top
+A:
+Patterns: None
+Styles: Simple, Casual, Active
+SubCategories: None
+
+Short-Sleeve Shirt
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Knit Sweater w/ Three-Quarter Sleeves
+A:
+Patterns: None
+Styles: Simple, Relaxed, Casual
+SubCategories: Knits
+
+Ruched Leopard-Print Crop Top
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: None
+
+Ruched Floral Crop Top
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual, Cool
+SubCategories: None
+
+Long-Cuff Blouse
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+2-Color Striped Blouse
+A:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Shirts
+
+Knit Turtleneck Sweater w/ Ribbon Sash
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits
+
+Cable-Knit Turtleneck Sweater
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits
+
+Denim Rolled-Sleeve Shirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Shirts
+
+Cat-Silhouette Rolled-Sleeve Shirt
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Botanical-Print Rolled-Sleeve Shirt
+A:
+Patterns: Floral
+Styles: Casual, Elegant
+SubCategories: Shirts
+
+2-Color Button-up Shirt
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Plaid Shirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Shirts
+
+Cleric Shirt
+A:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: Shirts
+
+Polka-Dot Shirt
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Ribbon-Tie Blouse
+A:
+Patterns: Graphic
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Striped Cut-&-Sew Cropped Tee
+A:
+Patterns: Striped
+Styles: Casual, Active
+SubCategories: Tees
+
+Botanical-Print Polo Shirt
+A:
+Patterns: Graphic,  Patterned
+Styles: Active, Casual
+SubCategories: Shirts
+
+Button-Front Puff-Sleeve Cropped Top
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: None
+
+Polka-Dot Puff-Sleeve Cropped Top
+A:
+Patterns: Dotted
+Styles: Cute, Casual
+SubCategories: None
+
+Daisy-Print Puff-Sleeve Cropped Top
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: None
+
+Checkered Knit Turtleneck Sweater
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: None
+
+Multicolored-Stripe High-Neck Sweater
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits
+
+Fitted Striped Cut-&-Sew Turtleneck Shirt
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: None
+
+Button-up Blouse
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Striped Blouse
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Shirts
+
+V-Neck Tee
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Fitted Tee
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Wide V-Neck Tee
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Fitted Mock-Turtleneck Knit Sweater
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Knits
+
+V-Neck Knit Sweater
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Knits
+
+Tie-Neck Blouse
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Polka-Dot Tie-Neck Blouse
+A:
+Patterns: Dotted
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Plaid Tie-Neck Blouse
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Shirts
+
+Sweatshirt
+A:
+Patterns: None
+Styles: Simple, Active, Casual
+SubCategories: Sweatwear
+
+Striped Sweatshirt
+A:
+Patterns: Striped
+Styles: Casual, Active
+SubCategories: Sweatwear
+
+Ribbon-Tie Blouse w/ Embroidery
+A:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Plaid Ribbon-Tie Blouse
+A:
+Patterns: Plaid
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Loose Long-Sleeve Knit Sweater
+A:
+Patterns: None
+Styles: Relaxed, Simple, Casual
+SubCategories: Knits
+
+Blouse
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Multicolored-Bead Apron
+A:
+Patterns: Plaid,  Graphic
+Styles: Cute, Unique
+SubCategories: Accessories
+
+Vertical-Stripe Cropped Tank Top
+A:
+Patterns: Striped
+Styles: Casual, Active
+SubCategories: None
+
+Dinosaur-Print Tee w/ Choker
+A:
+Patterns: Animal,  Patterned,  Graphic
+Styles: Unique, Cute
+SubCategories: Tees,  Accessories
+
+Off-the-Shoulder Knit Top
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Knits
+
+Rose-Print Off-the-Shoulder Knit Top
+A:
+Patterns: Floral,  Patterned
+Styles: Casual, Elegant
+SubCategories: Knits
+
+Gingham-Check Off-the-Shoulder Knit Top
+A:
+Patterns: Plaid,  Traditional
+Styles: Cute, Casual
+SubCategories: Knits
+
+Striped Off-the-Shoulder Knit Top
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits
+
+Floret-Print Off-the-Shoulder Knit Top
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: Knits
+
+Button-Front Off-the-Shoulder Knit Top
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits
+
+Plaid Layered Top
+A:
+Patterns: Plaid,  Animal
+Styles: Cute, Casual, Cool
+SubCategories: Leather
+
+Round-Neck Tee
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Tees
+
+Fitted Short-Sleeve Knit Top
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Knits
+
+Fitted Short-Sleeve Cable-Knit Top
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Knits
+
+Fitted Houndstooth Short-Sleeve Knit Top
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Knits
+
+Fitted Gingham-Check Short-Sleeve Knit Top
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Knits
+
+Teddy-Bear Print Hoodie
+A:
+Patterns: Animal,  Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Hoodies,  Sweatwear
+
+Knit-Sleeve Hoodie
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Hoodies,  Knits,  Sweatwear
+
+Checkered Graphic Hoodie
+A:
+Patterns: Graphic,  Plaid
+Styles: Casual, Active
+SubCategories: Hoodies,  Sweatwear
+
+Number "34" Graphic Oversized Hoodie
+A:
+Patterns: Graphic
+Styles: Casual, Active
+SubCategories: Hoodies,  Sweatwear
+
+Lace-Collar Puff-Sleeve Top
+A:
+Patterns: Floral
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Gingham & Lemon-Print Sleeveless Blouse
+A:
+Patterns: Fruit,  Plaid,  Patterned
+Styles: Cute
+SubCategories: Shirts
+
+Puff-Sleeve Cut-&-Sew Blouse w/ Heart Cutout
+A:
+Patterns: Dotted
+Styles: Cute, Casual
+SubCategories: Shirts
+
+Cropped Blouse w/ Large Frilled Collar
+A:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Frilled V-Neck Crop Top
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Shirts
+
+Chiffon Blouse
+A:
+Patterns: Floral
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Long Puff-Sleeve Cut-&-Sew Blouse w/ Bow
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Shirts
+
+Balloon-Sleeve Knit Sweater
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Knits
+
+Lavender-Design Blouse w/ Ribbon Sash
+A:
+Patterns: Floral
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Frilled Pom-Pom Knit Sweater
+A:
+Patterns: None
+Styles: Cute, Unique, Casual
+SubCategories: Knits
+
+Sheer Blouse
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Chinese Frog-Button Short-Sleeve Blouse
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Grid-Print Short-Sleeve Shirt
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Shirts
+
+Strawberry-Print Short-Sleeve Shirt
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Shirts
+
+Floret-Print Short-Sleeve Shirt
+A:
+Patterns: Floral,  Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Shirts
+
+Floral Short-Sleeve Shirt
+A:
+Patterns: Floral,  Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Shirts
+
+Striped Shirt
+A:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Shirts
+
+Chinese Frog-Button Blouse
+A:
+Patterns: Plaid
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Fitted Lemon-Print Blouse w/ Neck Bow
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Elegant
+SubCategories: Shirts
+
+Fitted Polka-Dot Blouse w/ Neck Bow
+A:
+Patterns: Dotted
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Fitted Houndstooth-Print Blouse w/ Neck Bow
+A:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Cool
+SubCategories: Shirts
+
+Fitted Silk Blouse w/ Neck Bow
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Shirts
+
+Fitted Grid-Print Blouse w/ Neck Bow
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Shirts
+
+Fitted Denim Blouse w/ Neck Bow
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Denim,  Shirts
+
+Fitted Plaid Blouse w/ Neck Bow
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Shirts
+
+Cold-Shoulder Top
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: None
+
+Simple Logo Hoodie
+A:
+Patterns: Graphic
+Styles: Casual, Active, Simple
+SubCategories: Hoodies,  Sweatwear
+
+Contrasting-Color Hoodie
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Hoodies,  Sweatwear
+
+Chambray Blouse
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Shirts
+
+Thin-Stripe Sleeveless Knit Top
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits
+
+Sleeveless Cable-Knit Top
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits
+
+Sleeveless Metallic Knit Top
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Knits
+
+Wide-Stripe Polo Shirt
+A:
+Patterns: Striped
+Styles: Active, Casual
+SubCategories: Shirts
+
+Split-Color Polo Shirt
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Shirts
+
+Polo Shirt w/ Emblem
+A:
+Patterns: Animal
+Styles: Active, Casual
+SubCategories: Shirts
+
+Polo Shirt w/ Contrasting Collar
+A:
+Patterns: Graphic
+Styles: Active, Casual
+SubCategories: Shirts
+
+Fitted Metallic-Sleeve Tee
+A:
+Patterns: Graphic
+Styles: Casual, Cute
+SubCategories: Tees
+
+Wide V-Neck Tee w/ Leather Trim
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Tees,  Leather
+
+Big Cherries Graphic Tee
+A:
+Patterns: Graphic,  Fruit
+Styles: Cute, Casual
+SubCategories: Tees
+
+Lace-Collar Tee
+A:
+Patterns: Floral
+Styles: Casual, Elegant
+SubCategories: Tees
+
+Retro Flower-Power Tee
+A:
+Patterns: Graphic,  Floral
+Styles: Cute, Casual
+SubCategories: Tees
+
+Rainbow-Stripe Tee
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tees
+
+Floral Rolled-Sleeve Shirt
+A:
+Patterns: Floral,  Graphic
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Leopard-Print Rolled-Sleeve Shirt
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Shirts
+
+Blouse w/ Harness
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Shirts,  Accessories,  Leather
+
+Cartoon Sun Graphic Cap-Sleeve Cut-&-Sew Tee
+A:
+Patterns: Graphic
+Styles: Cute, Casual
+SubCategories: Tees
+
+Sunflower Graphic Cut-&-Sew Cropped Tee
+A:
+Patterns: Graphic,  Floral
+Styles: Cute, Casual, Active
+SubCategories: Tees
+
+Cartoon Fish Graphic Cut-&-Sew Cropped Tee
+A:
+Patterns: Graphic,  Animal
+Styles: Cute, Casual, Active
+SubCategories: Tees
+
+Cartoon Girl Graphic Cut-&-Sew Cropped Tee
+A:
+Patterns: Graphic
+Styles: Cute, Casual, Active
+SubCategories: Tees
+
+Floral V-Neck Tee
+A:
+Patterns: Patterned,  Floral,  Graphic
+Styles: Casual, Cute
+SubCategories: Tees
+
+Geometric-Print V-Neck Tee
+A:
+Patterns: Patterned,  Graphic
+Styles: Casual, Cool
+SubCategories: Tees
+
+Fitted Paint-Splatter Tee
+A:
+Patterns: Graphic
+Styles: Casual, Cool
+SubCategories: Tees
+
+Elephant Graphic Tee
+A:
+Patterns: Graphic,  Animal
+Styles: Cute, Casual
+SubCategories: Tees
+
+Tiger Graphic Tee
+A:
+Patterns: Graphic,  Animal
+Styles: Unique, Casual
+SubCategories: Tees
+
+Ghost Graphic Rolled-Sleeve Tee
+A:
+Patterns: Graphic
+Styles: Cute, Casual
+SubCategories: Tees
+
+ Graphic Back Rolled-Sleeve Tee
+A:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Tees
+
+Mushroom-Print Round-Neck Tee
+A:
+Patterns: Graphic,  Patterned
+Styles: Unique, Casual
+SubCategories: Tees
+
+Fitted Striped Short-Sleeve Knit Top
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits
+
+Ribbed Knit Turtleneck Sweater
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Knits
+
+Star-Print V-Neck Knit Sweater
+A:
+Patterns: Patterned
+Styles: Casual, Cute
+SubCategories: Knits
+
+Striped V-Neck Knit Sweater
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits
+
+Lettering Graphic One-Shoulder Tee
+A:
+Patterns: Graphic
+Styles: Casual, Active, Cool
+SubCategories: Tees
+
+One-Shoulder Tee
+A:
+Patterns: None
+Styles: Casual, Active, Cool
+SubCategories: Tees
+
+Multicolored Short-Sleeve Shirt
+A:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Shirts
+
+Fluffy Striped Hoodie
+A:
+Patterns: Striped
+Styles: Relaxed, Casual
+SubCategories: Hoodies,  Sweatwear
+
+Hoodie w/ Sleeve Logo Stripe
+A:
+Patterns: Graphic
+Styles: Casual, Active
+SubCategories: Hoodies,  Sweatwear
+
+Oversized Sweets-Print Hoodie
+A:
+Patterns: Patterned,  Animal,  Fruit
+Styles: Cute, Casual
+SubCategories: Hoodies,  Sweatwear
+
+Oversized Multicolored Hoodie
+A:
+Patterns: None
+Styles: Casual, Active, Unique
+SubCategories: Hoodies,  Sweatwear
+
+Rib-Knit Tank Top
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Knits
+
+Henley-Neck Ribbed Tank Top
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: None
+
+Paint-Splatter Tank Top
+A:
+Patterns: Graphic
+Styles: Active, Casual, Cool
+SubCategories: None
+
+Fitted Cropped Button-Front Tank Top
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: None
+
+Fitted Cropped Striped Tank Top
+A:
+Patterns: Striped
+Styles: Active, Casual
+SubCategories: None
+
+Fitted Cropped Leather Tank Top
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Leather
+
+Button-Front Cropped Tank Top
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: None
+
+Gingham-Check Cropped Tank Top
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Active
+SubCategories: None
+
+Striped Cropped Tank Top
+A:
+Patterns: Striped
+Styles: Casual, Active
+SubCategories: None
+
+Damask Knit Sweater
+A:
+Patterns: Traditional,  Patterned
+Styles: Casual, Relaxed, Elegant
+SubCategories: Knits
+
+2-Tone Knit Sweater
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Fair Isle Knit Sweater
+A:
+Patterns: Traditional,  Patterned
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Knit Sweater w/ Pearl Embroidery
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Knits
+
+Argyle Knit Sweater
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Layered Knit Sweater
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Shirts
+
+Tilden-Knit Sweater
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Shaggy Knit Sweater
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Sheer Knit Sweater
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Ribbed Knit Sweater
+A:
+Patterns: None
+Styles: Simple, Casual, Relaxed
+SubCategories: Knits
+
+Guide-Muse Jacket
+A:
+Patterns: None
+Styles: Unique, Elegant, Cool
+SubCategories: Jackets,  Suits
+
+Gingham-Check Multicolored-Bead Apron
+A:
+Patterns: Plaid,  Graphic,  Traditional
+Styles: Cute, Unique
+SubCategories: Accessories
+
+Houndstooth-Print Knit Sweater w/ Three-Quarter Sleeves
+A:
+Patterns: Plaid,  Traditional
+Styles: Relaxed, Casual
+SubCategories: Knits
+
+Wavy-Design Knit Sweater
+A:
+Patterns: None
+Styles: Relaxed, Casual
+SubCategories: Knits
+
+Leopard-Print Knit Sweater w/ Three-Quarter Sleeves
+A:
+Patterns: Animal,  Patterned
+Styles: Relaxed, Casual, Cool
+SubCategories: Knits
+
+Floret-Print Camisole w/ Bow
+A:
+Patterns: Floral,  Patterned,  Graphic
+Styles: Relaxed, Cute, Casual
+SubCategories: None
+
+Multicolored-Stripe Knit Sweater
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits
+
+Flounce-Sleeve Knit Sweater
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Knits
+
+2-Color Flounce-Sleeve Knit Sweater
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Knits
+
+Multicolored Cropped Blouse w/ Large Frilled Collar
+A:
+Patterns: None
+Styles: Elegant, Cute, Unique
+SubCategories: Shirts
+
+Knit Turtleneck Sweater w/ Ring-Buckle Belt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits
+
+Knit Sweater w/ Embroidered Flowers
+A:
+Patterns: Floral,  Patterned
+Styles: Casual, Cute
+SubCategories: Knits
+
+Balloon-Sleeve Velour Blouse
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Tees
+
+Balloon-Sleeve Knit Sweater w/ Lace Stripes Design
+A:
+Patterns: Floral
+Styles: Casual, Cute
+SubCategories: Knits
+
+Striped Balloon-Sleeve Knit Sweater w/ Embroidery
+A:
+Patterns: Striped
+Styles: Casual, Cute
+SubCategories: Knits
+
+Yume Kawaii Tee w/ Necklace & Arm Sleeves
+A:
+Patterns: Graphic
+Styles: Cute, Casual, Unique
+SubCategories: Tees,  Accessories
+
+Plunging-Neckline Halter Top
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: None
+
+Camisole w/ Choker & Necklace
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Accessories
+
+Sleeveless Frilled Blouse w/ Shoulder Pads
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Shirts
+
+Sleeveless Tee w/ Shoulder Pads & Accessories
+A:
+Patterns: Graphic
+Styles: Cute, Active
+SubCategories: Tees,  Accessories
+
+Short-Sleeve Knit Turtleneck Top
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Knits
+
+Frilled-Collar Blouse w/ Cable-Knit Vest
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Knits,  Shirts
+
+Sailor-Collar Polka-Dot Blouse
+A:
+Patterns: Dotted
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Sailor-Collar Blouse w/ Mimosa Embroidery
+A:
+Patterns: Floral
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Round-Collar Flared-Cuff Blouse
+A:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Logo Sweatshirt
+A:
+Patterns: Graphic
+Styles: Casual, Active
+SubCategories: Sweatwear
+
+Sweatshirt w/ Lace-up Sleeves
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Sweatwear
+
+Sweatshirt w/ Frilled Collar
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Sweatwear
+
+Puff-Shoulder Square-Neck Knit Blouse
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Knits
+
+Puff-Shoulder Knit Blouse w/ Ribbon Choker
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Knits,  Accessories
+
+Rib-Knit Sweater
+A:
+Patterns: None
+Styles: Relaxed, Casual
+SubCategories: Knits
+
+Striped Terry-Cloth Knit Sweater
+A:
+Patterns: Striped
+Styles: Relaxed, Casual
+SubCategories: Knits
+
+Fruit Pastry Knit Sweater
+A:
+Patterns: Fruit
+Styles: Cute, Relaxed, Casual
+SubCategories: Knits
+
+Belted Knit Turtleneck Sweater
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Accessories
+
+Low-Gauge Knit Sweater
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Knits
+
+Floral Chiffon Blouse
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Frilled Top w/ Big Collar
+A:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Nordic Knit Sweater w/ Mittens
+A:
+Patterns: Traditional,  Patterned
+Styles: Unique, Cute
+SubCategories: Knits
+
+Knit Sweater w/ Mittens
+A:
+Patterns: None
+Styles: Simple, Cute
+SubCategories: Knits
+
+Text: Ciào Logo Tee A
+Patterns: Animal,  Graphic,  Dotted
+Styles: Cute, Casual, Unique
+SubCategories: Tees
+
+Colorful Monster Tee A
+A:
+Patterns: Graphic,  Striped
+Styles: Unique, Casual, Cute
+SubCategories: Tees,  Accessories
+
+Sheer Tie-Neck Blouse w/ Floral Frills
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Cute
+SubCategories: Shirts
+
+Striped Open-Collar Shirt w/ Scarf
+A:
+Patterns: Striped,  Floral
+Styles: Elegant
+SubCategories: Shirts,  Accessories
+
+Shirt w/ Necktie
+A:
+Patterns: None
+Styles: Cool, Elegant
+SubCategories: Shirts
+
+Open-Collar Shirt w/ Scarf
+A:
+Patterns: Patterned
+Styles: Elegant
+SubCategories: Shirts,  Accessories
+
+Flame-Print Sweatshirt w/ Accessories
+A:
+Patterns: Graphic
+Styles: Casual, Active, Cool
+SubCategories: SweatwearAccessories
+
+Vintage Blouse w/ Gobelin Tapestry Bustier
+A:
+Patterns: Floral,  Patterned
+Styles: Casual, Cute, Elegant
+SubCategories: Shirts,  Accessories
+
+Torsion Lace Blouse w/ Ribbons
+A:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Cropped Tank Top w/ Logo & Neck Chain
+A:
+Patterns: Graphic
+Styles: Casual, Active
+SubCategories: Accessories
+
+Frilled-Collar Houndstooth-Print Vest w/ Ribbon
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Knits,  Shirts
+
+Leopard-Print Open-Collar Shirt w/ Scarf
+A:
+Patterns: Animal,  Patterned
+Styles: Elegant, Cool
+SubCategories: Shirts,  Accessories
+
+Gravity Flame Tee w/ Arm Warmers
+A:
+Patterns: Graphic,  Striped
+Styles: Casual, Cool
+SubCategories: Tees,  Accessories
+
+Denim Bustier
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Accessories
+
+Camouflage Cropped Tank Top
+A:
+Patterns: Patterned,  Graphic
+Styles: Cool, Casual, Active
+SubCategories: Accessories
+
+Shirt w/ Jewel Necklace
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Shirts,  Accessories
+
+Jacquard Prince Vest
+A:
+Patterns: Traditional,  Floral,  Graphic
+Styles: Elegant
+SubCategories: Shirts,  Accessories
+
+Frilled Blouse w/ Tweed Cardigan
+A:
+Patterns: Plaid
+Styles: Elegant, Cute
+SubCategories: Knits,  Shirts,  Jackets
+
+Band-Collar Shirt
+B:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Open-Collar Short-Sleeve Shirt
+B:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Shirts
+
+Cat Paw Knit Sweater
+B:
+Patterns: Animal
+Styles: Cute, Casual, Relaxed
+SubCategories: Knits
+
+Hoodie
+B:
+Patterns: None
+Styles: Simple, Active, Casual
+SubCategories: Hoodies,  Sweatwear
+
+High-Gauge Knit Sweater
+B:
+Patterns: None
+Styles: Simple, Casual, Cool
+SubCategories: Knits
+
+Sailor Shirt
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Shirts
+
+2-Tone Hoodie
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Hoodies,  Sweatwear
+
+Junk-Food Print Hoodie
+B:
+Patterns: Graphic,  Patterned
+Styles: Unique, Active, Casual
+SubCategories: Hoodies,  Sweatwear
+
+High-Pile Fleece Hoodie
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Hoodies
+
+Velour Hoodie
+B:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Hoodies
+
+Striped High-Gauge Knit Sweater
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits
+
+Houndstooth High-Gauge Knit Sweater
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Knits
+
+Oversized Knit Sweater
+B:
+Patterns: None
+Styles: Relaxed, Casual, Cute
+SubCategories: Knits
+
+Turtleneck Sweatshirt w/ Gingham-Check Pocket
+B:
+Patterns: Plaid,  Graphic,  Traditional
+Styles: Relaxed, Casual, Cute
+SubCategories: Sweatwear
+
+Cartoon Bird Graphic Tee
+B:
+Patterns: Graphic,  Animal
+Styles: Unique, Casual
+SubCategories: Tees
+
+Occult Pyramid Graphic Tee
+B:
+Patterns: Graphic
+Styles: Casual, Unique
+SubCategories: Tees
+
+Hungry Dog Graphic Tee
+B:
+Patterns: Graphic,  Animal
+Styles: Casual, Unique
+SubCategories: Tees
+
+Tropical Neon Graphic Tee
+B:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Tees
+
+Cartoon Lady Graphic Tee
+B:
+Patterns: Graphic
+Styles: Casual, Cute
+SubCategories: Tees
+
+Rainbow Tree Graphic Tee
+B:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Tees
+
+Striped Cat Graphic Tee
+B:
+Patterns: Graphic,  Animal
+Styles: Unique, Casual
+SubCategories: Tees
+
+"Fun" Character Graphic Tee
+B:
+Patterns: Graphic
+Styles: Unique, Casual
+SubCategories: Tees
+
+Printed-Pocket Tee
+B:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Tees
+
+Tee w/ Leaf-Print Pocket
+B:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Tees
+
+Squiggles & Dots Graphic Tee
+B:
+Patterns: Graphic,  Dotted,  Patterned
+Styles: Casual
+SubCategories: Tees
+
+Sushi-Print Tee
+B:
+Patterns: Graphic,  Patterned
+Styles: Unique, Casual
+SubCategories: Tees
+
+Fried-Egg Print Tee
+B:
+Patterns: Graphic,  Patterned
+Styles: Unique, Casual
+SubCategories: Tees
+
+Bold-Stripe Tee
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tees
+
+Checkered Tee
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Tees
+
+Thin-Stripe Tee
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tees
+
+2-Tone Henley-Neck Tee
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Tees
+
+Pinstripe Tee
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tees
+
+Tropical Botanical-Print Tee
+B:
+Patterns: Patterned,  Graphic
+Styles: Casual
+SubCategories: Tees
+
+Zebra-Print Tee
+B:
+Patterns: Animal,  Striped,  Patterned
+Styles: Casual, Cool
+SubCategories: Tees
+
+Glasses Graphic Tee
+B:
+Patterns: Graphic
+Styles: Unique, Casual
+SubCategories: Tees
+
+Sheep Graphic Tee
+B:
+Patterns: Graphic,  Animal
+Styles: Casual, Cute
+SubCategories: Tees
+
+Watercolor Random-Dot Tee
+B:
+Patterns: Dotted,  Graphic
+Styles: Casual, Cute
+SubCategories: Tees
+
+Diagonal Line Tee
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Tees
+
+Mohair Knit Sweater
+B:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Striped Knit Sweater
+B:
+Patterns: Striped
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Santa Sweater
+B:
+Patterns: None
+Styles: Unique, Cute, Relaxed
+SubCategories: Knits
+
+Ugly Christmas Sweater
+B:
+Patterns: None
+Styles: Unique, Cute, Relaxed
+SubCategories: Knits
+
+Science-Design Sweater
+B:
+Patterns: None
+Styles: Unique, Cute, Relaxed
+SubCategories: Knits
+
+Dinosaur Knit Sweater
+B:
+Patterns: Animal
+Styles: Unique, Cute, Relaxed
+SubCategories: Knits
+
+Sweatshirt w/ Sleeve Logo
+B:
+Patterns: Graphic
+Styles: Active, Casual
+SubCategories: Sweatwear
+
+Houndstooth Knit Sweater
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Rainbow-Marks Mohair Knit Sweater
+B:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits
+
+Camping Graphic Layered Tee
+B:
+Patterns: Graphic
+Styles: Casual, Active
+SubCategories: Tees,  Sweatwear
+
+Knit Turtleneck Sweater
+B:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Knits
+
+Geometric-Print Short-Sleeve Shirt
+B:
+Patterns: Patterned,  Graphic
+Styles: Casual, Cool
+SubCategories: Shirts
+
+Seaweed-Print Short-Sleeve Shirt
+B:
+Patterns: Patterned
+Styles: Casual, Unique, Relaxed
+SubCategories: Shirts
+
+Retro-Print Short-Sleeve Shirt
+B:
+Patterns: Patterned
+Styles: Casual, Relaxed
+SubCategories: Shirts
+
+Plaid Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Shirts
+
+Dotted Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Dotted
+Styles: Casual, Cute, Relaxed
+SubCategories: Shirts
+
+Striped Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Shirts
+
+Denim Open-Collar Short-Sleeve Shirt
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Shirts
+
+2-Color Striped Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Shirts
+
+Diamond-Print Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Shirts
+
+Botanical-Print Hawaiian Shirt
+B:
+Patterns: Floral,  Patterned,  Traditional
+Styles: Casual, Relaxed
+SubCategories: Shirts
+
+Wavy-Stripe Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Striped,  Traditional
+Styles: Casual, Relaxed
+SubCategories: Shirts
+
+2-Tone Open-Collar Short-Sleeve Shirt
+B:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Shirts
+
+Zig-Zag Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Striped
+Styles: Casual, Cool
+SubCategories: Shirts
+
+Floral Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Floral,  Patterned
+Styles: Casual, Relaxed
+SubCategories: Shirts
+
+Cutlery-Print Open-Collar Short-Sleeve Shirt
+B:
+Patterns: Patterned
+Styles: Casual, Unique
+SubCategories: Shirts
+
+Bowling Shirt
+B:
+Patterns: Graphic
+Styles: Simple, Casual, Active
+SubCategories: Shirts
+
+Eagle-Patch Bowling Shirt
+B:
+Patterns: Animal
+Styles: Cool, Casual, Active
+SubCategories: Shirts
+
+Grid-Print Bowling Shirt
+B:
+Patterns: Plaid
+Styles: Casual, Active
+SubCategories: Shirts
+
+Suit Vest
+B:
+Patterns: Striped
+Styles: Elegant, Cool
+SubCategories: Suits,  Shirts
+
+Ellipsis Graphic Layered Tee
+B:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Tees
+
+High Five Graphic Layered Tee
+B:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Tees
+
+Cartoon Orange Graphic Layered Tee
+B:
+Patterns: Graphic,  Striped,  Fruit
+Styles: Unique, Casual, Cute
+SubCategories: Tees
+
+Geometric-Line Layered Tee
+B:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Tees
+
+Steer-Emblem Layered Tee
+B:
+Patterns: Graphic,  Animal,  Graphic
+Styles: Casual, Cool
+SubCategories: Tees
+
+Open-Collar Shirt
+B:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Shirts
+
+Hat-Print Band-Collar Shirt
+B:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Shirts
+
+Star-Print Band-Collar Shirt
+B:
+Patterns: Patterned
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Multicolored Tee
+B:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Tees
+
+Neon-Mosaic Print Hoodie
+B:
+Patterns: Patterned,  Graphic
+Styles: Active, Cool, Casual
+SubCategories: Hoodies,  Sweatwear
+
+Striped Band-Collar Shirt
+B:
+Patterns: Striped
+Styles: Elegant
+SubCategories: Shirts
+
+Plaid Band-Collar Shirt
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Shirts
+
+Grid-Print Band-Collar Shirt
+B:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Shirts
+
+Gingham-Check Band-Collar Shirt
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Gingham-Check Shirt
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Pinstripe Shirt
+B:
+Patterns: Striped
+Styles: Elegant
+SubCategories: Shirts
+
+Grid-Print Shirt
+B:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Shirts
+
+Long-Sleeve Denim Shirt
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Shirts
+
+Dotted Shirt
+B:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Random-Dot Shirt
+B:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Shirts
+
+Tartan-Plaid Shirt
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Shirts
+
+Monochrome Floral Shirt
+B:
+Patterns: Floral
+Styles: Elegant, Casual
+SubCategories: Shirts
+
+Mid-Century-Print Open-Collar Shirt
+B:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Shirts
+
+Square-Patterned Open-Collar Shirt
+B:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Shirts
+
+Leopard-Print Open-Collar Shirt
+B:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Shirts
+
+Rose-Print Open-Collar Shirt
+B:
+Patterns: Floral,  Patterned
+Styles: Casual, Cool
+SubCategories: Shirts
+
+2-Color Striped Open-Collar Shirt
+B:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Shirts
+
+Botanical-Print Suit Vest
+B:
+Patterns: Floral,  Patterned
+Styles: Elegant, Cool
+SubCategories: Suits,  Shirts
+
+Embossed Leaf-Print Suit Vest
+B:
+Patterns: Patterned
+Styles: Elegant, Cool
+SubCategories: Suits,  Shirts
+
+Multicolored Suit Vest
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Suits,  Shirts
+
+Striped Shirt w/ Necktie
+B:
+Patterns: Striped
+Styles: Elegant, Cool
+SubCategories: Suits,  Shirts
+
+Wing-Collar Shirt w/ Vest
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Shirts,  Suits
+
+Backless Vest w/ Crossover-Tie
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Shirts,  Suits
+
+Hickory Backless Vest w/ Crossover Tie
+B:
+Patterns: Striped
+Styles: Elegant, Cool
+SubCategories: Shirts,  Suits
+
+Tee w/ Knit Vest
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Knits,  Tees
+
+Tee w/ Striped V-Neck Knit Vest
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits,  Tees
+
+Tee w/ Houndstooth-Print V-Neck Knit Vest
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Knits,  Tees
+
+Open-Collar Short-Sleeve Shirt w/ Scarf
+B:
+Patterns: Traditional,  Patterned,  Graphic
+Styles: Casual, Elegant
+SubCategories: Shirts,  Accessories
+
+Floral Open-Collar Short-Sleeve Shirt w/ Necklace
+B:
+Patterns: Floral,  Patterned
+Styles: Casual
+SubCategories: Shirts,  Accessories
+
+Open-Collar Short-Sleeve Shirt w/ Necklace
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Shirts,  Accessories
+
+Yume Kawaii Tee w/ Choker & Necklace
+B:
+Patterns: Graphic
+Styles: Unique, Cute, Casual
+SubCategories: Tees,  Accessories
+
+Gingham-Check Sailor Shirt
+B:
+Patterns: Plaid,  Traditional
+Styles: Cute, Casual
+SubCategories: Shirts
+
+Striped Sailor Shirt
+B:
+Patterns: Striped
+Styles: Cute, Casual
+SubCategories: Shirts
+
+Multicolored Polo Shirt
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Shirts
+
+Royal Puff-Sleeve Top
+B:
+Patterns: Patterned,  Graphic
+Styles: Unique, Elegant, Cute
+SubCategories: Shirts
+
+Oversized Tee w/ Necklace
+B:
+Patterns: Graphic
+Styles: Casual, Simple
+SubCategories: Tees,  Accessories
+
+Oversized Tee
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Tees
+
+Shirt w/ Jeweled Necklace
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Shirts,  Accessories
+
+Shirt w/ Scarf
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Shirts,  Accessories
+
+Multicolored Hoodie
+B:
+Patterns: None
+Styles: Active, Casual, Unique
+SubCategories: Hoodies,  Sweatwear
+
+Oversized Striped Knit Sweater
+B:
+Patterns: Striped
+Styles: Relaxed, Casual, Cute
+SubCategories: Knits
+
+Long-Sleeve Polo Shirt
+B:
+Patterns: None
+Styles: Casual, Active, Simple
+SubCategories: Shirts
+
+Rugby Shirt
+B:
+Patterns: Striped
+Styles: Active, Casual
+SubCategories: Shirts,  Tees
+
+Knit Turtleneck Sweater w/ Stripe Design
+B:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Knits
+
+Knit Turtleneck Sweater w/ Necklace
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Knits,  Accessories
+
+Long-Sleeve Tee
+B:
+Patterns: Graphic
+Styles: Simple, Casual
+SubCategories: Tees
+
+Skull Graphic Long-Sleeve Tee
+B:
+Patterns: Graphic
+Styles: Cool, Casual
+SubCategories: Tees
+
+Denim Long-Sleeve Tee
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Tees
+
+Camouflage-Sleeve Long-Sleeve Tee
+B:
+Patterns: Graphic,  Patterned
+Styles: Cool, Casual
+SubCategories: Tees
+
+Vertical-Stripe Long-Sleeve Tee
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tees
+
+Paint-Splatter Long-Sleeve Tee
+B:
+Patterns: Graphic
+Styles: Casual, Cool
+SubCategories: Tees
+
+Rose-Print Long-Sleeve Tee
+B:
+Patterns: Floral,  Graphic,  Patterned
+Styles: Casual
+SubCategories: Tees
+
+Tartan-Plaid Suit Vest
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Cool
+SubCategories: Suits,  Shirts
+
+Denim Sailor Top
+B:
+Patterns: Patterned,  Graphic
+Styles: Unique, Cool, Relaxed
+SubCategories: Denim,  Accessories
+
+Frilled Embroidered-Front Blouse
+B:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Shirts
+
+Hearts & Gingham Apron Top w/ Mittens
+B:
+Patterns: Plaid,  Traditional
+Styles: Unique, Cute
+SubCategories: Shirts
+
+Dress Shirt w/ Harness
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Shirts,  Accessories,  Leather
+
+Text: Ciào Logo Tee B
+B:
+Patterns: Animal,  Graphic,  Dotted
+Styles: Cute, Casual, Unique
+SubCategories: Tees
+
+Text: '"Lily the Fashion Doll" Sena Long-Sleeve Tee'
+B:
+Patterns: Graphic
+Styles: Cool, Casual, Unique
+SubCategories: Tees
+
+Rolled-Sleeve Shirt w/ Cable-Knit Vest
+B:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Shirts,  Knits
+
+Shirt w/ Neck Bow
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Shirts
+
+Colorful Monster Tee B
+B:
+Patterns: Graphic,  Striped
+Styles: Unique, Casual, Cute
+SubCategories: Tees,  Accessories
+
+Royal Tuxedo Suit Vest
+B:
+Patterns: Traditional
+Styles: Elegant, Cool
+SubCategories: Shirts,  Suits,  Accessories
+
+Flame-Print Tee w/ Arm Warmers
+B:
+Patterns: Graphic
+Styles: Casual, Active, Cool
+SubCategories: Tees,  Accessories
+
+Nylon Anorak & Flannel Shirt
+B:
+Patterns: Plaid
+Styles: Active, Casual
+SubCategories: Hoodies,  Shirts
+
+Shirt w/ Steampunk Vest
+B:
+Patterns: None
+Styles: Unique, Elegant, Cool
+SubCategories: Shirts,  Accessories
+
+Punk Tee w/ Arm Warmers & Accessory
+B:
+Patterns: Graphic,  Striped
+Styles: Casual, Cool
+SubCategories: Tees,  Accessories
+
+Wonder Parade Top
+B:
+Patterns: Striped,  Patterned,  Plaid
+Styles: Unique, Cute
+SubCategories: Shirts,  Accessories
+
+Loose Tank Top w/ Necklace
+B:
+Patterns: Graphic
+Styles: Casual, Active
+SubCategories: Accessories
+
+Tee w/ Striped Shirt Tied Over-the-Shoulder & Wristwatch
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tees,  Shirts
+
+Striped Tee w/ Shirt Tied Over-the-Shoulder
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tees,  Shirts
+
+Cropped Color Block Tank Top
+B:
+Patterns: Graphic
+Styles: Casual, Active
+SubCategories: Accessories
+
+Noble Puff-Sleeve Crop Top
+B:
+Patterns: Patterned
+Styles: Unique, Cool, Elegant
+SubCategories: None
+
+Tank Top w/ Leather Gloves
+B:
+Patterns: Floral
+Styles: Cool
+SubCategories: Leather,  Accessories
+
+Athletic Loose Tank Top
+B:
+Patterns: Graphic
+Styles: Casual, Active
+SubCategories: Accessories
+
+Garden Berry Top
+B:
+Patterns: Fruit,  Patterned
+Styles: Cute, Elegant
+SubCategories: Shirts
+
+Scary Cherry Shirt w/ Ribbons
+B:
+Patterns: Fruit,  Graphic,  Patterned
+Styles: Cute, Casual
+SubCategories: Shirts
+
+Fluffy Knit Cardigan
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Trench Coat w/ Cuffed Sleeves
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Coats
+
+Loose Jacket
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Jackets
+
+Leather Biker Jacket
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Leather,  Jackets
+
+Long Knit Cardigan
+A:
+Patterns: None
+Styles: Casual, Simple, Relaxed
+SubCategories: Knits,  Coats
+
+Chesterfield Coat
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Coats
+
+Tailored Jacket
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Jackets
+
+Leopard-Print Chesterfield Coat
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual, Elegant
+SubCategories: Coats
+
+Gingham-Check Chesterfield Coat
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Elegant
+SubCategories: Coats
+
+Star-Print Chesterfield Coat
+A:
+Patterns: Patterned
+Styles: Casual, Elegant
+SubCategories: Coats
+
+Plaid Chesterfield Coat
+A:
+Patterns: Plaid
+Styles: Casual, Elegant
+SubCategories: Coats
+
+Botanical-Print Tailored Jacket
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Jackets
+
+2-Tone Plaid Tailored Jacket
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Jackets
+
+Polka-Dot Tailored Jacket
+A:
+Patterns: Dotted
+Styles: Elegant
+SubCategories: Jackets
+
+Striped Tailored Jacket
+A:
+Patterns: Striped
+Styles: Elegant
+SubCategories: Jackets
+
+3-Line Plaid Tailored Jacket
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Jackets
+
+Glen-Plaid High-Pile Fleece Coat
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Coats
+
+Collarless Jacket
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Jackets
+
+Long Gilet
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Coats,  Jackets
+
+Long Cable-Knit Gilet
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Coats,  Jackets
+
+Long Leopard-Print Gilet
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Coats
+
+Bear-Print Jacket w/ Pom-Pom Collar
+A:
+Patterns: Animal,  Graphic
+Styles: Cute, Casual, Unique
+SubCategories: Jackets
+
+Guide-Muse Coat
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Argyle Knit Cardigan
+B:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool, Relaxed
+SubCategories: Knits,  Jackets
+
+Leopard-Print Knit Cardigan
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool, Relaxed
+SubCategories: Knits,  Jackets
+
+Elbow-Stripes Knit Cardigan
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Loose Plaid Jacket
+A:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: Jackets
+
+Loose Houndstooth-Print Jacket
+A:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: Jackets
+
+Loose Leopard-Print Jacket
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Elegant
+SubCategories: Jackets
+
+Loose Gingham-Check Jacket
+A:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: Jackets
+
+Long Cable-Knit Cardigan
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits,  Coats,  Jackets
+
+Suede Biker Jacket
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Jackets
+
+Velour Biker Jacket
+A:
+Patterns: None
+Styles: Cool, Elegant
+SubCategories: Jackets
+
+Cape w/ Bows & Pom-Pom
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Jackets,  Coats
+
+Cropped Coat w/ Bows
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Coats
+
+Cropped Lace-up Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Open-Front Knit Cardigan
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Knits,  Jackets
+
+Holographic Zip-up Jacket
+A:
+Patterns: None
+Styles: Unique, Casual
+SubCategories: Jackets
+
+Cable-Knit Cardigan
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Cloud-Print Knit Cardigan
+A:
+Patterns: Patterned
+Styles: Casual, Relaxed, Cute
+SubCategories: Knits,  Jackets
+
+Apple-Print Knit Cardigan
+A:
+Patterns: Fruit,  Patterned
+Styles: Casual, Relaxed, Cute
+SubCategories: Knits,  Jackets
+
+Long Blurred-Stripe Knit Cardigan
+A:
+Patterns: Striped
+Styles: Casual, Relaxed
+SubCategories: Knits,  Coats
+
+Long Wide-Stripe Knit Cardigan
+A:
+Patterns: Striped
+Styles: Casual, Relaxed
+SubCategories: Knits,  Coats
+
+Long Striped Knit Cardigan
+A:
+Patterns: Striped
+Styles: Casual, Relaxed
+SubCategories: Knits,  Coats
+
+Loose Velour Jacket
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Jackets
+
+Loose Denim Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Jackets
+
+Loose Pinstripe Jacket
+A:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Jackets
+
+Loose Striped Jacket
+A:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Jackets
+
+Twill-Weave Chesterfield Coat
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Coats
+
+Zebra-Print Chesterfield Coat
+A:
+Patterns: Animal,  Striped,  Patterned
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Denim Chesterfield Coat
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Coats
+
+Botanical-Print Biker Jacket
+A:
+Patterns: Floral
+Styles: Cool, Elegant
+SubCategories: Jackets
+
+Metallic Biker Jacket
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Jackets
+
+Leather Biker Jacket w/ Star Studs
+A:
+Patterns: Patterned
+Styles: Cool, Casual
+SubCategories: Leather,  Jackets
+
+Cropped Knit Cardigan w/ Pom-Poms
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Knits,  Jackets
+
+Multicolored Trench Coat w/ Cuffed Sleeves
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Coats
+
+Striped Coarse-Knit Cardigan
+A:
+Patterns: Striped
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Cherry-Detail Knit Cardigan
+A:
+Patterns: Fruit
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Stripe-Detail Cable-Knit Cardigan
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Multicolored-Stripe Knit Cardigan
+A:
+Patterns: Striped
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Loose Polka-Dot Jacket
+A:
+Patterns: Dotted
+Styles: Elegant, Casual
+SubCategories: Jackets
+
+Loose Zebra-Print Jacket
+A:
+Patterns: Animal,  Striped,  Patterned
+Styles: Elegant, Cool
+SubCategories: Jackets
+
+Loose Multicolored Jacket
+A:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Jackets
+
+Trench Coat
+A:
+Patterns: None
+Styles: Casual, Elegant, Cool
+SubCategories: Coats
+
+Suede Zip-up Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Rose-Print Zip-up Jacket
+A:
+Patterns: Floral,  Graphic
+Styles: Casual, Elegant
+SubCategories: Jackets
+
+Witch Cape
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Jackets,  Coats
+
+Velour Zip-up Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Floral Zip-up Jacket
+A:
+Patterns: Floral,  Patterned,  Graphic
+Styles: Casual, Elegant
+SubCategories: Jackets
+
+Quilted Zip-up Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Patent-Leather Zip-up Jacket
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Jackets,  Leather
+
+Botanical-Print Zip-up Jacket
+A:
+Patterns: Floral,  Graphic
+Styles: Casual, Elegant
+SubCategories: Jackets
+
+Gingham-Check Zip-up Jacket
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Jackets
+
+Houndstooth-Print Zip-up Jacket
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Jackets
+
+Denim Zip-up Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Jackets
+
+Mouton Fur Coat
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Coats
+
+Dotted Open-Front Knit Cardigan
+A:
+Patterns: Dotted
+Styles: Casual
+SubCategories: Knits,  Jackets
+
+High-Pile Fleece Coat
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Coats
+
+Quilted Jacket w/ Pom-Pom Collar
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Jackets
+
+Long Python-Print Knit Cardigan
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Elegant, Relaxed
+SubCategories: Coats,  Knits
+
+Floral Open-Front Knit Cardigan
+A:
+Patterns: Floral
+Styles: Elegant, Casual
+SubCategories: Knits,  Jackets
+
+Houndstooth-Print Knit Cardigan
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Low-Gauge Knit Cardigan
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Holographic Biker Jacket
+A:
+Patterns: None
+Styles: Cool, Unique
+SubCategories: Jackets
+
+Multicolored Leather Biker Jacket
+A:
+Patterns: None
+Styles: Cool, Unique, Casual
+SubCategories: Leather,  Jackets
+
+Velour Chesterfield Coat
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Coats
+
+Metallic Tailored Jacket
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Jackets
+
+Metallic Zip-up Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Letter Jacket
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Jackets
+
+Mod Coat
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Coats
+
+Text: Butterfly Dream Wings A
+Patterns: Animal
+Styles: Unique, Cute
+SubCategories: Accessories
+
+Cropped Down Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Multicolored Cropped Down Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+High-Pile Fleece Jacket w/ Pom-Pom Collar
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Jackets
+
+Camouflage Cropped Down Jacket
+A:
+Patterns: Patterned
+Styles: Cool, Casual
+SubCategories: Jackets
+
+Tailored Jacket w/ Piping
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Jackets
+
+Oversized Tweed Cardigan
+A:
+Patterns: Plaid
+Styles: Casual, Cute
+SubCategories: Knits
+
+Oversized Subculture-Style Jacket
+A:
+Patterns: Graphic
+Styles: Casual, Cute
+SubCategories: Jackets,  Hoodies
+
+Cropped Jean Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Jackets
+
+Multicolored Cropped Jean Jacket
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Jackets
+
+Floret-Print Cropped Down Jacket
+A:
+Patterns: Floral,  Graphic,  Patterned
+Styles: Casual, Cute
+SubCategories: Jackets
+
+2-Color Faux Fur Coat A
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Coats
+
+Damask Tailored Jacket
+A:
+Patterns: Traditional,  Patterned
+Styles: Elegant
+SubCategories: Jackets
+
+Tweed Tailored Jacket
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Jackets
+
+Floral-Print Tailored Jacket
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Jackets
+
+Cropped Jean Jacket w/ Rose Embroidery
+A:
+Patterns: Floral
+Styles: Casual, Cool
+SubCategories: Denim,  Jackets
+
+Jewel-Design Tailored Jacket
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Jackets
+
+Short Letter Jacket w/ Teddy Bear Backpack
+A:
+Patterns: Animal
+Styles: Cute, Casual
+SubCategories: Jackets
+
+Rose Lace Cape
+A:
+Patterns: Floral
+Styles: Cute, Elegant
+SubCategories: Jackets,  Coats
+
+Double-Rider Jacket
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Leather,  Jackets
+
+Pinstripe Sports Coat
+B:
+Patterns: Striped
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+British Suit Jacket
+B:
+Patterns: Plaid
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Down Coat
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Coats
+
+Duffle Coat
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Hoodies,  Coats
+
+Suede Double-Rider Jacket
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Jackets
+
+Metallic Double-Rider Jacket
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Jackets
+
+2-Tone Leather Biker Jacket
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Leather,  Jackets
+
+Denim Biker Jacket
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Denim,  Jackets
+
+Embossed-Skull Leather Biker Jacket
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Leather,  Jackets
+
+Fleece Vest
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Jackets
+
+Mandarin Jacket
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Quilted Wool Vest
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Jackets
+
+Baseball Jacket
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Jackets
+
+Bomber Jacket
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Jackets
+
+Tiger Bomber Jacket
+B:
+Patterns: Animal,  Patterned,  Graphic
+Styles: Cool, Casual, Unique
+SubCategories: Jackets
+
+Plaid Baseball Jacket
+B:
+Patterns: Plaid
+Styles: Casual, Active
+SubCategories: Jackets
+
+Bejeweled Bomber Jacket
+B:
+Patterns: Floral
+Styles: Unique, Casual, Cool
+SubCategories: Jackets
+
+Jacket w/ Contrasting Trim
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Jackets,  Suits
+
+Leather Suit Jacket
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather,  Suits,  Jackets
+
+Botanical-Print Suit Jacket
+B:
+Patterns: Floral,  Patterned
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Embossed Leaf-Print Suit Jacket
+B:
+Patterns: Patterned
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Plaid Suit Jacket
+B:
+Patterns: Plaid
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+2-Tone Striped Suit Jacket
+B:
+Patterns: Striped
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Striped Suit Jacket
+B:
+Patterns: Striped
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Houndstooth-Print Sports Coat
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Velour Suit Jacket
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Tartan-Plaid Suit Jacket
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Tartan-Plaid British Suit Jacket
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Long Chesterfield Coat
+B:
+Patterns: None
+Styles: Elegant, Simple, Casual
+SubCategories: Coats
+
+Knit Cardigan
+B:
+Patterns: None
+Styles: Casual, Simple, Relaxed
+SubCategories: Knits,  Jackets
+
+Vest
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Suits,  Jackets
+
+Tartan-Plaid Chesterfield Coat
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Long Tartan-Plaid Chesterfield Coat
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Plaid Trench Coat
+B:
+Patterns: Plaid
+Styles: Casual, Elegant, Cool
+SubCategories: Coats
+
+2-Tone Trench Coat
+B:
+Patterns: None
+Styles: Casual, Elegant, Cool
+SubCategories: Coats
+
+Gingham-Check Trench Coat
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual, Elegant, Cool
+SubCategories: Coats
+
+Cow-Print Knit Cardigan
+B:
+Patterns: Animal,  Patterned
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Multicolored Knit Cardigan
+B:
+Patterns: Patterned
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+Glen-Plaid Chesterfield Coat
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Multicolored Chesterfield Coat
+B:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Coats
+
+Long Plaid Chesterfield Coat
+B:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Long Glen-Plaid Chesterfield Coat
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Long Chesterfield Coat w/ Badge
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Long Patchwork Chesterfield Coat
+B:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Coats
+
+Long Diamond-Print Chesterfield Coat
+B:
+Patterns: Patterned
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Long Striped Chesterfield Coat
+B:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Coats
+
+Striped Mandarin Jacket
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Jackets
+
+Velour Baseball Jacket
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Jackets
+
+Plaid Nylon Coach Jacket
+B:
+Patterns: Plaid,  Graphic
+Styles: Casual, Active
+SubCategories: Jackets
+
+Multicolored Track Jacket
+B:
+Patterns: Graphic
+Styles: Active, Casual
+SubCategories: Jackets
+
+Plaid Oversized Jacket
+B:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: Jackets
+
+Safari Jacket
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Jackets
+
+Tuxedo Jacket
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Jackets,  Suits
+
+2-Tone Corduroy Jacket
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Corduroy Jacket
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Modern Camo Jacket
+B:
+Patterns: Patterned
+Styles: Cool, Casual
+SubCategories: Jackets
+
+Woodland Camouflage Jacket
+B:
+Patterns: Patterned
+Styles: Cool, Casual
+SubCategories: Jackets
+
+Simple Jacket
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Jackets
+
+Plain Leather Jacket
+B:
+Patterns: None
+Styles: Casual, Cool, Simple
+SubCategories: Leather,  Jackets
+
+2-Tone Jacket
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Multicolored Jacket
+B:
+Patterns: Striped
+Styles: Casual, Unique
+SubCategories: Jackets
+
+Nylon Coach Jacket
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Jackets
+
+Camouflage Nylon Coach Jacket
+B:
+Patterns: Graphic,  Patterned
+Styles: Cool, Casual
+SubCategories: Jackets
+
+Suede Safari Jacket
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Jackets
+
+Multicolored Fleece Vest
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Jackets
+
+Jean Jacket
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Denim,  Jackets
+
+Leather Jacket
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Jackets
+
+Suede Jacket
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Jackets
+
+Multicolored Double-Rider Jacket
+B:
+Patterns: None
+Styles: Cool, Unique, Casual
+SubCategories: Leather,  Jackets
+
+Multicolored Baseball Jacket
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Jackets
+
+Dotted Bomber Jacket
+B:
+Patterns: Dotted
+Styles: Casual, Cool
+SubCategories: Jackets
+
+Horse-Print Knit Jacket
+B:
+Patterns: Animal
+Styles: Casual
+SubCategories: Knits,  Jackets
+
+Totem-Pole-Print Knit Jacket
+B:
+Patterns: Traditional,  Animal
+Styles: Casual
+SubCategories: Knits,  Jackets
+
+Leather Trench Coat
+B:
+Patterns: None
+Styles: Cool, Elegant
+SubCategories: Leather,  Coats
+
+Coat w/ Appliques
+B:
+Patterns: Plaid,  Animal
+Styles: Cute, Unique, Casual
+SubCategories: Coats
+
+Cropped Coat w/ Contrasting Collar
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Coats
+
+Swallow-Tailed Prince Jacket
+B:
+Patterns: None
+Styles: Unique, Elegant
+SubCategories: Jackets
+
+Jacquard Vampire Jacket
+B:
+Patterns: Floral
+Styles: Unique, Elegant, Cool
+SubCategories: Jackets
+
+Text: Butterfly Dream Wings B
+B:
+Patterns: Animal
+Styles: Unique, Cute
+SubCategories: Accessories
+
+Royal Morning Coat
+B:
+Patterns: Traditional,  Floral
+Styles: Elegant, Cool
+SubCategories: Jackets,  Accessories,  Suits
+
+Nylon Jacket
+B:
+Patterns: Graphic
+Styles: Casual, Cute
+SubCategories: Jackets
+
+Tartan-Plaid Cardigan
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual, Relaxed
+SubCategories: Knits,  Jackets
+
+2-Color Faux Fur Coat B
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Coats
+
+Short Double-Button Cape Coat
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Coats,  Jackets
+
+Letter Jacket w/ Teddy Bear Backpack
+B:
+Patterns: Animal
+Styles: Cute, Casual
+SubCategories: Jackets
+
+Patchwork Denim Jacket w/ Strawberry Design
+B:
+Patterns: Fruit,  Dotted
+Styles: Cute, Casual
+SubCategories: Denim,  Jackets
+
+Cropped Leather Jacket w/ Studs
+B:
+Patterns: None
+Styles: Cool
+SubCategories: Leather,  Jackets
+
+Frilled Jumper Dress w/ Lace Blouse
+A:
+Patterns: Floral
+Styles: Elegant, Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+One-Shoulder Overalls
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Pants,  Knits
+
+Scalloped-Lace Dress
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Skirts
+
+Shirred Dress
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Dresses/Kimono,  Skirts,  Long Skirts
+
+Tie-Dyed Long T-Shirt Dress
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Dresses/Kimono,  Skirts,  Tees
+
+Rabbit & Cat Dress
+A:
+Patterns: Graphic,  Patterned,  Striped
+Styles: Unique, Cute
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Plaid Balloon-Skirt Dress
+A:
+Patterns: Plaid
+Styles: Casual, Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Modern Striped Kimono
+A:
+Patterns: Striped,  Traditional
+Styles: Elegant
+SubCategories: Dresses/Kimono
+
+Leopard-Print Shirred Dress
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Dresses/Kimono,  Skirts,  Long Skirts
+
+Form-Fitting Dress w/ Tulle
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Dresses/Kimono,  Skirts
+
+Nurse Dress
+A:
+Patterns: Graphic
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Dolman-Sleeve Hoodie Dress
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hoodies,  Skirts,  Dresses/Kimono
+
+Floral Chiffon Dress
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Dresses/Kimono,  Skirts,  Long Skirts
+
+Dotted Sailor Romper w/ Bows
+A:
+Patterns: Dotted
+Styles: Cute, Casual
+SubCategories: Pants,  Shorts
+
+Pop-Star Outfit Set
+A:
+Patterns: Striped
+Styles: Unique, Cute
+SubCategories: Skirts,  Accessories
+
+Cold-Shoulder Dress
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Dresses/Kimono,  Skirts
+
+Cold-Shoulder Sports Dress
+A:
+Patterns: Graphic,  Striped
+Styles: Casual, Active
+SubCategories: Dresses/Kimono,  Skirts
+
+Glen-Plaid Cold-Shoulder Dress
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Dresses/Kimono,  Skirts
+
+Dinosaur Graphic Knit Dress
+A:
+Patterns: Animal
+Styles: Casual, Cute
+SubCategories: Knits,  Dresses/Kimono,  Skirts
+
+Orihime Milky Way Dress
+A:
+Patterns: Patterned
+Styles: Unique, Elegant
+SubCategories: Dresses/Kimono,  Skirts,  Long Skirts
+
+Overalls
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants,  Tees
+
+Cherry-Print Dress w/ Ribbon Straps
+A:
+Patterns: Patterned,  Fruit
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Skirts
+
+Plaid Overall Sailor Shorts
+A:
+Patterns: Plaid
+Styles: Cute, Casual
+SubCategories: Pants,  Shorts
+
+Tiered Denim Jumper Dress
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Denim,  Dresses/Kimono,  Skirts
+
+Camisole Dress w/ Blouse
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Dresses/Kimono,  Skirts,  Long Skirts
+
+Apron-Style Jumper Dress w/ Camellia Design
+A:
+Patterns: Floral,  Striped,  Traditional
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Jeweled Marine Jumper Dress
+A:
+Patterns: Animal,  Graphic,  Patterned
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Fresh-Lemons Jumper Dress
+A:
+Patterns: Fruit,  Graphic,  Patterned
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Floret-Print Shirred Dress
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual, Elegant
+SubCategories: Dresses/Kimono,  Skirts,  Long Skirts
+
+Dotted Shirred Dress
+A:
+Patterns: Dotted
+Styles: Casual, Elegant
+SubCategories: Dresses/Kimono,  Skirts,  Long Skirts
+
+Striped Nurse Dress
+A:
+Patterns: Striped,  Graphic
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Long T-Shirt Dress w/ Back Ribbon Detail
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Dresses/Kimono,  Skirts,  Tees
+
+Gingham-Check Sailor Romper w/ Bows
+A:
+Patterns: Plaid,  Traditional
+Styles: Cute, Casual
+SubCategories: Pants,  Shorts
+
+Cherry-Print Sailor Romper w/ Bows
+A:
+Patterns: Fruit,  Patterned
+Styles: Cute, Casual
+SubCategories: Pants,  Shorts
+
+Lotus-Design Dress w/ Tassels
+A:
+Patterns: Floral
+Styles: Unique, Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Bunny-Carousel Jumper Dress
+A:
+Patterns: Animal,  Graphic,  Patterned
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Bunny Sundae Dress
+A:
+Patterns: Fruit,  Animal,  Plaid
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Classic Scalloped Dress
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Elegant
+SubCategories: Dresses/Kimono,  Skirts
+
+Raglan-Sleeve Long T-Shirt Dress
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Dresses/Kimono,  Skirts,  Tees
+
+Shirtwaist Dress w/ Harness
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Witch Corset Dress
+A:
+Patterns: None
+Styles: Elegant, Cute, Unique
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Heart-Gingham Apron Dress w/ Mittens
+A:
+Patterns: Plaid,  Traditional
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Frilled-Collar T-Shirt Dress w/ Choker
+A:
+Patterns: Graphic,  Animal
+Styles: Casual, Cute
+SubCategories: Dresses/Kimono,  Accessories,  Tees
+
+Dress w/ Long Knit Vest
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Dresses/Kimono,  Skirts
+
+Asymmetric Knit Dress
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Knits,  Dresses/Kimono,  Skirts
+
+Dotted Dress w/ Heart Pockets
+A:
+Patterns: Dotted
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Strawberry-Picnic Jumper Dress
+A:
+Patterns: Plaid,  Graphic,  Fruit
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Strawberry Decorated Dress
+A:
+Patterns: Fruit,  Floral,  Graphic
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Toy Party Dress
+A:
+Patterns: Animal,  Patterned,  Graphic
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Sailor Dress
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Apron-Style Jumper Dress
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Skirts,  Shirts
+
+Lace-up Dress
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Skirts
+
+Multicolored Overalls
+A:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Pants,  Denim
+
+Multicolored Overall Sailor Shorts
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants
+
+Retro Gingham-Check Diner Uniform
+A:
+Patterns: Plaid,  Traditional
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Skirts
+
+Heart-Print Retro Diner Uniform
+A:
+Patterns: Patterned
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Festive Jumper Dress
+A:
+Patterns: Graphic,  Animal,  Patterned
+Styles: Cute, Unique
+SubCategories: Dresses/Kimono,  Skirts
+
+Tablier Dress
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts,  Shirts
+
+Rose-Print Dress w/ Bows
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Elegant
+SubCategories: Dresses/Kimono,  Skirts
+
+Gingham-Check Dress w/ Ribbon Straps
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Tulip-Print Dress w/ Ribbon Straps
+A:
+Patterns: Floral,  Plaid,  Patterned
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Skirts
+
+Multicolored Polo Dress
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Dresses/Kimono,  Shirts,  Skirts
+
+A-Line Polo Dress
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Dresses/Kimono,  Shirts,  Skirts
+
+Tulip-Print Off-the-Shoulder Romper
+A:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants
+
+Bouquet-Print Off-the-Shoulder Romper w/ Necklace
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants,  Accessories
+
+Shirred Dress w/ Necklace
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Frilled-Collar T-Shirt Dress
+A:
+Patterns: Animal,  Graphic
+Styles: Casual, Cute
+SubCategories: Dresses/Kimono,  Tees,  Skirts
+
+Chiffon Dress
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Dresses/Kimono,  Long Skirts,  Skirts
+
+Sweet Chocolate Jumper Dress
+A:
+Patterns: Plaid,  Graphic
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Vampire Jumper Dress
+A:
+Patterns: Graphic,  Floral
+Styles: Cute, Unique
+SubCategories: Dresses/Kimono,  Skirts
+
+Asymmetric Knit Dress w/ Necklace
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Knits,  Dresses/Kimono,  Accessories
+
+Text: '"Lily the Fashion Doll" Lily T-Shirt Dress'
+A:
+Patterns: Graphic
+Styles: Cute, Casual, Unique
+SubCategories: Dresses/Kimono,  Tees,  Skirts
+
+Text: Butterfly Dream Dress
+Patterns: Animal,  Floral
+Styles: Unique, Elegant
+SubCategories: Dresses/Kimono
+
+Royal Jeweled Dress
+A:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Dresses/Kimono,  Accessories,  Long Skirts
+
+Square-Neck Dress w/ Neck-Bow Blouse
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Shirts,  Skirts
+
+Dress w/ Cropped Blouse
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Shirts,  Skirts
+
+Gingham-Check Camisole Dress w/ Blouse
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Dresses/Kimono,  Long Skirts,  Skirts
+
+Steampunk Crinoline Dress
+A:
+Patterns: None
+Styles: Unique, Elegant
+SubCategories: Dresses/Kimono,  Accessories,  Shirts
+
+Gingham-Check Dress w/ Cropped Blouse
+A:
+Patterns: Plaid,  Traditional
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Shirts,  Skirts
+
+Wonder Parade Dress
+A:
+Patterns: Striped,  Patterned,  Plaid
+Styles: Unique, Cute
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Mermaid Dress
+A:
+Patterns: Patterned
+Styles: Unique, Elegant
+SubCategories: Dresses/Kimono,  Accessories,  Long Skirts
+
+Plaid Apron-Style Jumper Dress
+A:
+Patterns: Plaid
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Shirts,  Skirts
+
+Floret-Print Camisole Dress w/ Blouse
+A:
+Patterns: Floral,  Patterned
+Styles: Casual
+SubCategories: Dresses/Kimono,  Shirts,  Long Skirts
+
+Monster Half-Zip Pullover
+A:
+Patterns: Graphic
+Styles: Casual, Cute
+SubCategories: Skirts,  Dresses/Kimono
+
+Dress w/ Cropped Plaid Blouse
+A:
+Patterns: Plaid
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Shirts,  Skirts
+
+Luminous Horoscope Dress
+A:
+Patterns: Graphic,  Patterned
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts,  Accessories
+
+Low Waist Square Collar Dress
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Dresses/Kimono,  Skirts
+
+Dalmatian-Print Camisole Dress w/ Blouse
+A:
+Patterns: Animal,  Patterned
+Styles: Casual
+SubCategories: Dresses/Kimono,  Shirts,  Long Skirts
+
+Ribbon Doll Jumper Dress
+A:
+Patterns: Floral
+Styles: Cute, Elegant
+SubCategories: Dresses/Kimono,  Skirts
+
+Scary Cherry Lace-up Dress
+A:
+Patterns: Fruit,  Graphic,  Patterned
+Styles: Cute, Casual
+SubCategories: Dresses/Kimono,  Skirts
+
+Garden Berry Doublet Gown
+A:
+Patterns: Fruit,  Patterned
+Styles: Cute
+SubCategories: Dresses/Kimono,  Skirts,  Shirts
+
+Elegant Modern Peony-Print Kimono
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Cute
+SubCategories: Dresses/Kimono,  Accessories
+
+Loose Knee-Length Pants w/ Straps
+B:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Shorts,  Pants,  Shirts
+
+Stamp-Print Shirt & Wide Pants w/ Suspenders
+B:
+Patterns: Patterned,  Graphic
+Styles: Casual
+SubCategories: Pants,  Shirts
+
+Horizontal-Stripes Shirt & Wide Pants w/ Suspenders
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Pants,  Shirts
+
+Open-Collar Shirt & Wide Pants w/ Suspenders
+B:
+Patterns: Patterned,  Animal,  Graphic
+Styles: Casual
+SubCategories: Pants,  Shirts
+
+Kimono w/ Haori Coat
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Dresses/Kimono
+
+Camo Coveralls
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Pants
+
+Patchwork Overalls
+B:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Pants
+
+Paint-Splatter Shirt & Wide Pants w/ Suspenders
+B:
+Patterns: Patterned,  Striped
+Styles: Casual
+SubCategories: Pants,  Shirts
+
+2-Tone Shirt & Multicolored Wide Pants w/ Suspenders
+B:
+Patterns: Striped
+Styles: Casual, Unique
+SubCategories: Pants,  Shirts
+
+Text: Butterfly Dream Cape Tunic
+B:
+Patterns: Animal
+Styles: Unique, Elegant
+SubCategories: Shirts,  Skirts,  Dresses/Kimono
+
+Kimono w/ 2-Tone Haori Coat
+B:
+Patterns: Traditional
+Styles: Elegant
+SubCategories: Dresses/Kimono
+
+Plaid Kimono w/ Haori Coat
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant
+SubCategories: Dresses/Kimono
+
+Fancy Knit Sweater & Overalls
+B:
+Patterns: Patterned,  Fruit,  Animal
+Styles: Cute, Casual
+SubCategories: Knits,  Pants,  Shorts
+
+Default Bottoms (Type A)
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Shorts,  Pants
+
+Default Bottoms (Type B)
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Glasses
+
+Shorts
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Shorts,  Pants
+
+Center-Crease Wide-Leg Pants
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Wide-Leg Jeans
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Zebra-Print Wide-Leg Pants
+A:
+Patterns: Animal,  Graphic,  Patterned
+Styles: Cool, Casual
+SubCategories: Pants
+
+Wide-Leg Jeans w/ Sash
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Rolled-Cuff High-Waisted Skinny Jeans
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Slim-Leg Pants
+A:
+Patterns: None
+Styles: Simple
+SubCategories: Pants
+
+High-Waisted Skinny Jeans
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Denim,  Pants
+
+Skinny Jeans
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants,  Denim
+
+Distressed Skinny Jeans
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Denim,  Pants
+
+Leather Skinny Pants
+A:
+Patterns: None
+Styles: Cool
+SubCategories: Leather,  Pants
+
+Corduroy Shorts w/ Buttons
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Shorts,  Pants
+
+Striped Shorts
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Shorts,  Pants
+
+Plaid Shorts
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Shorts,  Pants
+
+Plaid Slim-Leg Pants
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Pants
+
+Suede Slim-Leg Pants
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Center-Crease Jeans
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Shorts w/ Sash
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Shorts,  Pants
+
+Terrycloth Shorts
+A:
+Patterns: None
+Styles: Relaxed, Simple, Casual
+SubCategories: Shorts,  Pants
+
+Wide Horizontal-Stripe Terry-Cloth Shorts
+A:
+Patterns: Striped
+Styles: Relaxed, Casual
+SubCategories: Shorts,  Pants
+
+Cable-Knit Shorts
+A:
+Patterns: None
+Styles: Casual, Relaxed
+SubCategories: Knits,  Shorts,  Pants
+
+A-Line Culottes
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Straight-Leg Jeans
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Sweatpants
+A:
+Patterns: None
+Styles: Relaxed, Simple, Active
+SubCategories: SweatwearPants
+
+Center-Crease Dress Shorts
+A:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Shorts,  Pants
+
+Leather Shorts
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Shorts,  Pants
+
+Glen-Plaid Shorts
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Shorts,  Pants
+
+Tweed Shorts
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Shorts,  Pants
+
+Button-Front Shorts
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Shorts,  Pants
+
+Crushed Acid-Washed Jean Shorts
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Denim,  Shorts,  Pants
+
+Guide-Muse Pants
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Pants,  Suits
+
+Plaid Wrap Skort
+A:
+Patterns: Plaid
+Styles: Cute, Casual, Cool
+SubCategories: Shorts,  Pants,  Accessories
+
+Cropped Pants
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Striped Cropped Pants
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Pants
+
+Gingham-Check Cropped Pants
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Pants
+
+Denim Cropped Pants
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Plaid Cropped Pants w/ Cuff Buttons
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Pants
+
+Leather Cropped Pants
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Pants
+
+Large-Print Gingham Cropped Pants
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Pants
+
+Distressed Jeans
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Denim,  Pants
+
+Pants w/ Front Cuff Slits
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Pants
+
+Jeans w/ Front Cuff Slits
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Pants
+
+Openwork Pants
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Rose-Print Shorts
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Shorts,  Pants
+
+Daisy-Print Shorts
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants
+
+Retro Rose-Print Shorts
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Shorts,  Pants
+
+Zebra-Print Shorts
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Shorts,  Pants
+
+Floret-Print Shorts w/ Sash
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants
+
+Gingham-Check Shorts w/ Sash
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Shorts,  Pants
+
+Polka-Dot Shorts w/ Sash
+A:
+Patterns: Dotted
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants
+
+Jean Shorts w/ Sash
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Denim,  Shorts,  Pants
+
+Plaid Shorts w/ Sash
+A:
+Patterns: Plaid
+Styles: Casual, Cute
+SubCategories: Shorts,  Pants
+
+Grid-Print Shorts w/ Sash
+A:
+Patterns: Plaid
+Styles: Casual, Cute
+SubCategories: Shorts,  Pants
+
+Striped Shorts w/ Sash
+A:
+Patterns: Striped
+Styles: Casual, Cute
+SubCategories: Shorts,  Pants
+
+Leather Shorts w/ Sash
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Leather,  Pants,  Shorts
+
+Straight-Leg Rolled-Cuff Jeans
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Pants
+
+Straight-Leg Pleated Pants
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Loose Tapered Pants
+A:
+Patterns: None
+Styles: Simple, Casual, Relaxed
+SubCategories: Pants
+
+Floret-Print Lace Shorts
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Relaxed, Casual
+SubCategories: Shorts,  Pants
+
+Rolled-Cuff Shorts
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Shorts,  Pants
+
+Culottes
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Glen-Plaid Culottes
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Pants
+
+Striped Culottes
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Pants
+
+Tartan-Plaid Cropped Pants
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Pants
+
+Grid-Print Cropped Pants
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Pants
+
+Monochrome Floral Cropped Pants
+A:
+Patterns: Floral,  Patterned
+Styles: Casual
+SubCategories: Pants
+
+Dotted Cropped Pants
+A:
+Patterns: Dotted
+Styles: Casual
+SubCategories: Pants
+
+Plaid Pants
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Pants
+
+Center-Crease Chino Pants
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Leather Joggers
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Pants
+
+Side-Stripe Joggers
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Pants
+
+Fur-Cuff Shorts
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Shorts,  Pants
+
+Rolled-Cuff Wide-Leg Jeans
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Jeans w/ Side Buttons
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Pants
+
+Plaid Wide-Leg Pants
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Pants
+
+Double Lace-up Wide-Leg Pants
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Pants
+
+Leather Wide-Leg Pants
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Pants
+
+Lace-up Back Wide-Leg Pants
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Pants
+
+Corduroy Wide-Leg Pants
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Pants
+
+Denim A-Line Culottes
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Denim,  Pants
+
+Lace-up Culottes
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Metallic A-Line Culottes
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Pants
+
+Floral A-Line Culottes
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Corduroy A-Line Culottes
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Pants
+
+Botanical-Print A-Line Culottes
+A:
+Patterns: Floral,  Patterned,  Animal
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Side-Stripe A-Line Culottes
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Interlocking-Buckle A-Line Culottes
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Long Wide-Leg Pants
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Velour Wide-Leg Pants
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Strawberry-Print Shorts
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants
+
+Multicolored Shorts
+A:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Shorts,  Pants
+
+Lemon-Print Shorts w/ Sash
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants
+
+Multicolored Rolled-Cuff Shorts
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Shorts,  Pants,  Denim
+
+Metallic Cropped Pants
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Pants
+
+Botanical-Print Cropped Pants
+A:
+Patterns: Floral,  Patterned
+Styles: Casual, Elegant
+SubCategories: Pants
+
+Lemon-Print Cropped Pants
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Casual, Cute
+SubCategories: Pants
+
+Split-Color Side-Stripe Joggers
+A:
+Patterns: None
+Styles: Active, Casual, Unique
+SubCategories: Pants,  Sweatwear
+
+Cow-Print Wide-Leg Pants
+A:
+Patterns: Animal,  Graphic,  Patterned
+Styles: Casual, Cool
+SubCategories: Pants
+
+Side-Stripe Wide-Leg Jeans
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Pants
+
+Dotted Culottes
+A:
+Patterns: Dotted
+Styles: Casual
+SubCategories: Pants
+
+Polka-Dot A-Line Culottes
+A:
+Patterns: Dotted
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Straight-Leg Chino Pants
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Frilled Shorts
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Shorts,  Pants
+
+Nordic-Print Crinoline Skirt
+A:
+Patterns: Traditional,  Patterned
+Styles: Unique, Cute
+SubCategories: Shorts,  Pants,  Skirts
+
+Jeans
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Center-Tuck Joggers
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Subculture-Style Shorts w/ Belt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Shorts,  Pants
+
+Graffiti Wide-Leg Jeans
+A:
+Patterns: Graphic
+Styles: Casual
+SubCategories: Denim,  Pants
+
+Leopard-Print Pants w/ Front Cuff Slits
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Pants
+
+Cut-out Athletic Pants
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Pants
+
+Damask Pants w/ Front Cuff Slits
+A:
+Patterns: Traditional,  Patterned
+Styles: Elegant
+SubCategories: Pants
+
+Oversized Cargo Pants
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Pants
+
+Jacquard Prince Pants w/ Pockets
+A:
+Patterns: Traditional,  Floral
+Styles: Elegant, Cool
+SubCategories: Pants
+
+Jewel-Design Wide-Leg Pants
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Pants
+
+Skinny Pants
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Suede Pants
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Pants
+
+Velvet Pants
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pants
+
+Wool Pants
+B:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Pants
+
+Tapered Pants
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Bermuda Shorts
+B:
+Patterns: None
+Styles: Simple, Casual, Active
+SubCategories: Shorts,  Pants
+
+Straight-Leg Plaid Pants
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Pants
+
+Ruched Pants
+B:
+Patterns: None
+Styles: Casual, Simple, Cool
+SubCategories: Pants
+
+Sailor Shorts
+B:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Shorts,  Pants
+
+Center-Crease Dress Pants
+B:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Pants
+
+Dress Pants
+B:
+Patterns: Striped
+Styles: Elegant, Cool
+SubCategories: Pants,  Suits
+
+Dress Pants w/ Belt
+B:
+Patterns: Plaid
+Styles: Elegant, Cool
+SubCategories: Pants,  Suits
+
+Dress Pants w/ Line Details
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Pants,  Suits
+
+Balloon Pants
+B:
+Patterns: None
+Styles: Casual, Simple, Relaxed
+SubCategories: Pants
+
+Frilled Tapered Pants w/ Chain Belt
+B:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Pants,  Accessories
+
+Formal Dress Pants
+B:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Pants,  Suits
+
+Botanical-Print Dress Pants
+B:
+Patterns: Floral,  Patterned
+Styles: Elegant, Cool
+SubCategories: Pants,  Suits
+
+Embossed Leaf-Print Dress Pants
+B:
+Patterns: Patterned
+Styles: Elegant, Cool
+SubCategories: Pants,  Suits
+
+Tartan-Plaid Dress Pants
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Cool
+SubCategories: Pants,  Suits
+
+Pants w/ Appliques
+B:
+Patterns: Plaid,  Animal
+Styles: Cute, Unique, Casual
+SubCategories: Pants
+
+Rolled-Cuff Pants
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pants
+
+Damask Pants w/ Belt
+B:
+Patterns: Traditional,  Patterned
+Styles: Elegant, Unique
+SubCategories: Pants,  Suits
+
+Jacquard Pants w/ Belts
+B:
+Patterns: Floral
+Styles: Cool, Unique
+SubCategories: Pants,  Suits
+
+Botanical-Print Bermuda Shorts
+B:
+Patterns: Patterned
+Styles: Casual, Active
+SubCategories: Shorts,  Pants
+
+Camouflage Bermuda Shorts
+B:
+Patterns: Patterned
+Styles: Cool, Casual, Active
+SubCategories: Shorts,  Pants
+
+Polka-Dot Bermuda Shorts
+B:
+Patterns: Dotted
+Styles: Cute, Casual, Active
+SubCategories: Shorts,  Pants
+
+Horizontal-Stripe Bermuda Shorts
+B:
+Patterns: Striped
+Styles: Casual, Active
+SubCategories: Shorts,  Pants
+
+Striped Bermuda Shorts
+B:
+Patterns: Striped
+Styles: Casual, Active
+SubCategories: Shorts,  Pants
+
+Grid-Print Shorts
+B:
+Patterns: Plaid
+Styles: Casual, Active
+SubCategories: Shorts,  Pants
+
+Floret-Print Shorts
+B:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual, Active
+SubCategories: Shorts,  Pants
+
+Bermuda Shorts w/ Line Details
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Shorts,  Pants
+
+Bandana-Print Shorts
+B:
+Patterns: Traditional,  Patterned
+Styles: Unique, Casual, Active
+SubCategories: Shorts,  Pants
+
+Patchwork Bermuda Shorts
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Shorts,  Pants
+
+Bermuda Shorts w/ Piping & Patch
+B:
+Patterns: Striped
+Styles: Casual, Active, Cute
+SubCategories: Shorts,  Pants
+
+Tartan-Plaid Bermuda Shorts
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual, Elegant
+SubCategories: Shorts,  Pants
+
+Oversized Jeans
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Striped Sailor Shorts
+B:
+Patterns: Striped
+Styles: Casual, Cute
+SubCategories: Shorts,  Pants
+
+Multicolored Frilled Tapered Pants
+B:
+Patterns: None
+Styles: Unique, Elegant
+SubCategories: Pants
+
+Royal-Print Bermuda Shorts
+B:
+Patterns: Graphic,  Patterned
+Styles: Elegant, Casual, Cute
+SubCategories: Shorts,  Pants
+
+Athletic Pants
+B:
+Patterns: Graphic
+Styles: Active, Casual
+SubCategories: Pants
+
+Sweatpants w/ Waist Bag
+B:
+Patterns: Graphic
+Styles: Cool, Casual, Active
+SubCategories: Pants
+
+Distressed Skinny Pants
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Denim,  Pants
+
+Skinny Pants w/ Leather Trim
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Pants
+
+Plaid Skinny Pants
+B:
+Patterns: Plaid
+Styles: Casual, Cool
+SubCategories: Pants
+
+Striped Skinny Pants
+B:
+Patterns: Striped
+Styles: Casual, Cool
+SubCategories: Pants
+
+Leopard-Print Tapered Pants
+B:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Pants
+
+Striped Tapered Pants
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Pants
+
+Glen-Plaid Tapered Pants
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Pants
+
+Houndstooth-Print Tapered Pants
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Pants
+
+Wide-Stripe Tapered Pants
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Pants
+
+Side-Stripe Athletic Pants
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Pants
+
+Multicolored Athletic Pants
+B:
+Patterns: None
+Styles: Active, Casual, Unique
+SubCategories: Pants
+
+Leaf-Print Balloon Pants
+B:
+Patterns: Patterned
+Styles: Casual, Relaxed
+SubCategories: Pants
+
+Button-Front Balloon Pants
+B:
+Patterns: None
+Styles: Casual, Simple, Relaxed
+SubCategories: Pants
+
+Sunflower-Print Balloon Pants
+B:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual, Relaxed
+SubCategories: Pants
+
+Rolled-Cuff Jeans
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Paint-Splatter Rolled-Cuff Pants
+B:
+Patterns: Graphic
+Styles: Casual, Cool
+SubCategories: Pants
+
+Cloud-Print Rolled-Cuff Pants
+B:
+Patterns: Graphic
+Styles: Casual, Cute
+SubCategories: Pants
+
+Rolled-Cuff Hickory Pants
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Pants
+
+Multicolored Rolled-Cuff Pants
+B:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Pants
+
+Heart-Print Pants w/ Gingham-Check Cuffs
+B:
+Patterns: Plaid,  Traditional
+Styles: Cute, Casual
+SubCategories: Pants
+
+Rolled-Cuff Skinny Jeans
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Pants
+
+Camouflage Cargo Pants
+B:
+Patterns: Patterned
+Styles: Cool, Active, Casual
+SubCategories: Pants
+
+Polka-Dot Sweatpants
+B:
+Patterns: Dotted
+Styles: Relaxed, Active, Cute
+SubCategories: SweatwearPants
+
+Star-Print Sweatpants
+B:
+Patterns: Patterned
+Styles: Relaxed, Active, Cute
+SubCategories: SweatwearPants
+
+Velour Sweatpants
+B:
+Patterns: None
+Styles: Relaxed, Casual
+SubCategories: SweatwearPants
+
+Plaid Sweatpants
+B:
+Patterns: Plaid
+Styles: Relaxed, Active
+SubCategories: SweatwearPants
+
+Multicolored Sweatpants
+B:
+Patterns: None
+Styles: Relaxed, Active, Unique
+SubCategories: SweatwearPants
+
+Fluffy Nordic-Print Pants
+B:
+Patterns: Traditional,  Patterned
+Styles: Unique, Cute
+SubCategories: Pants
+
+Colorful Monster Shorts
+B:
+Patterns: Graphic
+Styles: Unique, Casual, Cute
+SubCategories: Pants,  Accessories,  Shorts
+
+Royal Tuxedo Pants
+B:
+Patterns: Traditional
+Styles: Elegant, Cool
+SubCategories: Pants,  Accessories,  Suits
+
+Steampunk Pants
+B:
+Patterns: None
+Styles: Unique, Elegant, Cool
+SubCategories: Pants,  Accessories
+
+Flame-Print Sweatpants
+B:
+Patterns: Graphic
+Styles: Casual, Active, Cool
+SubCategories: SweatwearPants
+
+Wonder Parade Loose Pants
+B:
+Patterns: Striped,  Plaid
+Styles: Cute
+SubCategories: Pants,  Accessories
+
+Nylon Cargo Pants
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Pants
+
+Oversized Jeans w/ Patches
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Pants
+
+Wide-Leg Bermuda Shorts
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Pants
+
+Noble Pantaloons
+B:
+Patterns: Patterned
+Styles: Unique, Elegant
+SubCategories: Pants
+
+Checkered Wide-Leg Bermuda Shorts
+B:
+Patterns: Plaid
+Styles: Casual, Active
+SubCategories: Pants
+
+Tartan Wide-Leg Bermuda Shorts
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Pants
+
+Tartan Cropped Pants
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Pants
+
+Camouflage Cropped Pants
+B:
+Patterns: Patterned
+Styles: Casual, Cool
+SubCategories: Pants
+
+Baggy Jeans w/ Wrapped Track Suit Top
+B:
+Patterns: Graphic
+Styles: Casual, Cool
+SubCategories: Denim,  Pants
+
+Patchwork Bermuda Shorts w/ Strawberry Design
+B:
+Patterns: Fruit,  Dotted,  Plaid
+Styles: Cute, Casual
+SubCategories: Pants
+
+Skinny Pants w/ Leg Harness
+B:
+Patterns: None
+Styles: Cool
+SubCategories: Pants,  Accessories,  Leather
+
+Patchwork Bermuda Shorts w/ Strawberry Design
+B:
+Patterns: Fruit,  Dotted,  Plaid
+Styles: Cute, Casual
+SubCategories: Pants
+
+Punk Strapped Pants
+B:
+Patterns: Plaid
+Styles: Cool
+SubCategories: Pants,  Skirts
+
+Pleated Skirt
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Skirts
+
+Gingham-Check Pleated Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Skirts
+
+Plaid Pleated Skirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Skirts
+
+Long Sheer Pleated Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Button-Front Gingham Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Leather Pleated Skirt
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather,  Long Skirts,  Skirts
+
+Melange Knit Straight Skirt
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Knits,  Skirts
+
+Trapezoid Skirt
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Skirts
+
+Long Button-Front Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Flared Large-Print Gingham Wool Miniskirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Skirts,  Knits
+
+Flared Bear-Pocket Wool Miniskirt
+A:
+Patterns: Animal
+Styles: Casual, Cute
+SubCategories: Skirts,  Knits
+
+Long Flared Skirt
+A:
+Patterns: None
+Styles: Elegant, Casual, Simple
+SubCategories: Long Skirts,  Skirts
+
+Long Knit Straight Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Long Skirts,  Skirts
+
+Long Floral Lace Straight Skirt
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Long Skirts,  Skirts
+
+Long Flared Linen Skirt
+A:
+Patterns: None
+Styles: Relaxed, Casual
+SubCategories: Long Skirts,  Skirts
+
+Vertical-Stripe Straight Skirt
+A:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Corduroy Straight Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+Denim Straight Skirt
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Denim,  Skirts
+
+Plaid Straight Skirt
+A:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Button-Front Straight Skirt
+A:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Floral-Hem Straight Skirt
+A:
+Patterns: Floral,  Graphic
+Styles: Elegant
+SubCategories: Skirts
+
+Long Belted Leather Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Skirts,  Long Skirts
+
+Long Double-Button-Front Wool Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts,  Long Skirts
+
+Long Denim Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Skirts,  Long Skirts
+
+Long Striped Pencil Skirt
+A:
+Patterns: Striped
+Styles: Elegant, Cool
+SubCategories: Long Skirts,  Skirts
+
+Frilled Straight Skirt
+A:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Skirts
+
+Frilled Houndstooth-Print Straight Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Cute
+SubCategories: Skirts
+
+Long Pencil Skirt
+A:
+Patterns: None
+Styles: Elegant, Simple, Cool
+SubCategories: Long Skirts,  Skirts
+
+Long Striped Pleated Skirt
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Dotted Pleated Skirt
+A:
+Patterns: Dotted
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Long 2-Color Pleated Skirt
+A:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Long Skirts,  Skirts
+
+Long Diamond-Check Pleated Skirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Floret-Print Pleated Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Plaid Pleated Skirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Polyester Pleated Skirt
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Long Skirts,  Skirts
+
+Long Watercolor Floral Pleated Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Casual, Elegant
+SubCategories: Long Skirts,  Skirts
+
+Long Metallic Pleated Skirt
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Long Skirts,  Skirts
+
+Gingham-Check Wrap Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Skirts
+
+Flared Wool Miniskirt
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Knits,  Skirts
+
+Long Denim Pencil Skirt
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Denim,  Long Skirts,  Skirts
+
+Long Denim Straight Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Long Skirts,  Skirts
+
+Multicolored-Bead Skirt
+A:
+Patterns: Plaid
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Lace-Apron Frilled Skirt
+A:
+Patterns: Floral
+Styles: Cute
+SubCategories: Skirts
+
+Soft Hem-Line-Detail Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Narrow-Pleat Skirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Skirts
+
+Openwork Lace Miniskirt
+A:
+Patterns: Floral
+Styles: Cute, Elegant, Casual
+SubCategories: Skirts
+
+Leather Straight Skirt
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather,  Skirts
+
+Grid-Print Straight Skirt
+A:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Zebra-Print Straight Skirt
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Elegant
+SubCategories: Skirts
+
+Horizontal-Stripe Straight Skirt
+A:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Houndstooth-Print Straight Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Stretch Metallic Straight Skirt
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Skirts
+
+Checkered Skirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Skirts
+
+Striped Miniskirt
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Skirts
+
+Leather Miniskirt
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Skirts
+
+Button-Front Suede Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Belted Plaid Miniskirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Skirts
+
+Wavy-Line Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Dotted Miniskirt
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Skirts
+
+Belted Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Floral Miniskirt
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Denim Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Skirts
+
+Camouflage Skirt
+A:
+Patterns: Graphic,  Patterned
+Styles: Cool, Casual
+SubCategories: Skirts
+
+Button-Front Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Metallic Miniskirt
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Skirts
+
+Thick Plaid Miniskirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Skirts
+
+Tweed Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Leopard-Print Front-Zip Skirt
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Skirts
+
+Corduroy Trapezoid Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Twill-Weave Trapezoid Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Button-Front Camouflage Miniskirt
+A:
+Patterns: Graphic,  Patterned
+Styles: Cool, Casual
+SubCategories: Skirts
+
+Leopard-Print Miniskirt
+A:
+Patterns: Animal,  Graphic,  Patterned
+Styles: Cool, Casual
+SubCategories: Skirts
+
+Patent-Leather Trapezoid Miniskirt
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Skirts,  Leather
+
+Star-Print Trapezoid Miniskirt
+A:
+Patterns: Patterned,  Graphic
+Styles: Casual, Cute
+SubCategories: Skirts
+
+Embroidered-Flowers Leather Trapezoid Miniskirt
+A:
+Patterns: Floral
+Styles: Elegant, Cool, Casual
+SubCategories: Leather,  Skirts
+
+Double Button-Front Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Button-Front Trapezoid Skirt w/ Belt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Flap-Pockets Trapezoid Skirt w/ Belt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Cow-Print Skirt
+A:
+Patterns: Animal,  Patterned
+Styles: Casual
+SubCategories: Skirts
+
+Gobelin Tapestry Trapezoid Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Lace-up Denim Skirt
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Denim,  Skirts
+
+Tie-Dyed Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Straight Skirt
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Skirts
+
+Quilted Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Trapezoid Skirt w/ Contrasting Stitching
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Skirt w/ Heart Pockets
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Frilled Trapezoid Skirt
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Skirts
+
+Tweed Skirt w/ Pearl Buttons
+A:
+Patterns: Plaid
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+Plaid Straight Miniskirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Skirts
+
+Floral-Motif Lace A-Line Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Cute
+SubCategories: Skirts
+
+Star-Motif Lace A-Line Skirt
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Skirts
+
+Ribbon & Bows Print Knee-Length Skirt
+A:
+Patterns: Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Bunny Sundae Skirt
+A:
+Patterns: Fruit,  Animal,  Patterned
+Styles: Cute
+SubCategories: Skirts
+
+Long Floral Sheer Pleated Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Tie-Dyed Sheer Pleated Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Multicolored Sheer Pleated Skirt
+A:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Long Skirts,  Skirts
+
+Argyle Knit Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Skirts,  Knits
+
+Tartan-Plaid Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Skirts
+
+Patterned Trapezoid Skirt
+A:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Skirts
+
+Multicolored Trapezoid Skirt
+A:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Skirts
+
+Button-Front A-Line Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+Multicolored-Stripe Straight Skirt
+A:
+Patterns: Striped
+Styles: Casual, Unique
+SubCategories: Skirts
+
+Monochrome Floral Straight Skirt
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Skirts
+
+Lace-up Back A-Line Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+A-Line Skirt w/ Buttons
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+Dotted A-Line Skirt
+A:
+Patterns: Dotted
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Houndstooth-Print A-Line Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Skirts
+
+Gingham-Check A-Line Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Skirts
+
+2-Tone A-Line Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+Polka-Dot A-Line Skirt
+A:
+Patterns: Dotted
+Styles: Cute, Unique
+SubCategories: Skirts
+
+Striped A-Line Skirt
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Skirts
+
+Block-Hem Floral A-Line Skirt
+A:
+Patterns: Floral
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Damask A-Line Skirt
+A:
+Patterns: Traditional,  Patterned
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+2-Color A-Line Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+Hem-Trim A-Line Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+Belted Polka-Dot A-Line Skirt
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Skirts
+
+Flared Block-Border Wool Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Skirts
+
+Flared Polka-Dot Miniskirt w/ Buttons
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Skirts
+
+Quilted Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Miniskirt w/ Line-Design Pockets
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Cat-Silhouette Miniskirt
+A:
+Patterns: Animal,  Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Zippered-Slit Trapezoid Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Skirts
+
+Gingham-Check Multicolored-Bead Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Leather Pleated Miniskirt
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Skirts
+
+Long Flared Lace Skirt
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Skirts
+
+Holographic Miniskirt
+A:
+Patterns: None
+Styles: Unique, Casual
+SubCategories: Skirts
+
+Line-Design Skirt w/ Bit Belt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Skirts
+
+Leather Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Skirts
+
+Embroidered-Flowers Tulle A-Line Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Dotted Tulle A-Line Skirt
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Skirts
+
+Floral Tulle A-Line Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Floret-Print Tulle A-Line Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Cute, Casual
+SubCategories: Skirts
+
+Lace A-Line Skirt
+A:
+Patterns: Floral
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Long Flared Dalmatian-Print Skirt
+A:
+Patterns: Animal,  Patterned
+Styles: Elegant, Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Flared Lemon-Print Skirt
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Elegant, Cute
+SubCategories: Long Skirts,  Skirts
+
+Long Flared Buttoned Striped Skirt
+A:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Flared Silk Skirt
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Long Skirts,  Skirts
+
+Long Flared Gingham-Check Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Elegant
+SubCategories: Long Skirts,  Skirts
+
+Long Flared Plaid Skirt
+A:
+Patterns: Plaid
+Styles: Casual, Elegant
+SubCategories: Long Skirts,  Skirts
+
+Long Tulle-Panel Skirt
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Long Skirts,  Skirts
+
+Long Pleated Skirt
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Long Skirts,  Skirts
+
+Long Straight Jean Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Long Skirts,  Skirts
+
+Long Side-Slit Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant, Simple
+SubCategories: Long Skirts,  Skirts
+
+Long Side-Slit Camouflage Skirt
+A:
+Patterns: Graphic,  Patterned
+Styles: Casual, Cool
+SubCategories: Long Skirts,  Skirts
+
+Long Denim Side-Slit Skirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Long Skirts,  Skirts
+
+Long Patterned Side-Slit Skirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Long Skirts,  Skirts
+
+Long Gingham Knit Straight Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Knits,  Long Skirts,  Skirts
+
+Long Striped Knit Straight Skirt
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits,  Long Skirts,  Skirts
+
+Long Gingham-Check Knit Straight Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Knits,  Long Skirts,  Skirts
+
+Long Plaid Knit Straight Skirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Knits,  Long Skirts,  Skirts
+
+Long Flared Plaid Knit Skirt
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Long Skirts,  Skirts,  Knits
+
+Flared Maxi Skirt
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Long Skirts,  Skirts
+
+Flared Zebra-Print Maxi Skirt
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Elegant
+SubCategories: Long Skirts,  Skirts
+
+Long Sweatwear Skirt
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: SweatwearLong Skirts,  Skirts
+
+Colorful Monster Skirt
+A:
+Patterns: Graphic,  Striped
+Styles: Unique, Casual, Cute
+SubCategories: Skirts,  Accessories
+
+Mermaid Skirt
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Long Skirts,  Skirts
+
+Vintage Gobelin Tapestry Trapezoid Skirt
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Skirts
+
+Secret Museum Skirt
+A:
+Patterns: Patterned,  Graphic
+Styles: Cute
+SubCategories: Skirts
+
+Belted Midi Skirt
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Long Skirts,  Skirts
+
+Houndstooth-Print Knit Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Knits,  Skirts
+
+Dotted Mermaid Skirt
+A:
+Patterns: Dotted
+Styles: Elegant
+SubCategories: Long Skirts,  Skirts
+
+Pleated Denim Miniskirt
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Denim,  Skirts
+
+Geometric-Print Midi Skirt
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Elegant
+SubCategories: Long Skirts,  Skirts
+
+Plaid Mermaid Skirt
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Long Skirts,  Skirts
+
+Tweed Midi Skirt
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Skirts,  Long Skirts
+
+Floral-Print Belted Midi Skirt
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Skirts,  Long Skirts
+
+Lace Mermaid Skirt
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Long Skirts,  Skirts
+
+Frilled Ankle Socks
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Socks
+
+Crew Socks w/ Metallic Thread
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Pantyhose
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Tights/Leggings
+
+Sheer Tights
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Tights/Leggings
+
+Tights
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Tights/Leggings
+
+Fishnet Tights
+A:
+Patterns: None
+Styles: Cool
+SubCategories: Tights/Leggings
+
+Playing-Cards Thigh-High Socks
+A:
+Patterns: Graphic,  Patterned
+Styles: Cute
+SubCategories: Socks
+
+Candy-Stripe Thigh-High Socks
+A:
+Patterns: Striped,  Graphic
+Styles: Cute, Casual
+SubCategories: Socks
+
+Mock Toe-Shoes Thigh-High Socks w/ Hearts
+A:
+Patterns: Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Socks
+
+Cupid-Heart & Bows Thigh-High Socks
+A:
+Patterns: Dotted,  Graphic
+Styles: Cute, Casual
+SubCategories: Socks
+
+Thigh-High Socks w/ Chocolate Design
+A:
+Patterns: Patterned,  Graphic
+Styles: Cute
+SubCategories: Socks
+
+Thigh-High Socks w/ Balloons & Stripes Design
+A:
+Patterns: Striped,  Graphic
+Styles: Cute
+SubCategories: Socks
+
+Ribbed Crew Socks
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Socks
+
+Striped Marine Knee Socks
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Socks
+
+Constellation-Print Knee Socks
+A:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Socks
+
+Knit Knee Socks w/ Buttons
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Socks
+
+Cable-Knit Knee Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Socks
+
+Knee Socks w/ Bows and Strawberries Design
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Socks
+
+Vertical-Line Tights
+A:
+Patterns: Striped
+Styles: Cool, Elegant
+SubCategories: Tights/Leggings
+
+Dotted Tights
+A:
+Patterns: Dotted
+Styles: Cute, Elegant
+SubCategories: Tights/Leggings
+
+Crisscross-Lines Tights
+A:
+Patterns: None
+Styles: Cool
+SubCategories: Tights/Leggings
+
+Tights w/ Musical Notes Design
+A:
+Patterns: Patterned
+Styles: Cute
+SubCategories: Tights/Leggings
+
+Tights w/ Playing Card Design
+A:
+Patterns: Patterned
+Styles: Cute
+SubCategories: Tights/Leggings
+
+Mid-Calf Socks w/ Emblem
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Ribbed Crew Socks w/ Double Cuff-Stripes
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Plaid Crew Socks
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Socks
+
+Argyle Crew Socks
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Socks
+
+Cable-Knit Crew Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Cable-Knit Thigh-High Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Socks
+
+Thigh-High Socks w/ Playing Card Design
+A:
+Patterns: Patterned
+Styles: Casual, Cute
+SubCategories: Socks
+
+Rainbow Thigh-High Socks
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Socks
+
+Houndstooth-Print Thigh-High Socks
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Socks
+
+Dotted Thigh-High Socks
+A:
+Patterns: Dotted
+Styles: Casual
+SubCategories: Socks
+
+Sheer Random-Dot Crew Socks
+A:
+Patterns: Dotted
+Styles: Casual
+SubCategories: Socks
+
+Fishnet Crew Socks
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Socks
+
+Lacy-Side-Stripe Crew Socks
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Socks
+
+Rose-Print Crew Socks
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Socks
+
+Tabi Socks
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Socks
+
+Floral Tabi Socks
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Socks
+
+Mid-Calf Multicolored-Bead Socks
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Socks
+
+Crew Socks w/ Double Cuff-Stripes
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Sheer Lace & Bows Socks
+A:
+Patterns: Dotted
+Styles: Cute, Casual
+SubCategories: Socks
+
+Lace & Bows Socks
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Socks
+
+Thigh-High Socks w/ Camellia Design
+A:
+Patterns: Floral,  Patterned,  Graphic
+Styles: Cute
+SubCategories: Socks
+
+Strawberry-Decoration Thigh-High Socks
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Cute
+SubCategories: Socks
+
+Thigh-High Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Lotus-Design Thigh-High Socks
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Socks
+
+Transparent Knee Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Sheer Geometric-Print Knee Socks
+A:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Socks
+
+Fishnet Knee Socks
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Socks
+
+Sheer Star-Print Knee Socks
+A:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Socks
+
+Cuffed Crew Socks w/ Bows
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Socks
+
+Gingham-Check Cuffed Crew Socks w/ Bows
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Socks
+
+Sheer Patterned Knee Socks
+A:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Socks
+
+Sheer Polka-Dot Knee Socks
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Socks
+
+Nordic-Print Knee Socks
+A:
+Patterns: Traditional,  Patterned
+Styles: Casual
+SubCategories: Socks
+
+Thick Cable-Knit Knee Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Socks
+
+Heart-Print Tights
+A:
+Patterns: Patterned
+Styles: Cute
+SubCategories: Tights/Leggings
+
+Polka-Dot Tights
+A:
+Patterns: Dotted
+Styles: Cute, Casual
+SubCategories: Tights/Leggings
+
+Diamond-Print Tights
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Tights/Leggings
+
+Striped Tights
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Tights/Leggings
+
+Leopard-Print Knee Socks
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Socks
+
+Dotted Knee Socks
+A:
+Patterns: Dotted
+Styles: Casual
+SubCategories: Socks
+
+Star-Print Knee Socks
+A:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Socks
+
+Knee Socks w/ Toy Party Design
+A:
+Patterns: Graphic,  Patterned
+Styles: Cute, Casual
+SubCategories: Socks
+
+Back-Seam Tights
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Tights/Leggings
+
+2-Stripe Faux Thigh-High Tights
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Tights/Leggings
+
+Faux Thigh-High Tights
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Tights/Leggings
+
+Wrapped-Bandages Tights
+A:
+Patterns: None
+Styles: Unique
+SubCategories: Tights/Leggings
+
+Shiny Diamond-Print Tights
+A:
+Patterns: Plaid
+Styles: Elegant
+SubCategories: Tights/Leggings
+
+Lace-up Knit Tights
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Tights/Leggings
+
+Twill-Weave Tights
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Tights/Leggings
+
+Rose-Lace Tights
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Tights/Leggings
+
+Tartan-Plaid Tights
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Tights/Leggings
+
+Argyle Tights
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Elegant
+SubCategories: Tights/Leggings
+
+Houndstooth-Print Tights
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Elegant
+SubCategories: Tights/Leggings
+
+Leopard-Print Tights
+A:
+Patterns: Animal,  Patterned
+Styles: Elegant, Cool
+SubCategories: Tights/Leggings
+
+Zebra-Print Tights
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Tights/Leggings
+
+Large-Print Diamond-Check Tights
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Tights/Leggings
+
+Polka-Dot Faux Thigh-High Tights
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Tights/Leggings
+
+Fishnet Tights w/ Little Bows
+A:
+Patterns: Patterned
+Styles: Cool, Cute
+SubCategories: Tights/Leggings
+
+Polka-Dot Crew Socks
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Socks
+
+Striped Crew Socks
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Socks
+
+Large-Print Gingham Crew Socks
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Socks
+
+Heart-Print Crew Socks
+A:
+Patterns: Patterned
+Styles: Casual, Cute
+SubCategories: Socks
+
+2-Color Contrast Crew Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Gingham-Check Crew Socks
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Socks
+
+Crew Socks w/ Multicolored Cuff Stripes
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Fishnet Thigh-High Socks
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Socks
+
+Diagonal-Plaid Thigh-High Socks
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Socks
+
+Heart-Print Thigh-High Socks
+A:
+Patterns: Patterned
+Styles: Cute, Casual
+SubCategories: Socks
+
+Rose-Print Tights
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant
+SubCategories: Tights/Leggings
+
+Floral Lace Tights
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant
+SubCategories: Tights/Leggings
+
+Sheer Crossed-Ribbon Tights
+A:
+Patterns: Dotted
+Styles: Cute
+SubCategories: Tights/Leggings
+
+Ribbons & Bows Lace Tights
+A:
+Patterns: Patterned
+Styles: Cute
+SubCategories: Tights/Leggings
+
+Bear-Emblem Crew Socks
+A:
+Patterns: Animal
+Styles: Casual, Cute
+SubCategories: Socks
+
+Fluffy Striped Crew Socks
+A:
+Patterns: Striped
+Styles: Relaxed, Casual
+SubCategories: Socks
+
+Fluffy Heart-Print Crew Socks
+A:
+Patterns: Patterned
+Styles: Relaxed, Casual, Cute
+SubCategories: Socks
+
+Sheer Grid-Print Crew Socks
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Socks
+
+Sheer Daisy-Print Crew Socks
+A:
+Patterns: Floral,  Patterned
+Styles: Casual, Cute
+SubCategories: Socks
+
+Large-Grid Fishnet Tights
+A:
+Patterns: None
+Styles: Cool
+SubCategories: Tights/Leggings
+
+Crew Socks w/ Bows
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Socks
+
+Crew Socks w/ Dotted Bows
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Socks
+
+Houndstooth-Print Crew Socks w/ Bows
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Socks
+
+Crew Socks w/ Gingham-Check Bows
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Socks
+
+Sheer Heart-Print Crew Socks
+A:
+Patterns: Patterned
+Styles: Casual, Cute
+SubCategories: Socks
+
+Sheer Polka-Dot Crew Socks
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Socks
+
+Christmas Thigh-High Socks
+A:
+Patterns: Graphic,  Striped,  Plaid
+Styles: Elegant
+SubCategories: Socks
+
+Vampire Thigh-High Socks
+A:
+Patterns: Graphic,  Patterned
+Styles: Elegant, Unique
+SubCategories: Socks
+
+Cuffed Socks w/ Bows
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Socks
+
+Houndstooth-Print Crew Socks w/ Pearls
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Socks
+
+Fishnet Socks w/ Bows
+A:
+Patterns: None
+Styles: Casual, Cute, Cool
+SubCategories: Socks
+
+Sheer Faux Lace-up Socks
+A:
+Patterns: None
+Styles: Casual, Elegant, Cute
+SubCategories: Socks
+
+Pretty Polka-Dot Socks
+A:
+Patterns: Dotted
+Styles: Cute, Casual
+SubCategories: Socks
+
+Slouch Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Fluffy Crew Socks
+A:
+Patterns: None
+Styles: Relaxed, Casual
+SubCategories: Socks
+
+Magic-Circle Witch Socks
+A:
+Patterns: Graphic
+Styles: Unique, Elegant, Cute
+SubCategories: Socks,  Accessories
+
+Heart Thigh-High Socks w/ Garters & Bows
+A:
+Patterns: Patterned
+Styles: Cute
+SubCategories: Socks
+
+Thigh-High Stockings w/ Lace Garters
+A:
+Patterns: None
+Styles: Cool, Cute
+SubCategories: Tights/Leggings
+
+Openwork Tights w/ Bows
+A:
+Patterns: Patterned
+Styles: Cute, Unique
+SubCategories: Tights/Leggings
+
+Faux Sock Tights
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Tights/Leggings,  Socks
+
+Text: Butterfly Dream Lace Anklets
+Patterns: Animal,  Floral
+Styles: Elegant
+SubCategories: Accessories
+
+Gummy-Print Tights & Rainbow Socks A
+A:
+Patterns: Graphic,  Animal,  Striped
+Styles: Unique, Casual, Cute
+SubCategories: Tights/Leggings,  Socks
+
+Tights w/ Stitches Design
+A:
+Patterns: None
+Styles: Unique
+SubCategories: Tights/Leggings
+
+Tights w/ Ball-Joint Design A
+A:
+Patterns: None
+Styles: Unique
+SubCategories: Tights/Leggings
+
+Torsion Lace Socks w/ Ribbons
+A:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Socks
+
+Mismatched Socks w/ Garters
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Socks,  Accessories
+
+Wonder Parade Tights A
+A:
+Patterns: Striped,  Patterned
+Styles: Cute
+SubCategories: Tights/Leggings
+
+Ribboned Knee Socks w/ Hole Design
+A:
+Patterns: Patterned
+Styles: Cute, Unique
+SubCategories: Socks
+
+Mermaid Scales
+A:
+Patterns: Patterned
+Styles: Unique
+SubCategories: None
+
+Rose and Butterfly Accent Sticker
+A:
+Patterns: Floral,  Graphic
+Styles: Cool
+SubCategories: Tights/Leggings
+
+Fancy Tights & Baggy Socks A
+A:
+Patterns: Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Tights/Leggings,  Socks
+
+Crew Socks
+B:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Socks
+
+Leggings
+B:
+Patterns: None
+Styles: Simple, Active, Casual
+SubCategories: Tights/Leggings
+
+Geometric-Print Leggings
+B:
+Patterns: Patterned,  Traditional
+Styles: Casual, Active
+SubCategories: Tights/Leggings
+
+Camouflage Leggings
+B:
+Patterns: Patterned
+Styles: Casual, Cool, Active
+SubCategories: Tights/Leggings
+
+Cosmic-Print Leggings
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Tights/Leggings
+
+Paint-Splatter Leggings
+B:
+Patterns: Graphic
+Styles: Casual, Active, Cool
+SubCategories: Tights/Leggings
+
+Diamond-Print Knee Socks
+B:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: Socks
+
+Crew Socks w/ Emblem
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Wool Crew Socks
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Mushroom-Print Crew Socks
+B:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Socks
+
+Houndstooth-Print Crew Socks
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Socks
+
+Multicolored-Stripe Crew Socks
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Socks
+
+Camouflage Crew Socks
+B:
+Patterns: Patterned
+Styles: Casual, Cool
+SubCategories: Socks
+
+Zebra-Print Crew Socks
+B:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Socks
+
+Crew Socks w/ Melted Design
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Ribbed Socks
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Ankle Socks
+B:
+Patterns: None
+Styles: Active, Casual, Simple
+SubCategories: Socks
+
+Knee Socks w/ Sock Garters
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Socks,  Accessories
+
+Butterfly Dream Leggings
+B:
+Patterns: Animal
+Styles: Elegant
+SubCategories: Tights/Leggings
+
+Gummy-Print Tights & Rainbow Socks B
+B:
+Patterns: Graphic,  Animal,  Striped
+Styles: Unique, Casual, Cute
+SubCategories: Tights/Leggings,  Socks
+
+Tights w/ Ball-Joint Design B
+B:
+Patterns: None
+Styles: Unique
+SubCategories: Tights/Leggings
+
+Ribbed Calf Socks
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Ribbed Calf Socks w/ Horizontal Lines
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Socks
+
+Wonder Parade Tights B
+B:
+Patterns: Striped,  Patterned
+Styles: Cute
+SubCategories: Tights/Leggings
+
+Ribbed Tights
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Tights/Leggings
+
+Fancy Tights & Baggy Socks B
+B:
+Patterns: Patterned,  Graphic
+Styles: Cute, Casual
+SubCategories: Tights/Leggings,  Socks
+
+Pop-Star High Heels w/ Bows
+A:
+Patterns: None
+Styles: Unique, Cute
+SubCategories: High Heels,  Accessories
+
+Loafers
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Loafers,  Leather
+
+Cross-Strap Pumps
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: High Heels,  Pumps/Flats
+
+Double-Bow Mules
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Sandals,  High Heels,  Pumps/Flats
+
+Mid-Heel Lace-up Shoes
+A:
+Patterns: None
+Styles: Cool, Casual, Elegant
+SubCategories: High Heels
+
+Sneakers
+A:
+Patterns: None
+Styles: Active, Casual, Simple
+SubCategories: Sneakers
+
+Mid-Heel Loafers
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Loafers,  High Heels,  Leather
+
+Almond-Toe High Heels
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: High Heels,  Pumps/Flats
+
+Pointed-Toe High Heels
+A:
+Patterns: None
+Styles: Elegant, Cool, Casual
+SubCategories: High Heels,  Pumps/Flats
+
+Long Leather Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots
+
+Teatime Pumps
+A:
+Patterns: None
+Styles: Cute, Unique
+SubCategories: Pumps/Flats,  High Heels,  Accessories
+
+Shirred Leather Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots,  High Heels
+
+Striped Zori Sandals
+A:
+Patterns: Striped
+Styles: Elegant, Casual
+SubCategories: Sandals
+
+Low-Heel Flats
+A:
+Patterns: None
+Styles: Simple, Elegant, Casual
+SubCategories: Pumps/Flats
+
+Square-Toe Flats
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pumps/Flats
+
+Leather Booties
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Leather,  Boots,  High Heels
+
+Suede Pumps w/ Bows
+A:
+Patterns: None
+Styles: Cute, Casual, Elegant
+SubCategories: Pumps/Flats,  High Heels,  Accessories
+
+Long Leather High-Heel Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots,  High Heels
+
+Pumps w/ Jeweled Bows
+A:
+Patterns: None
+Styles: Cute, Casual, Elegant
+SubCategories: Pumps/Flats,  High Heels,  Accessories
+
+Zebra-Print Booties
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Boots,  High Heels
+
+Metallic Pumps w/ Bows
+A:
+Patterns: None
+Styles: Casual, Cute, Elegant
+SubCategories: High Heels,  High Heels,  Accessories
+
+Booties w/ Vine & Berries Embroidery
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Engineer Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots
+
+Long High-Pile Fleece Boots
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Booties w/ Fur Trim
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Leather,  Boots,  High Heels
+
+2-Tone Booties w/ Pom-Poms
+A:
+Patterns: Dotted
+Styles: Casual, Cute
+SubCategories: Leather,  Boots,  High Heels
+
+2-Color Mid-Heel Lace-up Shoes
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  High Heels
+
+Mixed-Material Booties
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Leather,  Boots,  High Heels
+
+Ribbon-Laced Shoes
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: High Heels
+
+Plaid Ribbon-Laced Shoes
+A:
+Patterns: Plaid
+Styles: Casual, Cute
+SubCategories: High Heels
+
+Thick-Soled Cross-Strap Shoes w/ Bows
+A:
+Patterns: None
+Styles: Cute
+SubCategories: None
+
+Closed-Toe Pumps w/ Ankle Straps
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pumps/Flats,  High Heels
+
+Closed-Toe Platform Pumps w/ Ankle Straps
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Pumps/Flats,  High Heels
+
+Polka-Dot Sneakers
+A:
+Patterns: Dotted
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Rose-Print Sneakers
+A:
+Patterns: Floral
+Styles: Active, Casual, Elegant
+SubCategories: Sneakers
+
+Studded Flats
+A:
+Patterns: None
+Styles: Elegant, Casual, Cool
+SubCategories: Leather,  Pumps/Flats
+
+Metallic-Thread Flats
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pumps/Flats
+
+2-Color Flats
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pumps/Flats
+
+Flats w/ Decorative Edging
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pumps/Flats
+
+Metallic Flats
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Pumps/Flats
+
+Woven Flats
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Leather,  Pumps/Flats
+
+Pumps w/ Buckle Ankle Straps
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Pumps/Flats,  High Heels
+
+Short Suede Boots
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Boots,  High Heels
+
+Pumps w/ Charm and Little Bows
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Leather,  Pumps/Flats,  High Heels
+
+Almond-Toe Leather High Heels
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Leather,  High Heels,  Pumps/Flats
+
+Pointed-Toe Leather High Heels
+A:
+Patterns: None
+Styles: Elegant, Cool, Casual
+SubCategories: Leather,  High Heels,  Pumps/Flats
+
+Scalloped Boots w/ Bows
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Leather,  Boots,  High Heels
+
+High-Top Sneakers w/ Fasteners
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Sneakers
+
+Wedge-Sole Sandals
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sandals,  High Heels
+
+Classic Loafers w/ Bows
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Loafers,  High Heels
+
+Nylon-Strap Sandals
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sandals
+
+Pumps w/ Bows and Heart Buckles
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Leather,  High Heels,  Pumps/Flats
+
+High-Top Sneakers
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Bit Loafers
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Loafers,  Accessories,  Leather
+
+Patterned Multicolored-Bead Sneakers
+A:
+Patterns: Patterned,  Graphic
+Styles: Cute, Unique, Casual
+SubCategories: Sneakers
+
+Sporty Sneakers
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Toe Loop Sandals
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Leather,  Sandals
+
+Short Boots
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Leather,  Boots,  High Heels
+
+Short Python-Print Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Boots,  High Heels
+
+Metallic Slip-ons
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sneakers
+
+Guide-Muse Shoes
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Orihime Star Sign Sandals
+A:
+Patterns: None
+Styles: Casual, Unique, Elegant
+SubCategories: Sandals,  High Heels
+
+Gingham-Check Sandals
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Sandals
+
+Open-Toe Pumps
+A:
+Patterns: Dotted
+Styles: Casual, Cute, Elegant
+SubCategories: Pumps/Flats,  High Heels
+
+Sneaker Sandals
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Sandals,  High Heels
+
+Thick-Soled Loafers w/ Jeweled Bows
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Loafers,  Leather
+
+Thick-Soled Sneakers w/ Bows
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Sneakers
+
+Wooden-Soled Cross-Strap Shoes
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Leather
+
+Lotus-Design Shoes w/ Chinese Frog Buttons
+A:
+Patterns: Floral
+Styles: Casual, Elegant
+SubCategories: None
+
+Short Lace-up Boots
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Leather,  Boots,  High Heels
+
+Simple Boots
+A:
+Patterns: None
+Styles: Casual, Elegant, Simple
+SubCategories: Leather,  Boots,  High Heels
+
+Horse-Riding Boots
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Leather,  Boots
+
+Long Lace-up Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots,  High Heels
+
+Short Patent-Leather Boots
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Boots,  High Heels
+
+Short Velour Boots
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Boots,  High Heels
+
+Short Floral Boots
+A:
+Patterns: Floral,  Patterned
+Styles: Casual, Elegant
+SubCategories: Boots,  High Heels
+
+Short Dalmatian-Print Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Boots,  High Heels
+
+Short Dotted-Line Grid-Print Wool Boots
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Short Floret-Print Boots
+A:
+Patterns: Floral,  Patterned
+Styles: Casual, Elegant
+SubCategories: Boots,  High Heels
+
+Short Metallic Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots,  High Heels
+
+Short Boots w/ Embroidery
+A:
+Patterns: Floral
+Styles: Casual, Elegant
+SubCategories: Boots,  High Heels
+
+Houndstooth-Print High Heels
+A:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: Pumps/Flats,  High Heels
+
+Metallic High Heels
+A:
+Patterns: None
+Styles: Elegant, Cool, Casual
+SubCategories: Pumps/Flats,  High Heels
+
+Sock Boots
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Boots,  High Heels,  Socks
+
+Houndstooth-Print Sock Boots
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Boots,  High Heels,  Socks
+
+Shirred Suede Boots
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Spike-Heel Sock Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Boots,  High Heels,  Socks
+
+Leopard-Print Sneakers
+A:
+Patterns: Animal,  Patterned
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Multicolored-Plaid Sneakers
+A:
+Patterns: Plaid
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Gingham-Check Sneakers
+A:
+Patterns: Plaid,  Traditional
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Square-Toe Leather Flats
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Leather,  Pumps/Flats
+
+Square-Toe Suede Flats
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Pumps/Flats
+
+Leather Spike-Heel Sock Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots,  High Heels
+
+Metallic Spike-Heel Sock Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots,  High Heels
+
+Floral Spike-Heel Sock Boots
+A:
+Patterns: Floral,  Patterned
+Styles: Elegant, Casual
+SubCategories: Boots,  High Heels,  Socks
+
+Witch Shoes
+A:
+Patterns: None
+Styles: Unique, Elegant, Cute
+SubCategories: High Heels,  Pumps/Flats,  Accessories
+
+Multicolored Mid-Heel Lace-up Shoes
+A:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Leather,  High Heels
+
+Lemon-Print Sneakers
+A:
+Patterns: Fruit,  Graphic,  Patterned
+Styles: Active, Casual, Cute
+SubCategories: Sneakers
+
+Clover-Print Sneakers
+A:
+Patterns: Patterned,  Graphic
+Styles: Active, Casual, Cute
+SubCategories: Sneakers
+
+Cherry-&-Strawberry-Print Sneakers
+A:
+Patterns: Fruit,  Graphic,  Patterned
+Styles: Active, Casual, Cute
+SubCategories: Sneakers
+
+Alphabet-Print Sneakers
+A:
+Patterns: Patterned,  Graphic
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Watercolor Botanical-Print High Heels
+A:
+Patterns: Floral
+Styles: Elegant, Cool, Casual
+SubCategories: High Heels,  Pumps/Flats
+
+Plaid Suede High Heels
+A:
+Patterns: Plaid
+Styles: Elegant, Casual
+SubCategories: High Heels,  Pumps/Flats
+
+Dotted High Heels
+A:
+Patterns: Dotted
+Styles: Elegant, Casual
+SubCategories: High Heels,  Pumps/Flats
+
+Python-Print Leather High Heels
+A:
+Patterns: Animal,  Patterned
+Styles: Elegant, Cool, Casual
+SubCategories: Leather,  High Heels,  Pumps/Flats
+
+Square-Toe Leopard-Print Flats
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Pumps/Flats
+
+Multicolored High-Top Sneakers
+A:
+Patterns: None
+Styles: Active, Casual, Unique
+SubCategories: Sneakers
+
+Camouflage Slip-ons
+A:
+Patterns: Patterned
+Styles: Cool, Casual
+SubCategories: Sneakers
+
+Zebra-Print Slip-ons
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Sneakers
+
+Python-Print Slip-ons
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Sneakers
+
+Suede Slip-ons
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sneakers
+
+Leopard-Print Slip-ons
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Sneakers
+
+Giraffe-Print Slip-ons
+A:
+Patterns: Animal,  Patterned
+Styles: Casual
+SubCategories: Sneakers
+
+Slip-ons
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sneakers
+
+Oblique-Toe Lace-up Shoes
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Pumps/Flats
+
+Mary Jane Shoes
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather
+
+Frilled Thick-Soled Sandals
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Sandals
+
+Thick-Soled Fur Sandals
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Leather,  Sandals
+
+T-Strap Pumps
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Pumps/Flats,  High Heels
+
+Classic Cabriole Pumps
+A:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Leather,  Pumps/Flats,  High Heels
+
+Tulip Flats w/ Center Seam
+A:
+Patterns: Floral
+Styles: Casual, Cute
+SubCategories: Pumps/Flats
+
+Triple-Bow Pumps
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Leather,  High Heels,  Pumps/Flats
+
+Clear-Heel Sandals
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sandals
+
+Gingham-Check Multicolored-Bead Sneakers
+A:
+Patterns: Plaid,  Traditional
+Styles: Cute, Unique, Casual
+SubCategories: Sneakers
+
+Multicolored-Bead Sneakers
+A:
+Patterns: None
+Styles: Cute, Unique, Casual
+SubCategories: Sneakers
+
+Lace-up Boots
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Leather,  Boots
+
+Almond-Toe Metallic High Heels
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: High Heels,  Pumps/Flats
+
+Low-Heel Leather Flats
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Leather,  Pumps/Flats
+
+Leather Rubber-Soled Shoes
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather
+
+Pointed-Toe Tweed High Heels
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: High Heels,  Pumps/Flats
+
+Pointed-Toe Leopard-Print High Heels
+A:
+Patterns: Animal,  Patterned
+Styles: Elegant, Cool, Casual
+SubCategories: High Heels,  Pumps/Flats
+
+Round Ballet Flats
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Leather,  Pumps/Flats
+
+Round Leather Ballet Flats
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Leather,  Pumps/Flats
+
+Ballet Flats w/ Line Design
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Leather,  Pumps/Flats
+
+Gingham-Check Ballet Flats
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Active
+SubCategories: Pumps/Flats
+
+Striped Ballet Flats
+A:
+Patterns: Striped
+Styles: Casual, Active
+SubCategories: Pumps/Flats
+
+Tweed Ballet Flats
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Pumps/Flats
+
+Faint Star-Print Ballet Flats
+A:
+Patterns: Patterned
+Styles: Casual, Active
+SubCategories: Pumps/Flats
+
+Plaid Sock Boots
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Leopard-Print Spike-Heel Sock Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Boots,  High Heels
+
+Python-Print Spike-Heel Sock Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Boots,  High Heels
+
+Glitter Cabriole Pumps
+A:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Leather,  Pumps/Flats,  High Heels
+
+Multicolored Nylon-Strap Sandals
+A:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Sandals
+
+Plain Open-Toe Pumps
+A:
+Patterns: None
+Styles: Casual, Cute, Elegant
+SubCategories: Pumps/Flats,  High Heels
+
+Wedge Sandals
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sandals
+
+Fluffy Heart Slippers
+A:
+Patterns: None
+Styles: Relaxed, Cute
+SubCategories: None
+
+Metallic Sneakers
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Leopard-Print Booties w/ Piping
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Boots,  High Heels
+
+Booties w/ Metal Embellishment
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Boots,  High Heels
+
+Short Cow-Print Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Short Star-Print Boots
+A:
+Patterns: Patterned
+Styles: Casual, Cute
+SubCategories: Boots,  High Heels
+
+Short Zebra-Print Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Boots,  High Heels
+
+Short Embroidered Velour Boots
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Boots,  High Heels
+
+Leopard-Print Lace-up Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Boots,  High Heels
+
+Short Boots w/ Acrylic Heels
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Leather,  Boots,  High Heels
+
+Short Suede Boots w/ Acrylic Heels
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Short Metallic Boots w/ Acrylic Heels
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Short Botanical-Print Boots w/ Acrylic Heels
+A:
+Patterns: Floral
+Styles: Casual, Elegant
+SubCategories: Boots,  High Heels
+
+Metallic Scalloped Boots w/ Bows
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Leather,  Boots,  High Heels
+
+Sneakers w/ Leg Warmers
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sneakers,  Socks
+
+Warm Boots w/ Bows
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Boots,  Accessories
+
+Long Python-Print Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Boots,  High Heels
+
+Long Suede Boots
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Text: Butterfly Dream Open-Toe High-Heels
+Patterns: Animal
+Styles: Unique, Elegant
+SubCategories: Sandals,  High Heels,  Accessories
+
+Royal Jeweled Dress Sandals
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Sandals,  High Heels,  Accessories
+
+Rainbow Platform Shoes A
+A:
+Patterns: Striped
+Styles: Casual, Unique, Cute
+SubCategories: Sneakers
+
+Flats w/ Ankle Straps
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: None
+
+Sneakers w/ Garter & Flame-Print Leg Warmers
+A:
+Patterns: Graphic
+Styles: Casual, Cool
+SubCategories: Sneakers,  Socks,  Accessories
+
+Belted Boots
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Boots,  Leather
+
+Pumps w/ Fur Accents
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Pumps/Flats,  High Heels
+
+Leopard-Print Boots
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Boots,  High Heels
+
+Lace-up Work Boots
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Boots,  Leather
+
+Metallic Lace-up Work Boots
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Boots,  Leather
+
+Wonder Parade Shoes A
+A:
+Patterns: None
+Styles: Unique, Elegant, Cute
+SubCategories: High Heels
+
+Lace-up Work Boots w/ Rose Embroidery
+A:
+Patterns: Floral
+Styles: Casual, Cool
+SubCategories: Boots
+
+Sneakers w/ Track Suit Leg Warmers
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Sneakers
+
+Gingham-Check Tweed Boots
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Tweed Boots
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Boots,  High Heels
+
+Mermaid See-through Pumps
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Pumps/Flats,  High Heels
+
+Button-up Boots
+A:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Boots,  High Heels,  Leather
+
+Roller Skates A
+A:
+Patterns: None
+Styles: Unique
+SubCategories: None
+
+Pointed-Toe Knee-High Boots
+A:
+Patterns: None
+Styles: Cool
+SubCategories: High Heels,  Boots,  Leather
+
+Loafers w/ Loose Socks
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Loafers,  Socks,  Leather
+
+Plain-Toe Blucher Shoes
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Sport Sandals
+B:
+Patterns: None
+Styles: Casual, Simple, Active
+SubCategories: Sandals
+
+Side-Gore Boots
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Leather,  Boots
+
+Deck Shoes
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: None
+
+Leather Slip-ons
+B:
+Patterns: None
+Styles: Casual, Simple, Elegant
+SubCategories: Leather
+
+Cased-Leather Sneakers
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Leather,  Shirts
+
+Work Boots
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots
+
+Hiking Boots
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Boots
+
+Checkered Slip-ons
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Sneakers
+
+Wooden-Soled Oxford Shoes
+B:
+Patterns: None
+Styles: Casual, Unique
+SubCategories: Leather
+
+Tasseled Loafers
+B:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Loafers
+
+Gurkha Sandals
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Sandals
+
+Geometric-Print High-Top Sneakers
+B:
+Patterns: Patterned
+Styles: Active, Casual, Cute
+SubCategories: Sneakers
+
+Zebra-Print High-Top Sneakers
+B:
+Patterns: Animal,  Patterned
+Styles: Active, Casual, Cool
+SubCategories: Sneakers
+
+Star-Print High-Top Sneakers
+B:
+Patterns: Patterned
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Striped High-Top Sneakers
+B:
+Patterns: Striped
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Leopard-Print High-Top Sneakers
+B:
+Patterns: Animal,  Patterned
+Styles: Cool, Active, Casual
+SubCategories: Sneakers
+
+Patent-Leather High-Top Sneakers
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Leather,  Shirts
+
+Plaid High-Top Sneakers
+B:
+Patterns: Plaid
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Paint-Splatter High-Top Sneakers
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Striped Sneakers
+B:
+Patterns: Striped
+Styles: Casual, Active
+SubCategories: Sneakers
+
+2-Tone Wool Deck Shoes
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: None
+
+Houndstooth-Print Deck Shoes
+B:
+Patterns: Plaid,  Traditional
+Styles: Elegant, Casual
+SubCategories: None
+
+Suede Deck Shoes
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: None
+
+Zori Sandals
+B:
+Patterns: None
+Styles: Simple, Casual
+SubCategories: Sandals
+
+Multicolored Sneakers
+B:
+Patterns: None
+Styles: Casual, Unique, Active
+SubCategories: Sneakers
+
+Striped Slip-ons
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Sneakers
+
+Star-Print Slip-ons
+B:
+Patterns: Patterned
+Styles: Casual, Cute
+SubCategories: Sneakers
+
+Gingham-Check Slip-ons
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Sneakers
+
+Cow-Print Slip-ons
+B:
+Patterns: Animal,  Patterned
+Styles: Casual
+SubCategories: Sneakers
+
+Zig-Zag Slip-ons
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Sneakers
+
+Quilted Slip-ons
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Sneakers
+
+Business Shoes
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Plain-Toe Polka-Dot Blucher Shoes
+B:
+Patterns: Dotted
+Styles: Casual, Elegant, Cool
+SubCategories: Leather
+
+Plain-Toe Patent-Leather Blucher Shoes
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Plain-Toe Suede Blucher Shoes
+B:
+Patterns: None
+Styles: Casual, Elegant, Cool
+SubCategories: None
+
+Plain-Toe Rose-Print Blucher Shoes
+B:
+Patterns: Floral
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Plain-Toe Metallic Blucher Shoes
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather
+
+Plain-Toe Twill-Weave Suede Blucher Shoes
+B:
+Patterns: None
+Styles: Casual, Elegant, Cool
+SubCategories: None
+
+Plain-Toe Floral Blucher Shoes
+B:
+Patterns: Floral
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Plain-Toe Leopard-Print Blucher Shoes
+B:
+Patterns: Animal,  Patterned
+Styles: Cool, Casual
+SubCategories: Leather
+
+Plain-Toe 2-Color Blucher Shoes
+B:
+Patterns: None
+Styles: Casual, Elegant, Cool
+SubCategories: Leather
+
+Straight-Tip Balmoral Shoes
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Tied Balmoral Shoes
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Running Shoes
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Thick-Soled Retro Sneakers
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Sneakers
+
+Double Monk-Strap Shoes
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Loafers w/ Royal Bows
+B:
+Patterns: None
+Styles: Casual, Cute, Elegant
+SubCategories: Loafers
+
+High-Top Athletic Shoes
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Mid-Calf Engineer Boots
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots
+
+Multicolored Double Monk-Strap Shoes
+B:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Leather
+
+Mid-Calf Patent-Leather Engineer Boots
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots
+
+Plaid Mid-Calf Engineer Boots
+B:
+Patterns: Plaid
+Styles: Casual, Cool
+SubCategories: Leather,  Boots
+
+Multicolored Sport Sandals
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Sandals
+
+Geometric-Print Sport Sandals
+B:
+Patterns: Patterned
+Styles: Casual, Active, Cool
+SubCategories: Sandals
+
+2-Tone Leather Loafers
+B:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Leather,  Loafers
+
+Suede Side-Gore Boots
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Boots
+
+Multicolored Work Boots
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Boots
+
+Bottle-Cap Print High-Top Sneakers
+B:
+Patterns: Patterned,  Graphic
+Styles: Active, Casual, Unique
+SubCategories: Sneakers
+
+Fluffy Boots w/ Bows
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Boots,  Accessories
+
+Pirate Boots
+B:
+Patterns: None
+Styles: Unique, Elegant, Cool
+SubCategories: Leather,  Boots,  High Heels
+
+Text: Butterfly Dream Boots
+B:
+Patterns: Animal
+Styles: Unique, Elegant
+SubCategories: Boots,  Accessories,  Leather
+
+Royal Jeweled Slip-ons
+B:
+Patterns: Traditional
+Styles: Elegant
+SubCategories: None
+
+Rainbow Platform Shoes B
+B:
+Patterns: Striped
+Styles: Casual, Unique, Cute
+SubCategories: Sneakers
+
+Shower Sandals
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Sandals
+
+Wonder Parade Shoes B
+B:
+Patterns: None
+Styles: Unique, Elegant, Cute
+SubCategories: High Heels
+
+High Tech Sneakers
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Sneakers
+
+Noble Buckle Shoes
+B:
+Patterns: None
+Styles: Elegant, Cool
+SubCategories: Leather
+
+Roller Skates B
+B:
+Patterns: None
+Styles: Unique
+SubCategories: None
+
+Pop-Star Hair Ornament w/ Hat
+A:
+Patterns: None
+Styles: Cute, Unique
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute, Unique
+SubCategories: Accessories
+
+Beret
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Hats
+
+2-Color Hair Ribbon
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+
+Bunny Sundae Hairband
+A:
+Patterns: Animal
+Styles: Cute, Unique
+SubCategories: Accessories
+B:
+Patterns: Animal
+Styles: Cute, Unique
+SubCategories: Accessories
+
+Faux-Leather Hairband
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Accessories,  Leather
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Accessories,  Leather
+
+Baseball Cap
+A:
+Patterns: None
+Styles: Active, Casual, Simple
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Active, Casual, Simple
+SubCategories: Hats
+
+Hunting Cap
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Hats
+
+Knit Hat w/ Label
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Hats
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Knits,  Hats
+
+Star-Print Knit Hat
+A:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Knits,  Hats
+B:
+Patterns: Patterned
+Styles: Casual
+SubCategories: Knits,  Hats
+
+Bucket Hat
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Hats
+
+Leather Bucket Hat
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Hats
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Hats
+
+Multicolored-Plaid Bucket Hat
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hats
+
+Sailor Hat
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Hats
+
+Newsboy Cap
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Hats
+
+Plaid Patchwork Newsboy Cap
+A:
+Patterns: Plaid
+Styles: Casual, Cute
+SubCategories: Hats
+B:
+Patterns: Plaid
+Styles: Casual, Cute
+SubCategories: Hats
+
+Gingham-Check Newsboy Cap
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Hats
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual, Cute
+SubCategories: Hats
+
+Leather Newsboy Cap
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Hats
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Leather,  Hats
+
+Suede Pillbox Hat
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Hats,  Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Hats,  Accessories
+
+Nurse Hairband
+A:
+Patterns: None
+Styles: Cute, Unique
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute, Unique
+SubCategories: Accessories
+
+Cross-Motif Hairband
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+
+Gingham-Bow Hairband
+A:
+Patterns: Plaid,  Traditional
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: Plaid,  Traditional
+Styles: Cute
+SubCategories: Accessories
+
+Heart-Print Bow Hairband
+A:
+Patterns: Patterned
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: Patterned
+Styles: Cute
+SubCategories: Accessories
+
+Hairband w/ Side Bow & Charm
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+
+Chocolate Side-Bow Hairband
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+
+Lacy Polka-Dot Bow Hairband
+A:
+Patterns: Dotted
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: Dotted
+Styles: Cute
+SubCategories: Accessories
+
+Strawberry-Gingham Print Hairband
+A:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: Fruit,  Patterned,  Graphic
+Styles: Cute
+SubCategories: Accessories
+
+Hairband w/ Jeweled Bow
+A:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute, Elegant
+SubCategories: Accessories
+
+Polka-Dot Bunny-Ears Hairband
+A:
+Patterns: Animal
+Styles: Cute, Unique
+SubCategories: Accessories
+B:
+Patterns: Animal
+Styles: Cute, Unique
+SubCategories: Accessories
+
+Frilled-Gingham Hairband w/ Bows
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+
+Knit Beret w/ Cat Silhouette
+A:
+Patterns: Animal
+Styles: Casual, Cute
+SubCategories: Knits,  Hats
+B:
+Patterns: Animal
+Styles: Casual, Cute
+SubCategories: Knits,  Hats
+
+Mesh-Front Baseball Cap
+A:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Active, Casual
+SubCategories: Hats
+
+Zebra-Print Baseball Cap
+A:
+Patterns: Animal,  Patterned
+Styles: Cool, Active, Casual
+SubCategories: Hats
+B:
+Patterns: Animal,  Patterned
+Styles: Cool, Active, Casual
+SubCategories: Hats
+
+Plaid Hunting Cap
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hats
+
+Plaid Bucket Hat
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hats
+
+Camouflage Bucket Hat
+A:
+Patterns: Patterned
+Styles: Cool, Casual
+SubCategories: Hats
+B:
+Patterns: Patterned
+Styles: Cool, Casual
+SubCategories: Hats
+
+Multicolored Bucket Hat
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Hats
+
+Diamond-Print Bucket Hat
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Hats
+
+Herringbone-Tweed Newsboy Cap
+A:
+Patterns: Striped
+Styles: Casual, Cute
+SubCategories: Hats
+B:
+Patterns: Striped
+Styles: Casual, Cute
+SubCategories: Hats
+
+Newsboy Cap w/ Leather Trim
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Leather,  Hats
+B:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Leather,  Hats
+
+Denim Newsboy Cap
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Denim,  Hats
+B:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Denim,  Hats
+
+Bear-Ears Hat
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Knits,  Hats
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Knits,  Hats
+
+Frilled Gingham Bandana
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Hats
+
+Pom-Pom Knit Hat
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Knits,  Hats
+B:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Knits,  Hats
+
+Nordic Knit Hat
+A:
+Patterns: Traditional,  Patterned
+Styles: Casual, Cute
+SubCategories: Knits,  Hats
+B:
+Patterns: Traditional,  Patterned
+Styles: Casual, Cute
+SubCategories: Knits,  Hats
+
+Fedora
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Hats
+
+Camellia Corsage
+A:
+Patterns: Floral
+Styles: Elegant, Cute
+SubCategories: Accessories
+B:
+Patterns: Floral
+Styles: Elegant, Cute
+SubCategories: Accessories
+
+Silk Hat w/ Feather & Rose Corsage
+A:
+Patterns: Floral
+Styles: Elegant, Unique, Cool
+SubCategories: Hats,  Accessories
+B:
+Patterns: Floral
+Styles: Elegant, Unique, Cool
+SubCategories: Hats,  Accessories
+
+Mini Hat w/ Strawberries & Bow
+A:
+Patterns: Fruit,  Floral
+Styles: Cute
+SubCategories: Hats,  Accessories
+B:
+Patterns: Fruit,  Floral
+Styles: Cute
+SubCategories: Hats,  Accessories
+
+Ribbon-Tie Beret w/ Bow
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Cute
+SubCategories: Hats
+
+Mini Jeweled Crown
+A:
+Patterns: None
+Styles: Unique, Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Unique, Elegant
+SubCategories: Accessories
+
+Marine Beret
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Hats
+
+Lace-up Beret w/ Bow
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Hats
+
+Classic Ribbon Hat
+A:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Hats
+
+Lace-Ribbon Straw Hat
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Hats
+
+Straw Hat w/ Little Bow
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Hats
+
+Straw Hat w/ Dotted Side Bow
+A:
+Patterns: Dotted,  Floral
+Styles: Casual, Cute
+SubCategories: Hats
+B:
+Patterns: Dotted,  Floral
+Styles: Casual, Cute
+SubCategories: Hats
+
+Witch Hat
+A:
+Patterns: None
+Styles: Unique, Elegant
+SubCategories: Hats,  Accessories
+B:
+Patterns: None
+Styles: Unique, Elegant
+SubCategories: Hats,  Accessories
+
+Pearl Hairband
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Royal Jeweled Tiara
+A:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant, Unique
+SubCategories: Accessories
+
+Colorful Monster Hat
+A:
+Patterns: Striped
+Styles: Unique, Cute
+SubCategories: Hats
+B:
+Patterns: Striped
+Styles: Unique, Cute
+SubCategories: Hats
+
+Cat-Ears Knit Hat w/ Ring
+A:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Hats,  Knits,  Accessories
+B:
+Patterns: None
+Styles: Casual, Cute
+SubCategories: Hats,  Knits,  Accessories
+
+Steampunk Hat
+A:
+Patterns: None
+Styles: Unique, Elegant, Cool
+SubCategories: Hats,  Accessories,  Glasses
+B:
+Patterns: None
+Styles: Unique, Elegant, Cool
+SubCategories: Hats,  Accessories,  Glasses
+
+Secret Museum Hairband
+A:
+Patterns: Patterned,  Graphic
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: Patterned,  Graphic
+Styles: Cute
+SubCategories: Accessories
+
+Knit Cap w/ Logo
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Hats,  Knits
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Hats,  Knits
+
+Baseball Cap w/ Logo
+A:
+Patterns: None
+Styles: Active
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Active
+SubCategories: Hats
+
+Gingham-Check Bucket Hat
+A:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: Plaid,  Traditional
+Styles: Casual
+SubCategories: Hats
+
+Plaid Hairband
+A:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Accessories
+B:
+Patterns: Plaid
+Styles: Casual
+SubCategories: Accessories
+
+Multicolored Party Hat w/ Pom-Pom
+A:
+Patterns: Striped
+Styles: Unique, Cute
+SubCategories: Hats
+B:
+Patterns: Striped
+Styles: Unique, Cute
+SubCategories: Hats
+
+Leopard-Print Fedora
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Hats
+B:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Hats
+
+Denim Baseball Cap
+A:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Denim,  Hats
+B:
+Patterns: None
+Styles: Casual, Active
+SubCategories: Denim,  Hats
+
+Sun Visor
+A:
+Patterns: Graphic
+Styles: Active, Casual
+SubCategories: Hats
+B:
+Patterns: Graphic
+Styles: Active, Casual
+SubCategories: Hats
+
+Striped Cat-Ears Knit Hat
+A:
+Patterns: Striped
+Styles: Casual, Cute
+SubCategories: Knits,  Hats,  Accessories
+B:
+Patterns: Striped
+Styles: Casual, Cute
+SubCategories: Knits,  Hats,  Accessories
+
+2-Tone Straw Hat
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Hats
+
+Gradient Beanie
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits,  Hats
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Knits,  Hats
+
+Fascinator Hat w/ Tulle
+A:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Hats
+B:
+Patterns: Floral
+Styles: Elegant
+SubCategories: Hats
+
+Ten-Gallon Hat
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Hats,  Leather
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Hats,  Leather
+
+Lace Bandana
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Hats
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Hats
+
+Crown Sunglasses
+Boston Glasses
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Glasses
+
+Oval Glasses
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Glasses
+
+Oversized Round Glasses
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Glasses
+
+Square Glasses
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Glasses
+
+Wellington Glasses
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Glasses
+
+Browline Glasses
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Glasses
+
+Round Glasses
+A:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Simple, Elegant
+SubCategories: Glasses
+
+Double-Bridge Glasses
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Glasses
+
+Heart Sunglasses
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Glasses
+
+Round Sunglasses
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Glasses
+
+Millennium Sunglasses
+A:
+Patterns: None
+Styles: Cool
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Cool
+SubCategories: Glasses
+
+Cyber Goggles
+A:
+Patterns: None
+Styles: Unique
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Unique
+SubCategories: Glasses
+
+Sunglasses w/ Jewelry
+A:
+Patterns: None
+Styles: Cool, Elegant
+SubCategories: Glasses
+B:
+Patterns: None
+Styles: Cool, Elegant
+SubCategories: Glasses
+
+Cherry-Blossom Earrings
+A:
+Patterns: Floral
+Styles: Cute, Elegant
+SubCategories: Accessories
+B:
+Patterns: Floral
+Styles: Cute, Elegant
+SubCategories: Accessories
+
+Dangling-Pearl Earrings
+A:
+Patterns: None
+Styles: Elegant, Cute, Simple
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant, Cute, Simple
+SubCategories: Accessories
+
+Bead-Loop Earrings
+A:
+Patterns: None
+Styles: Cute, Simple, Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute, Simple, Elegant
+SubCategories: Accessories
+
+Bow & Chocolate Earrings
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+
+Jeweled-Heart Earrings
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Accessories
+
+Small Wide Loop Earrings
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Accessories
+
+Tulip & Bow Earrings
+A:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Accessories
+B:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Accessories
+
+Bear & Heart-Loop Earrings
+A:
+Patterns: Animal
+Styles: Cute, Casual
+SubCategories: Accessories
+B:
+Patterns: Animal
+Styles: Cute, Casual
+SubCategories: Accessories
+
+Lemon-Heart Earrings
+A:
+Patterns: Fruit
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: Fruit
+Styles: Cute
+SubCategories: Accessories
+
+Dinosaur-Egg Earrings
+A:
+Patterns: None
+Styles: Cool, Unique
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cool, Unique
+SubCategories: Accessories
+
+Heart & Bunny Earrings
+A:
+Patterns: Animal
+Styles: Cute, Unique
+SubCategories: Accessories
+B:
+Patterns: Animal
+Styles: Cute, Unique
+SubCategories: Accessories
+
+Bow & Pom-Pom Earrings
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: Accessories
+
+Polished-Stone Earrings
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Hoop Earrings
+A:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Casual, Simple
+SubCategories: Accessories
+
+Pyramid Stud Earrings
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Accessories
+
+Crown Earrings
+A:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant, Cute
+SubCategories: Accessories
+
+Lightning-Bolt Earrings
+A:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Casual, Cool
+SubCategories: Accessories
+
+Earrings w/ Ribbon Tassels
+A:
+Patterns: Striped
+Styles: Casual
+SubCategories: Accessories
+B:
+Patterns: Striped
+Styles: Casual
+SubCategories: Accessories
+
+Teardrop Loop Earrings
+A:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant, Casual
+SubCategories: Accessories
+
+Leopard-Print Earrings
+A:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Accessories
+B:
+Patterns: Animal,  Patterned
+Styles: Casual, Cool
+SubCategories: Accessories
+
+Wicker Earrings
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Bat & Coffin Earrings
+A:
+Patterns: Animal
+Styles: Unique, Cool, Elegant
+SubCategories: Accessories
+B:
+Patterns: Animal
+Styles: Unique, Cool, Elegant
+SubCategories: Accessories
+
+Retro Flower-Power Earrings
+A:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Accessories
+B:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Accessories
+
+Shell Earrings
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Spike & Hoop Earrings
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Accessories
+
+Chain Earrings
+A:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cool, Casual
+SubCategories: Accessories
+
+Vintage Pearl Earrings
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Glossy Acrylic Earrings
+A:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Casual, Elegant
+SubCategories: Accessories
+
+Earrings w/ Chinese Frog-Knot Tassels
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Flower Crepe-Craft Earrings
+A:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Accessories
+B:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Accessories
+
+Folded-Ribbon Earrings
+A:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Accessories
+B:
+Patterns: Floral
+Styles: Cute, Casual
+SubCategories: Accessories
+
+Butterfly Dream Ear Cuffs
+A:
+Patterns: Animal
+Styles: Unique, Elegant, Cute
+SubCategories: Accessories
+B:
+Patterns: Animal
+Styles: Unique, Elegant, Cute
+SubCategories: Accessories
+
+Bejeweled Earrings
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Royal Jeweled Earrings
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Pearl Cameo Earrings
+A:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant
+SubCategories: Accessories
+
+Heart-Shaped Wireless Earbuds
+A:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: None
+B:
+Patterns: None
+Styles: Cute, Casual
+SubCategories: None
+
+Wonder Parade Earrings
+A:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Cute
+SubCategories: Accessories
+
+Mermaid Ear Cuffs
+A:
+Patterns: None
+Styles: Unique
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Unique
+SubCategories: Accessories
+
+Celestial Earrings
+A:
+Patterns: None
+Styles: Casual
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Casual
+SubCategories: Accessories
+
+One Bead Pearl Earrings
+A:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Accessories
+B:
+Patterns: None
+Styles: Elegant, Simple
+SubCategories: Accessories

@@ -15,3 +15,9 @@ workspace_draft/spacy_and_parsing/database
 train.spacy
 dev.spacy
 output
+output*
+final_product/training/unclean_data/google_html
+final_product/training/unclean_data/json_drafts
+dev_3*
+train_3*
+final_product/training/clean_data/product_json
