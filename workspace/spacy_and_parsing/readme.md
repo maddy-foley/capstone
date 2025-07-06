@@ -1,1 +1,0 @@
-The files may not be functional, this is just to keep track personal work, parsing and training that became a bit messy.
