@@ -3,6 +3,7 @@ import os
 from bs4 import BeautifulSoup
 from typing import Union,Optional
 
+# this was just to help repetative tasks like opening and saving files
 
 class FileManager:
     def __init__(self,file_path:str):
