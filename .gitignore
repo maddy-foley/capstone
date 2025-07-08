@@ -14,8 +14,8 @@ workspace_draft/data/raw-txt
 workspace_draft/spacy_and_parsing/database
 train.spacy
 dev.spacy
-output
-output*
+# output
+# output*
 dev_3*
 train_3*
 *old.py
