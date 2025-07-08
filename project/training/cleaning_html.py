@@ -1,7 +1,7 @@
 import json
 import spacy
-from file_manager import JSONFileManager
-from directory_manager import DirectoryManager
+from project.file_manager import JSONFileManager
+from project.directory_manager import DirectoryManager
 from bs4 import BeautifulSoup
 import re
 

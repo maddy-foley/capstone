@@ -4,7 +4,7 @@ from statistics import mean
 # Data from training session
 all_training_data = {
 }
-my_nlp = spacy.load('output_3/model-best')
+my_nlp = spacy.load('output/model-best')
 
 
 def write_stats_txt_to_json(file_name):
@@ -35,7 +35,7 @@ def write_stats_txt_to_json(file_name):
     last_performance = {}
     
     best_performance_met = my_nlp.meta['performance']
-    last_performance_file = JSONFileManager('output_3/model-last/meta.json')
+    last_performance_file = JSONFileManager('output/model-last/meta.json')
     last_performance_met = last_performance_file.read_file()['performance']
     
     
@@ -50,9 +50,9 @@ def write_stats_txt_to_json(file_name):
     res = {'best': best_performance ,'all': all_training_data,'mean_epoch':mean_epoch_data,'last':last_performance}
     
     
-    json_file = JSONFileManager("notebook")
-    json_file.write_json_file(res,'all_pipeline_stats_3')
+    json_file = JSONFileManager("project/data")
+    json_file.write_json_file(res,'all_pipeline_stats')
 
 
 # runs a script to load json
-# write_stats_txt_to_json("notebook/pipeline_output_3.txt")
+write_stats_txt_to_json("pipeline_output.txt")

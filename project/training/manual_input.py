@@ -1,6 +1,6 @@
 import json
 import os
-from file_manager import CustomHTMLFile, FileManager
+from project.file_manager import CustomHTMLFile, FileManager
 from bs4 import BeautifulSoup
 
 # not allowed to scrape google so this file helps make links to copy and paste

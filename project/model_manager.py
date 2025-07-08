@@ -9,7 +9,7 @@ import pandas as pd
 class DualDocAnalysis:
     # Initializes both models
     # requires either input text or a file -> Must specify when declairing
-    def __init__(self,nlp_model="en_core_web_lg",ner_model="../output_3/model-best",text=None,file=None):
+    def __init__(self,nlp_model="en_core_web_lg",ner_model="../output/model-best",text=None,file=None):
         if file:
             self.text = FileManager(file).read_file()
         else:
@@ -46,7 +46,7 @@ class ProductModel(DualDocAnalysis):
                 self.freq[e.text.lower()] += 1            
         # analyze entities that appear more than 1 times.
         # project's use case expects the input contains several listings of a single product
-        self.main_entities = [e for e in self.ner_doc.ents if self.freq[e.text.lower()] > 1]
+        self.main_entities = [e for e in self.ner_doc.ents if self.freq[e.text.lower()]]
 
     def get_related_spans(self):
     
@@ -82,9 +82,12 @@ class ProductModel(DualDocAnalysis):
         }
         
         for i, ent in enumerate(self.main_entities):
-            token = self.nlp_doc[ent.start]
-            token_head = token
+            token = self.nlp_doc[ent.start:ent.end]
             lower_token_text = token.text.lower()
+            # print(ent)
+            if lower_token_text not in self.ling_info:
+                print(lower_token_text)
+                continue
             self.ling_info[lower_token_text] = self.get_ling_token_info(token,self.ling_info[lower_token_text])
             
     def get_ling_token_info(self,token,dic):

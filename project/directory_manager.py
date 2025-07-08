@@ -11,6 +11,8 @@ class DirectoryManager:
     def get_all_imediate_subdirectories(self):
         arr = []
         for dir in os.listdir(self.directory):
+            if os.path.isfile(self.directory + '/' + dir):
+                continue
             arr.append(self.directory + '/' + dir)
         return arr
     

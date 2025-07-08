@@ -21,3 +21,6 @@ final_product/training/unclean_data/json_drafts
 dev_3*
 train_3*
 final_product/training/clean_data/product_json
+*old.py
+project/training/product_json
+project/training/unclean_data

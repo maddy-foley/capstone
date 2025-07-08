@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib
 import numpy as np
-from file_manager import JSONFileManager
+from project.file_manager import JSONFileManager
 import ipywidgets as widgets
 from IPython.display import display
 import pandas as pd

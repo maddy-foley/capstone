@@ -1,4 +1,4 @@
-from file_manager import FileManager, CustomJSONFile
+from project.file_manager import FileManager, CustomJSONFile
 import spacy
 
 nlp = spacy.load('en_core_web_lg')
