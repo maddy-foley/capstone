@@ -1,0 +1,99 @@
+bonnet
+sombrero
+beret
+headband
+beanie
+helmet
+cap
+shoes
+flip-flops
+heels
+boots
+espadrilles
+ballet flats
+sandals
+slippers
+moccasins
+sneakers
+socks
+loafers
+suspenders
+fannypack
+backpack
+hat
+wristlet
+tote
+watch
+handbag
+scarf
+necktie
+satchel
+purse
+tie
+belt
+coveralls
+lab coat
+personal protection gear
+fatigues
+scrubs
+hazmat suit
+uniform
+spacesuit
+school uniform
+onesie
+bib
+romper
+diaper
+t-shirt
+blouse
+pajamas
+shirt
+jumpsuit
+pants
+hoodie
+shorts
+sweater
+kimono
+overalls
+suit
+skirt
+dress
+gown
+locket
+brooch
+ring
+pendant
+bracelet
+anklet
+necklace
+charm bracelet
+signet ring
+earring
+waist chain
+body piercing jewelry
+visor
+glasses
+pumps
+sunglasses
+sweatpant
+jogger
+sweatshirt
+apron
+tiara
+overalls
+miniskirt
+bandana
+jeans
+vest
+ribbon
+skort
+gown
+pullover
+parka
+coat
+blazer
+windbreaker
+jacket
+raincoat
+cardigan
+overcoat

@@ -4,7 +4,7 @@ from project.file_manager import CustomHTMLFile, FileManager
 from bs4 import BeautifulSoup
 
 # not allowed to scrape google so this file helps make links to copy and paste
-BASE_SAVE_DIR = 'final_product/training/unclean_data/google_html'
+BASE_SAVE_DIR = 'product/training/unclean_data/google_html'
 
 search_engines = {
     'etsy':{
@@ -20,7 +20,7 @@ search_engines = {
         'item_patterns': '+'
         }
 }
-save_path_google = f"final_product/training/unclean_data/google_html"
+save_path_google = f"product/training/unclean_data/google_html"
 # os.listdir(BASE_SAVE_DIR)
 
 
@@ -108,13 +108,13 @@ def manual_input_tracker(content,engine_name: str):
             
             continue
 
-# json_file_input = FileManager('final_product/training/unclean_data/json_drafts/new_fashion_items_01.json')
+# json_file_input = FileManager('product/training/unclean_data/json_drafts/new_fashion_items_01.json')
 # content = json_file_input.read_file()
 
-# make_files(content,'final_product/training/unclean_data/google_html/')
+# make_files(content,'product/training/unclean_data/google_html/')
 # manual_input_tracker(etsy)
 
-json_file_input = FileManager('final_product/training/unclean_data/json_drafts/new_fashion_items_01.json')
+json_file_input = FileManager('product/training/unclean_data/json_drafts/new_fashion_items_01.json')
 content = json_file_input.read_file()
 manual_input_tracker(content,'google')
 
