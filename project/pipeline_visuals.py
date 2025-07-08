@@ -8,7 +8,7 @@ import pandas as pd
 
 class PipeLineVisuals:
     def __init__(self):
-        self.file_name = '../notebook/data/all_pipeline_stats_3.json'
+        self.file_name = '../project/data/all_pipeline_stats.json'
         self.epoch = []
         self.scores = {
             'F-Score':[],

@@ -124,7 +124,6 @@ def find_and_save_all_ents(file_paths):
                 has_ws = token.whitespace_ == ' '
                 spaces.append(has_ws)
 
-        
             new_doc = Doc(nlp.vocab,words=words,ents=ents,spaces=spaces)
             db_dev.add(new_doc) 
 
