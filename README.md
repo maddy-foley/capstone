@@ -20,7 +20,7 @@
 
 
 <p> 
-This NER is trained off of google search data and built from a "blank" spaCy English model. spaCy's pre-trained "en_web_core_lg" model was used to prepare the linguistic analysis.
+This NER is trained off of google search data and built from a "blank" spaCy English model. spaCy's pre-trained "en_core_web_lg" model was used to prepare the linguistic analysis.
 </p>
 
 ### Built with
