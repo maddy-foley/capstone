@@ -16,7 +16,7 @@
   <summary>Table of Contents :mag: </summary>
   <ol>
     <li>
-      <a href="#about-fashioNER">About fashioNER</a>
+      <a href="#about-fashioner">About fashioNER</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -129,9 +129,10 @@ This NER is trained on Google search data and built from a "blank" spaCy English
 
 All code for model methods can be found under /project/model_manager.py
 
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
+
 ### Input: 
 The program accepts plain text (not a file) or an HTML file as input; **must** specify the type of input when initializing the ProductModel. For the most informative results, please include a paragraph or more about a fashion product.
-
 
 <img src="assets/images/input.jpeg">
 
@@ -163,12 +164,16 @@ Select desired widgets and run Box 4 to create a table to view most common words
 ## Train Model
 All training code can be found under project/preprocess.py. It takes an HTML file as input. It expects the name of the HTML file to be the product's name followed by a version number ex: "goggles_01.html".
 
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
+
 ### Annotation
 The file project/preprocess.py handles HTML cleaning, adds annotation and divides data into to a dev.spacy and train.spacy file for training. 
 
 Some "tricky" or underrepressented words could miss annotation. Currently it can handle hyphenated words, most pluralizations, and unique English spelling conventions (ex: it label all 3 variants: Scarf, Scarves, and Scarfs as a product entity). 
 
 It can struggle with **pluralia tantum** - words that are <i> always or typically</i> pluralized (ex: pants, scissors). Extra care for appropriate annotation will be needed for this.
+
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
 
 ### Training
 Configuration edits go into base_config.cfg. Visit spacy training documentations for additional information.
