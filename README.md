@@ -95,15 +95,80 @@ This NER is trained off of google search data and built from a "blank" spaCy Eng
 </ol>
 
 ## Usage
-### Input: 
-The program accepts plain text (not a file) or an HTML file as input - **must** specify which type the input is when initializing the ProductModel.
 
-<img src="./assets/images/input.jpeg">
+All code for model methods can be found under /project/model_manager.py
+
+### Input: 
+The program accepts plain text (not a file) or an HTML file as input; **must** specify the type of input when initializing the ProductModel. For the most informative results, please include a paragraph or more about a fashion product.
+
+
+<img src="assets/images/input.jpeg">
 
 #### HTML file input
-I recommend using the first page of a product search on Google. This NER was trained on Google queries.
-I recommend saving the body text:
+I recommend using the first page of a product search on Google. This NER was trained specifically on Google queries. 
+
+I recommend saving the body element:
 <img src="assets/images/google_example.jpeg" > 
+
+
+### Output:
+#### NER visualizer
+Block 2A reads text and block 2B reads HTML. These can be adjusted as needed - all code for them can be found in model_manager.py.
+
+Sometimes the UI can go wonky after running. Please refresh the page or scroll back up.
+
+<img src="assets/images/necklace_2b.jpg">
+
+
+#### Table Analysis Breakdown
+Run Box #3 to initialize widgets to customize the analysis. **DO NOT** rerun box #3 unless you want to refresh the values to their defaults.
+
+Select desired widgets and run Box 4 to create a table to view most common words. 
+
+<img src="assets/images/table_4.jpeg">
+
+
+## Accuracy:
+This code can be found under /project/pipeline_visuals.py
+### Visuals
+
+#### Trainging Prediction Scores per Epoch:
+<img src="assets/images/pipe_line_graph.jpeg">
+
+
+#### NER Loss per Epoch
+The initial rising spike happens because the machine had to learn a new label (product) from scratch. It decreases as it gets better at guessing the label. 
+
+<img src="assets/images/ner_loss.jpeg">
+
+
+
+## Train Model
+All training code can be found under project/preprocess.py. It takes an HTML file as input. It expects the name of the HTML file to be the product's name followed by a version number ex: "goggles_01.html".
+
+### Annotation
+The file project/preprocess.py handles HTML cleaning, adds annotation and divides data into to a dev.spacy and train.spacy file for training. 
+
+Some "tricky" or underrepressented words could miss annotation. Currently it can handle hyphenated words, most pluralizations, and unique English spelling conventions (ex: it label all 3 variants: Scarf, Scarves, and Scarfs as a product entity). 
+
+It can struggle with **pluralia tantum** - words that are <i> always or typically</i> pluralized (ex: pants, scissors). Extra care for appropriate annotation will be needed for this.
+
+### Training
+Configuration edits go into base_config.cfg. Visit spacy training documentations for additional information.
+<ol>
+<li>
+To initialize configurations: 
+<code>
+  python -m spacy init fill-config base_config.cfg config.cfg
+</code>
+</li>
+<li>
+Command to train and save output model: 
+<code>
+  python -m spacy train config.cfg --output ./output --paths.train ./train.spacy --paths.dev ./dev.spacy
+</code>
+</li>
+</ol>
 <!-- variables -->
 
 [Jupyter Notebook]: https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white
