@@ -1,3 +1,4 @@
+<a id="readme-top"></a>
 <br />
 <div align="center">
     <!-- <img src="" alt="Logo" width="80" height="80"> -->
@@ -11,17 +12,44 @@
 
 </div>
 
+<details>
+  <summary>Table of Contents :mag: </summary>
+  <ol>
+    <li>
+      <a href="#about-fashioNER">About fashioNER</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#setup">Setup</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+      <ul>
+        <li><a href="#input">App Input</a></li>
+        <li><a href="#output">App Output</a></li>
+        <li><a href="#training">Training</a></li>
+      </ul>
+      <li><a href="#accuracy">Accuracy</a></li>
+  </ol>
+</details>
+
 
 
 ## About fashioNER
 <!-- <img src=""> -->
 
-<p>fashioNER is an natural language processing (NLP) and computational linguistic exploratory project developed to analyze sentences about fashion-related products. This NER is trained to identify ~100 common product names and creates a data report about the descriptive words that appear nearby. The use case is to analyze listings or information about products from a search engine page. </p>
+<p>fashioNER is a natural language processing (NLP) and computational linguistics exploratory project developed to analyze sentences about fashion-related products. This named entity recognizer (NER) is trained to identify ~100 common product names and creates a data report about the descriptive words that appear nearby. The use case is to analyze listings or information about products from a search engine page. </p>
 
 
 <p> 
-This NER is trained off of google search data and built from a "blank" spaCy English model. spaCy's pre-trained "en_core_web_lg" model was used to prepare the linguistic analysis.
+This NER is trained on Google search data and built from a "blank" spaCy English model. spaCy's pre-trained "en_core_web_lg" model was used to prepare the linguistic analysis.
 </p>
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
 
 ### Built with
 
@@ -30,6 +58,7 @@ This NER is trained off of google search data and built from a "blank" spaCy Eng
 
 [![spaCy][spaCy]][spaCy-url]
 
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
 
 ## Getting Started
 
@@ -94,6 +123,8 @@ This NER is trained off of google search data and built from a "blank" spaCy Eng
   </li>
 </ol>
 
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
+
 ## Usage
 
 All code for model methods can be found under /project/model_manager.py
@@ -127,21 +158,7 @@ Select desired widgets and run Box 4 to create a table to view most common words
 
 <img src="assets/images/table_4.jpeg">
 
-
-## Accuracy:
-This code can be found under /project/pipeline_visuals.py
-### Visuals
-
-#### Trainging Prediction Scores per Epoch:
-<img src="assets/images/pipe_line_graph.jpeg">
-
-
-#### NER Loss per Epoch
-The initial rising spike happens because the machine had to learn a new label (product) from scratch. It decreases as it gets better at guessing the label. 
-
-<img src="assets/images/ner_loss.jpeg">
-
-
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
 
 ## Train Model
 All training code can be found under project/preprocess.py. It takes an HTML file as input. It expects the name of the HTML file to be the product's name followed by a version number ex: "goggles_01.html".
@@ -169,6 +186,26 @@ Command to train and save output model:
 </code>
 </li>
 </ol>
+
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
+
+## Accuracy:
+This code can be found under /project/pipeline_visuals.py
+### Visuals
+
+#### Trainging Prediction Scores per Epoch:
+<img src="assets/images/pipe_line_graph.jpeg">
+
+
+#### NER Loss per Epoch
+The initial rising spike happens because the machine had to learn a new label (product) from scratch. It decreases as it gets better at guessing the label. 
+
+<img src="assets/images/ner_loss.jpeg">
+
+<p align="right"><a href="#readme-top">:arrow_up: back to top</a></p>
+
+
+
 <!-- variables -->
 
 [Jupyter Notebook]: https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white
